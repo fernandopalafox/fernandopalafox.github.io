@@ -1,6 +1,7 @@
 ---
-title: My Favorite Links
+title: My favorite blogs
 ---
+WIP
 
 Here's a list of links that have influence how I think
 

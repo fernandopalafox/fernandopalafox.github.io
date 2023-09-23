@@ -2,18 +2,18 @@
 title: about
 ---
 
-I am a PhD student in Aerospace Engineering at the [CLeAR Laboratory](https://clearoboticslab.github.io/) at the University of Texas at Austin. I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) and I work on developing novel methods to enhance robots' comprehension of their interactions with humans. My research involves expertise in the areas of multi-agent planning, controls, machine learning, and game theory.
+![[headshot.jpg|250]]
 
-Prior to joining UT Austin, I earned my Bachelor's and Master's degrees in Aerospace Engineering from the University of Colorado Boulder. During my time there, I worked on satellite navigation technologies and software-defined radios at the [RF & SatNav Laboratory](https://www.colorado.edu/lab/rf-satnav/) with [Dr. Dennis Akos](https://www.colorado.edu/aerospace/dennis-akos). 
+ I am a PhD student at the Department of Aerospace Engineering at UT Austin I am interested in **artificial intelligence in the context of multi-agent interactions**. Concretely, I design control strategies for multi-agent interactions so that robots can safely, and seamlessly, interact with humans in the world. My work leverages dynamic game theory, optimal control, and machine learning.  I am part of the the [CLeAR Laboratory](https://clearoboticslab.github.io/) and I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) .
 
-I am passionate about [health and longevity](health.md)
+If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on Google Scholar, GitHub, LinkedIn, Instagram, or Strava.
+### Links
 
-Here's a list of my [favorite links](links.md)
+- [Health and longevity](health.md)
+- [Brief bio](bio.md)
+- [Non-technical AI resources](ai-resources.md)
+- [Favorite blogs and links](blogs.md)
+- [Favorite podcasts](podcasts)
+- [Books I'm reading](books.md)
 
-I am also an avid [ultra-endurance cyclist](https://www.strava.com/activities/8737219081) and sometimes [write about my adventures](https://theradavist.com/argentina-gravel-cycling/). 
-
-If you have any questions or comments, [email](mailto:fernandopalafox@utexas.edu) is the best way to reach me. 
-
-Links to socials
-
-Another test change 
+![[pull_3D.gif|250]]
