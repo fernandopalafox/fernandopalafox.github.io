@@ -9,6 +9,7 @@ Here's a list of links that have influence how I think
 - Near Cyan blog
 - Yudkowsky singularity
 - gwern's blog
+- Bryan Johnson's blueprint 
 
-You might also be interested in my [favorite books](books.md)
+You might also be interested in my [what I'm reading](books.md)
 

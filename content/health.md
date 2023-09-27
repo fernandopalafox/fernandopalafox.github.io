@@ -1,7 +1,13 @@
 ---
 title: Health and Longevity
 ---
-I'm a big fan of excercise and undertanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading about health and longevity. Here's a list of what I do to stay healthy, and some of the resources I've found helpful.
+I'm a big fan of excercise and undertanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading about longevity, excercise, and diet. Here's a list of what I do to stay healthy, and some of the resources I've found helpful.
+
+- [Exercise](#exercise)
+- [Sleep](#sleep)
+- [Supplements](#supplements)
+- [Measurements](#measurements)
+- [Resources](#resources)
 
 # Exercise
 My current focus is on strength and endurance and my weekly routine consists of 3-4 weighlifting sessions (I follow the [ATG program](https://www.atgonlinecoaching.com/)), and a mix of cycling and running (coached by [Brad Seng](https://www.d3multisport.com/our-coaches/brad-seng)). I try to get at least one high-intensity cardio workout a week (e.g. intervals on the run, or a hard group ride/race on the bike), and one long ride (3+ hrs). I also don't have a car, so I move on a bike most of the time, amounting to an extra 2-3 hours of low-intensity cardio a week.
@@ -15,22 +21,26 @@ However, I increasingly found myself at odds with the whole point of excercising
 
 # Sleep 
 
-I aim for at least 8 hours of sleep a night. I've found that any extra work hours I get from sleeping less are completely offset by the reduced productivity. I've tried tracking sleep with devices like Whoop, but I didn't find the data very actionable. Honestly, sleeping enough and keeping a consistent sleep schedule is all you really need. Here's the podcast where I first heard about the importance of sleep:
+I aim for at least 8 hours of sleep a night. I've found that any extra work hours I get from sleeping less are mostly offset by the reduced productivity. I've tried tracking sleep with devices like Whoop, but I didn't find the data to be very actionable. Honestly, sleeping enough and keeping a consistent sleep schedule is all you really need. Here's the podcast where I first heard about the importance of sleep:
 - [Andrew Huberman and Matt Walker on sleep](https://www.youtube.com/watch?v=gbQFSMayJxk)
 
 # Supplements
 
-I do not recommend taking any supplemenets without consulting a doctor. Here's a list I've put together that includes the supplements I take, what they're for and price/mg. My favorite are: 
-- **Caffeine**. The cognitive benefits of caffeine are undeniable. Taking too much gets me a little too wound up so I really only take it once or twice a week. Big fan of using for hard workouts too. 
-- **Omega 3s**. Pretty compelling evidence that they're safe and good for your brain . Easy to 
-- **Electrolytes**. I sweat *a lot* (as in 2+L/hour on a hot Texas day), and I lose about 1g of sodium per hour. It took me way too long to realize that much of the mental fog I was experiencing was due to dehydration and I found that 1-2 LMNT packets a day is immensely helpful (more on days where I have long workouts outside). I'm a big fan of them since they have no added sugar taste decently well. 
-
+I do not recommend taking any supplemenets without first consulting a doctor. [Here's a list](https://docs.google.com/spreadsheets/d/1SLvUedtbfI9P0huaCIQEsxESnAF2JUXrzqLDqs1By6k/edit#gid=0) I've put together that includes the supplements I take, what they're for, and approximate price/mg. My favorite are: 
+- **Caffeine**. The cognitive benefits of caffeine are undeniable. I'm very sensitive to it so I only partake once or twice a week. I'm a big fan of using for hard workouts too. 
+- **Omega 3s**. Pretty compelling evidence that they're safe and good for your brain. Easy to find and safe. 
+- **Electrolytes**. I sweat *a lot* (as in 2+L/hour on a hot Texas day), and I lose about 1g of sodium per liter of sweat. It took me way too long to realize that much of the mental fog I was experiencing was due to dehydration, and I've found that 1-2 [LMNT](https://drinklmnt.com/) packets a day is immensely helpful (more on days where I have long workouts outside). I'm a big fan of them since they have no added sugar and have decent flavors.
 
 # Measurements 
 
 I try to get bloodwork done at least once every 6 months. I'm generally looking at my testosterone, cholesterol, and blood counts. I've also recently started getting DEXA scans once or twice a year, which is very helpful in measuring body composition changes as I'v added more weighlifting into my routine. I also keep track of sleep hours and weight. I'm interested in testing out continuous glucose monitors and some portable metabolic testing devices, and I may give HRV tracking another shot.
 
+<!-- # Meditation 
+
+WIP -->
+
 # Resources
 - [Peter Attia's podcast](https://peterattiamd.com/podcast/)
 - [Andrew Huberman's podcast](https://hubermanlab.com)
 - [Gwern on measuring sleep and Quantified Self](https://gwern.net/zeo/zeo)
+- [Bryan Johnson's Blueprint](https://blueprint.bryanjohnson.co/)
