@@ -27,9 +27,10 @@ Other projects (links forthcoming)
 * Autonomous driving using kinodynamic goal-bias RRT
 * Maximum-likelihood estimation of signal-to-noise ratio for GNSS signals
 
-<!---
+
 ### Other interests/links
 - [Health and longevity](health.md)
+<!---
 - [Brief bio](bio.md)
 - [Non-technical AI resources](ai-resources.md)
 - [Favorite blogs and links](blogs.md)
