@@ -3,11 +3,9 @@ title: about
 ---
 ![[media/headshot.jpg|250]]
 
- I am a PhD student at the Department of Aerospace Engineering at UT Austin. I am interested in **artificial intelligence for multi-agent interactions**. Concretely, I design control strategies for multi-agent interactions so that robots can safely, and smoothly, interact with other robots or humans. My work leverages dynamic game theory, optimal control, and machine learning. I am part of the the [CLeAR Laboratory](https://clearoboticslab.github.io/) and I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) .
+ I am a PhD student at the Department of Aerospace Engineering at UT Austin. I am interested in **artificial intelligence for multi-agent interactions**. Concretely, I design control strategies for multi-agent interactions so that robots can safely, and smoothly, interact with other robots or humans. My work leverages dynamic game theory, optimal control, and machine learning. I am part of the the [CLeAR Laboratory](https://clearoboticslab.github.io/) and I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
 
-If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=q0dyHx4AAAAJ&hl=en), [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/), [Instagram](https://www.instagram.com/palaf_x/), or [Strava](https://www.strava.com/athletes/27635180).
-
-Here's a project I'm working on right now: [hyperplane inference for collision-avoidance in space](https://github.com/fernandopalafox/InverseHyperplanes.jl)
+ Here's a project I'm working on right now: [hyperplane inference for collision-avoidance in space](https://github.com/fernandopalafox/InverseHyperplanes.jl)
 
 <table>
   <tr>
@@ -22,7 +20,13 @@ Here's a project I'm working on right now: [hyperplane inference for collision-a
   </tr>
  </table>
 
-Other projects ([pdf's here](https://drive.google.com/drive/folders/1F9Ay-TXPotFZ08XSMGUULeJu0NBLtuFX?usp=sharing))
+ In the past I've also worked on software-defined radios for satellite navigation systems and low-cost, local positioning systems. I'm also an avid cyclist and I love reading (current book is David Deutsch's *The Beginning of Infinity*).
+
+If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=q0dyHx4AAAAJ&hl=en), [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/), [Instagram](https://www.instagram.com/palaf_x/), or [Strava](https://www.strava.com/athletes/27635180).
+
+
+
+### Projects ([PDF link](https://drive.google.com/drive/folders/1F9Ay-TXPotFZ08XSMGUULeJu0NBLtuFX?usp=sharing))
 * Autonomous driving using sequential quadratic programming
 * Autonomous driving using kinodynamic goal-bias RRT
 * Maximum-likelihood estimation of signal-to-noise ratio for GNSS signals
