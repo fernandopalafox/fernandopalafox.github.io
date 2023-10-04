@@ -26,6 +26,7 @@ Altough I grew up playing sports, I never trained for anything seriously. This c
 - [Unbound 200](https://www.strava.com/activities/7256188457) 
 - [Tour de Croc](https://www.strava.com/activities/7348087456)
 - [East Texas Showdown](https://www.strava.com/activities/8737219081)
+
 However, I increasingly found myself at odds with the whole point of excercising: to be the strongest, healthiest version of myself. And being fit on the bike optimizes for two very specific things: cardiovascular fitness and low weight. I felt weak off the bike and nursing overuse injuries, so I decided to add some variety with strength training and running.  
 
 There is also a practical reason I exercise: I have a family history of obesity and diabetes, and even with my relatively active lifestyle, I'm still at risk (as evidenced by my [bloodwork](#measurements)). 
@@ -62,20 +63,21 @@ I've tried all sorts of diets and I've found the most sustainable approach are t
 - If cutting eat at a slight caloric deficit (10-15%). Err on the side of eating more. Don't overdo this. 
 - Avoid danger foods (processed, high-sugar, or high-fat foods) when I'm tired, stressed, or hungry.
 - No alcohol. 
-I'm not a monk, and of course there's exceptions. I track my weight daily for fun, but I mostly look for long-term trends (i.e. whether I'm bulking, cutting, or staying), and I don't stress out over short-term fluctuations.
 
-I try to never workout fasted. I normally aim to replace what I burn (in terms of calories), but if I'm training for an important event I'll also aim for 100-120g of carbs per hour. This is a non-trivial amount (equivalent to around 3 Clif bars per hour), so I use specialized products like Maurten or Neversecond. 
+I'm no a monk, and of course I make exceptions. I track my weight daily for fun, but I mostly look for long-term trends (i.e. whether I'm bulking, cutting, or staying), and I don't stress out over short-term fluctuations.
+
+I try to never workout fasted. I normally aim to replace what I burn (in terms of calories), but if I'm training for an important event I'll also aim for 100-120g of carbs per hour. This is a non-trivial amount (equivalent to around 3 Cliff bars per hour), so I use specialized products like Maurten or Neversecond. 
 
 # Measurements 
 
 This is what I consistently measure: 
 * Every 6 months: bloodwork (looking at testosterone, cholesterol, and blood counts)
 * Every 3 months: DEXA scan (depending on whether I'm trying to change body composition)
-* Every day: weight, sleep hours
+* Every day: weight and sleep hours
 
-Regular bloodwork is how I first found out that my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to genetic predispositions. The good news is that I can probably keep it in check with a healthy diet, exercise, and sleep.  
+Regular bloodwork is how I first found out that even with my active lifestyle, my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to a genetic predisposition for a higher baseline. The good news is that I can probably keep it in check with a healthy diet, excercise, and sleep.
 
-I've also tried out continuous glucose monitors and HRV tracking, and I'm always interested in trying out new gadgets. 
+I've also tried out continuous glucose monitors and HRV tracking, and I'm always interested in new gadgets. 
 
 <!-- # Meditation 
 
