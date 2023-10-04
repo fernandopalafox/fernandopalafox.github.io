@@ -1,7 +1,7 @@
 ---
 title: Health and Longevity
 ---
-I'm a big fan of excercise and understanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading about longevity, excercise, diet, and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self). Here's a list of what I do to stay healthy, and some of the resources I've found helpful.
+I'm a big fan of exercise and understanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading about longevity, exercise, diet, and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self). Here's a list of what I do to stay healthy, and some of the resources I've found helpful.
 
 - [Exercise](#exercise)
 - [Sleep](#sleep)
@@ -28,11 +28,11 @@ Altough I grew up playing sports, I never trained for anything seriously. This c
 - [East Texas Showdown](https://www.strava.com/activities/8737219081)
 However, I increasingly found myself at odds with the whole point of excercising: to be the strongest, healthiest version of myself. And being fit on the bike optimizes for two very specific things: cardiovascular fitness and low weight. I felt weak off the bike and nursing overuse injuries, so I decided to add some variety with strength training and running.  
 
-There is also a practical reason I excercise: I have a family history of obesity and diabetes, and even with my relatively active lifestyle, I'm still at risk (as evidenced by my [bloodwork](#measurements)). 
+There is also a practical reason I exercise: I have a family history of obesity and diabetes, and even with my relatively active lifestyle, I'm still at risk (as evidenced by my [bloodwork](#measurements)). 
 
 <!-- Here's a list of people that have influenced my exercise journey: 
 - Lachlan Morton. I still get goosebumps watching his Alt Tour video on the Dirty Kanza 200 (now Unbound Gravel).
-- Anton Krupicka
+- Anton Krupicka. A legit human that inpsired with his style and crazy mountain adventures.  
 - Kurt Refsnider -->
 
 # Sleep 
@@ -73,7 +73,7 @@ This is what I consistently measure:
 * Every 3 months: DEXA scan (depending on whether I'm trying to change body composition)
 * Every day: weight, sleep hours
 
-Regular bloodwork is how I first found out that my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to genetic predispositions. The good news is that I can probably keep it in check with a healthy diet, excercise, and sleep.  
+Regular bloodwork is how I first found out that my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to genetic predispositions. The good news is that I can probably keep it in check with a healthy diet, exercise, and sleep.  
 
 I've also tried out continuous glucose monitors and HRV tracking, and I'm always interested in trying out new gadgets. 
 
