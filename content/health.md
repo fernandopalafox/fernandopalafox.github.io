@@ -60,7 +60,7 @@ I've tried all sorts of diets and I've found the most sustainable approach are t
 - ~2.0 - 2.5g of protein per kg of bodyweight per day.
 - If bulking eat at a slight caloric surplus (10-15%).
 - If cutting eat at a slight caloric deficit (10-15%). Err on the side of eating more. Don't overdo this. 
-- Avoid (processed, high-sugar, or high-fat foods) when I'm tired, stressed, or hungry.
+- Avoid danger foods (processed, high-sugar, or high-fat foods) when I'm tired, stressed, or hungry.
 - No alcohol. 
 I'm not a monk, and of course there's exceptions. I track my weight daily for fun, but I mostly look for long-term trends (i.e. whether I'm bulking, cutting, or staying), and I don't stress out over short-term fluctuations.
 
@@ -73,7 +73,7 @@ This is what I consistently measure:
 * Every 3 months: DEXA scan (depending on whether I'm trying to change body composition)
 * Every day: weight, sleep hours
 
-Regular bloodwork is how I first found out that my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 HDL mg/dL). I consulted with an endocrinologist and this is likely due to genetic predispositions. The good news is that I can probably keep it in check with a healthy diet, excercise, and sleep.  
+Regular bloodwork is how I first found out that my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~93 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to genetic predispositions. The good news is that I can probably keep it in check with a healthy diet, excercise, and sleep.  
 
 I've also tried out continuous glucose monitors and HRV tracking, and I'm always interested in trying out new gadgets. 
 
