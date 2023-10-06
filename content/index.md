@@ -5,7 +5,7 @@ title: about
 
  I am a PhD student at the Department of Aerospace Engineering at UT Austin. I am interested in **artificial intelligence for multi-agent interactions**. Concretely, I design control strategies for multi-agent interactions so that robots can safely, and smoothly, interact with other robots or humans. My work leverages dynamic game theory, optimal control, and machine learning. I am part of the [CLeAR Laboratory](https://clearoboticslab.github.io/) and I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
 
-I'm also a [cyclist](health.md/#exercise), photographer, [reader](books), and I've been making an effort to [write](#writing) more.
+I'm also a [cyclist](health/#exercise), photographer, [reader](books), and I've been making an effort to [write](#writing) more.
 
 Here's a project I'm working on right now: [hyperplane inference for collision-avoidance in space](https://github.com/fernandopalafox/InverseHyperplanes.jl)
 
