@@ -1,8 +1,7 @@
 ---
 title: Non-technical AI resources
 ---
-A list of resources for people interested in hearing what some discussions on AI safety. 
-
+A list of resources for people interested in learning what some discussions on AI safety. The field moves fast, so this list may be outdated.
 
 - [For](#for)
 - [Against](#against)
