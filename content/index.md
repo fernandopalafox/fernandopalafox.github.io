@@ -31,9 +31,11 @@ If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on
 * Autonomous driving using kinodynamic goal-bias RRT
 * Maximum-likelihood estimation of signal-to-noise ratio for GNSS signals
 * [Link to PDFs](https://drive.google.com/drive/folders/1F9Ay-TXPotFZ08XSMGUULeJu0NBLtuFX?usp=sharing)
+
 ### Writing
 - [Health and Longevity](health.md)
 - [The Radavist article on cycling in Argentina](https://theradavist.com/argentina-gravel-cycling/)
+- [A random list of non-technical resources on AI](ai-resources.md)
 <!---
 - [Brief bio](bio.md)
 - [Non-technical AI resources](ai-resources.md)
