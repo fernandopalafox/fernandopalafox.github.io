@@ -1,9 +1,7 @@
 ---
 title: My favorite blogs
 ---
-WIP
-
-Here's a list of links that have influence how I think
+Here's a list of links that have had a big influence how I think
 
 - Paul Graham!!!!
 - Near Cyan blog
