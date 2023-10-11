@@ -34,7 +34,8 @@ If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on
 
 ### Writing
 - [Health and Longevity](health.md)
-- [Note: Do we need rules of discourse in a world of AIs?](ai-discourse.md)
+- [Notes on *The Beginning of Infinity*](infinity.md)
+- [Do we need rules of discourse in a world of AIs?](ai-discourse.md)
 - [The Radavist article on cycling in Argentina](https://theradavist.com/argentina-gravel-cycling/)
 - [A random list of non-technical resources on AI](ai-resources.md)
 <!---
