@@ -10,7 +10,7 @@ Some of the books I've read in no particular order. You may also be interested i
 **David Deutsch** *The Beginning of Infinity*
 > "The uniquely significant thing about humans is our ability to create new explanations"
 
-> "We are fallible, but through conjecture, criticism, and seeking good explanations we correct some  of our errors"
+> "We are fallible, but through conjecture, criticism, and seeking good explanations we correct some of our errors"
 
 **Richard Dawkins** *The Selfish Gene*
 
