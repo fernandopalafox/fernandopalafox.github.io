@@ -3,6 +3,11 @@ title: Notes on *The Beginning of Infinity*
 tags: book, note
 ---
 
+<figure style="text-align: center;">
+  <img src="media/robothuman.png" alt="alternative_text_here" style="width:75%">
+  <figcaption style="max-width: 70%; margin: auto;"><em>Prompt: A Matisse oil painting of a humanoid robot and human next to each other. The robot is looking at the human. The human has a lightbulb on its head, symbolizing a creative leap.</em></figcaption>
+</figure>
+
 This is a collection of my favorite ideas from [*The Beginning of Infinity* by David Deutsch](https://www.thebeginningofinfinity.com/). It is meant mostly as a personal reference, and is by no means a comprehensive summary and/or book review. The book is really good though, and I highly recommend it. All quotation are pulled from the book unless otherwise noted. If you're lazy, perhaps the most succinct explanation of Deutsch's thesis is encapsulated in this quotation:
 
 > "We cannot create knowledge other than by the fallible method of conjecture and criticism; errors are inevitable, and only error-correcting processes can succeed or continue for long."
@@ -12,11 +17,6 @@ This is a collection of my favorite ideas from [*The Beginning of Infinity* by D
 - [Quotations](#quotations)
 - [Final thoughts](#final-thoughts)
 - [Resources](#resources)
-
-<figure style="text-align: center;">
-  <img src="media/robothuman.png" alt="alternative_text_here" style="width:50%">
-  <figcaption style="max-width: 50%; margin: auto;"><em>Prompt: A Matisse oil painting of a humanoid robot and human next to each other. The robot is looking at the human. The human has a lightbulb on its head, symbolizing a creative leap.</em></figcaption>
-</figure>
 
 # Key ideas in *The Beginning of Infinity*
 
