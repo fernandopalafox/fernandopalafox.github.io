@@ -4,8 +4,8 @@ tags: book, note
 ---
 
 <figure style="text-align: center;">
-  <img src="media/robothuman.png" alt="alternative_text_here" style="width:75%">
-  <figcaption style="max-width: 70%; margin: auto;"><em>Prompt: A Matisse oil painting of a humanoid robot and human next to each other. The robot is looking at the human. The human has a lightbulb on its head, symbolizing a creative leap.</em></figcaption>
+  <img src="media/robothuman.png" alt="alternative_text_here" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>Prompt: A Matisse oil painting of a humanoid robot and human next to each other. The robot is looking at the human. The human has a lightbulb on its head, symbolizing a creative leap.</em></figcaption>
 </figure>
 
 This is a collection of my favorite ideas from [*The Beginning of Infinity* by David Deutsch](https://www.thebeginningofinfinity.com/). It is meant mostly as a personal reference, and is by no means a comprehensive summary and/or book review. The book is really good though, and I highly recommend it. All quotation are pulled from the book unless otherwise noted. If you're lazy, perhaps the most succinct explanation of Deutsch's thesis is encapsulated in this quotation:
