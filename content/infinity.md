@@ -8,17 +8,17 @@ tags: book, note
   <figcaption style="max-width: 95%; margin: auto;"><em>Prompt: A Matisse oil painting of a humanoid robot and human next to each other. The robot is looking at the human. The human has a lightbulb on its head, symbolizing a creative leap.</em></figcaption>
 </figure>
 
-This is a collection of my favorite ideas from [*The Beginning of Infinity* by David Deutsch](https://www.thebeginningofinfinity.com/). It is meant mostly as a personal reference, and is by no means a comprehensive summary and/or book review. The book is really good though, and I highly recommend it. All quotation are pulled from the book unless otherwise noted. If you're lazy, perhaps the most succinct explanation of Deutsch's thesis is encapsulated in this quotation:
+This is a collection of my favorite ideas from [*The Beginning of Infinity* by David Deutsch](https://www.thebeginningofinfinity.com/). It's meant as a personal reference and is by no means a comprehensive summary and/or book review. The book is really good though, and I highly recommend it. All quotations are pulled from the book unless otherwise noted. If you're lazy, this quotation summarizes the ideas I found interesting in the book:
 
 > "We cannot create knowledge other than by the fallible method of conjecture and criticism; errors are inevitable, and only error-correcting processes can succeed or continue for long."
 
 **Table of Contents**
-- [Key ideas in *The Beginning of Infinity*](#key-ideas-in-the-beginning-of-infinity)
+- [Favorite ideas from *The Beginning of Infinity*](#favorite-ideas-from-the-beginning-of-infinity)
 - [Quotations](#quotations)
 - [Final thoughts](#final-thoughts)
 - [Resources](#resources)
 
-# Key ideas in *The Beginning of Infinity*
+# Favorite ideas from *The Beginning of Infinity*
 
 **All progress depends on good explanations.** Explanations are knowledge about what is true, what it does, and how and why. They are important because they give us the power to transform nature in a way that is only limited by the laws of nature. If it's not forbidden by the laws of physics, it's achievable given the right knowledge.
 > "The uniquely significant thing about humans is our ability to create new explanations."
@@ -31,7 +31,7 @@ This is a collection of my favorite ideas from [*The Beginning of Infinity* by D
 2. Come up with new and possibly better explanations about how the world works. If it survives criticism, build on it and repeat the cycle: conjecture, criticize, explain.
 > "Explanatory knowledge can give us the power to transform nature in a way that is not limited by parochial observations, but by universal laws."
 
-**Ideas replicate by being useful (i.e., closer to the truth) or by crippling critical thought.** Always be mindful of this when you learn a new idea. Does this idea improve my error-correction capabilities? Or, does it shut down critical thought?
+**Ideas replicate by being useful (i.e., closer to the truth) or by crippling critical thought.** Always be mindful of this when you're exposed to a new idea that's particularly sticky. Does it improve my error-correction capabilities? Or, does it shut down critical thought?
 
 **Observations are not independent of theory.** We only know what to look for if we have an underlying explanation for how something works. This reminds me of Kuhn's thoughts on the practice of normal science (the regular work a scientist conducts after settling on a paradigm):
 > “The man who is striving to solve a problem defined by existing knowledge and technique is not, however, just looking around. He knows what he wants to achieve, and he designs his instruments and directs his thoughts accordingly. Unanticipated novelty, the new discovery, can emerge only to the extent that his anticipations about nature and his instruments prove wrong. . . . There is no other effective way in which discoveries might be generated.”
