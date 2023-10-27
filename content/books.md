@@ -1,7 +1,7 @@
 ---
 title: My favorite books
 ---
-Some of the books I've read in no particular order. You may also be interested in my favorite [[blogs|blogs/links]].
+Some of the books I've read in no particular order.
 
 - [[# Favorites]]
 - [[# Notable mentions]]
