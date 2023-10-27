@@ -24,7 +24,7 @@ Here's a project I'm working on right now: [hyperplane inference for collision-a
 
 In the past I've also worked on software-defined radios for satellite navigation systems and low-cost, local positioning systems. 
 
-If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=q0dyHx4AAAAJ&hl=en), [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/), [Instagram](https://www.instagram.com/palaf_x/), or [Strava](https://www.strava.com/athletes/27635180).
+If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=q0dyHx4AAAAJ&hl=en), [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/) or [Strava](https://www.strava.com/athletes/27635180).
 
 ### Projects
 * Autonomous driving using sequential quadratic programming
