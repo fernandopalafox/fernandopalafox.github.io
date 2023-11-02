@@ -1,5 +1,5 @@
 ---
-title: Notes on *The Beginning of Infinity*
+title: Notes on The Beginning of Infinity
 tags: book, note
 ---
 
@@ -13,12 +13,12 @@ This is a collection of my favorite ideas from [*The Beginning of Infinity* by D
 > "We cannot create knowledge other than by the fallible method of conjecture and criticism; errors are inevitable, and only error-correcting processes can succeed or continue for long."
 
 **Table of Contents**
-- [Favorite ideas from *The Beginning of Infinity*](#favorite-ideas-from-the-beginning-of-infinity)
+- [Favorite ideas](#favorite-ideas)
 - [Quotations](#quotations)
 - [Final thoughts](#final-thoughts)
 - [Resources/Related](#resourcesrelated)
 
-# Favorite ideas from *The Beginning of Infinity*
+# Favorite ideas
 
 **All progress depends on good explanations.** Explanations are knowledge about what is true, what it does, and how and why. They are important because they give us the power to transform nature in a way that is only limited by the laws of nature. If it's not forbidden by the laws of physics, it's achievable given the right knowledge.
 > "The uniquely significant thing about humans is our ability to create new explanations."
