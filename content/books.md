@@ -7,7 +7,7 @@ Some of the books I've read in no particular order.
 - [[# Notable mentions]]
 ## Favorites
 
-**David Deutsch** *The Beginning of Infinity*
+**David Deutsch** *The Beginning of Infinity* [\[Link to my notes\]](infinity.md)
 > "The uniquely significant thing about humans is our ability to create new explanations"
 
 > "We are fallible, but through conjecture, criticism, and seeking good explanations we correct some of our errors"

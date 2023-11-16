@@ -8,4 +8,5 @@ title: Reflections
 
 Short reflections. Mostly for me. But maybe for you, too.
 
-- [On Breaking Up](breakups)
+- [On breaking up](breakups)
+- [How to be ambitious without burning up](ambition)

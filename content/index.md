@@ -1,47 +1,27 @@
 ---
-title: about
+title: Index
 ---
-![[media/headshot.jpg|250]]
+<figure style="text-align: center;">
+  <img src="media/palafox_simon.JPG" alt="Fernando Palafox" style="width:75%">
+</figure>
 
- I am a PhD student at the Department of Aerospace Engineering at UT Austin. I am interested in **artificial intelligence for multi-agent interactions**. Concretely, I design control strategies for multi-agent interactions so that robots can safely, and smoothly, interact with other robots or humans. My work leverages dynamic game theory, optimal control, and machine learning. I am part of the [CLeAR Laboratory](https://clearoboticslab.github.io/) and I am advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
+Hi, I'm Fernando. I'm an aerospace engineer and PhD student in robotics. I find meaning life by understanding how the universe works. 
 
-I'm also a [cyclist](health), photographer, [reader](books), and I've been making an effort to [write](#writing) more.
+<div align="center">
 
-Here's a project I'm working on right now: [hyperplane inference for collision-avoidance in space](https://github.com/fernandopalafox/InverseHyperplanes.jl)
+[Research](research.md)
+<br>
 
-<table>
-  <tr>
-    <td style="height: 10px;">1. Noisy expert data</td>
-    <td style="height: 10px;">2. Inferred hyperplanes</td>
-    <td style="height: 10px;">3. Collision-free trajectory</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="media/noisy.gif"  height="150"></td>
-    <td valign="top"><img src="media/hyperplanes.gif" height="150"></td>
-    <td valign="top"><img src="media/3D.gif"      height="150"></td>
-  </tr>
- </table>
+[Writing](writing.md)
+<br>
 
-In the past I've also worked on software-defined radios for satellite navigation systems and low-cost, local positioning systems. 
+[Health](health.md)
+<br>
 
-If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=q0dyHx4AAAAJ&hl=en), [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/) or [Strava](https://www.strava.com/athletes/27635180).
+[Reading](books.md)
+<br>
 
-### Projects
-* Autonomous driving using sequential quadratic programming
-* Autonomous driving using kinodynamic goal-bias RRT
-* Maximum-likelihood estimation of signal-to-noise ratio for GNSS signals
-* [Link to PDFs](https://drive.google.com/drive/folders/1F9Ay-TXPotFZ08XSMGUULeJu0NBLtuFX?usp=sharing)
+[About me](about.md)
+</div>
 
-### Writing
-- [Health and Longevity](health.md)
-- [Notes on *The Beginning of Infinity*](infinity.md)
-- [Do we need rules of discourse in a world of AIs?](ai-discourse.md)
-- [The Radavist article on cycling in Argentina](https://theradavist.com/argentina-gravel-cycling/)
-- [A random list of non-technical resources on AI](ai-resources.md)
-<!---
-- [Brief bio](bio.md)
-- [Non-technical AI resources](ai-resources.md)
-- [Favorite blogs and links](blogs.md)
-- [Favorite podcasts](podcasts.md)
-- [Books I'm reading](books.md)
--->
+If you'd like to talk, [email](mailto:fernandopalafox@utexas.edu) me or DM me on [X](https://twitter.com/p_lafox). Otherwise, you can find me on [GitHub](https://github.com/fernandopalafox), [LinkedIn](https://www.linkedin.com/in/fernando-palafox/) or [Strava](https://www.strava.com/athletes/27635180).
