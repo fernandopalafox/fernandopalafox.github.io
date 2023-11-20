@@ -1,9 +1,6 @@
 ---
 title: Index
 ---
-<figure style="text-align: center;">
-  <img src="media/palafox_simon.JPG" alt="Fernando Palafox" style="width:75%">
-</figure>
 
 Hi, I'm Fernando. I'm an aerospace engineer and PhD student in robotics. I find meaning life by understanding how the universe works. 
 
