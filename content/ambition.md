@@ -1,5 +1,6 @@
 ---
 title: How to be ambitious without destroying yourself
+draft: true
 ---
 
 What is the purpose of this reflection? Talk about how I approach ambition and amor fati. 
