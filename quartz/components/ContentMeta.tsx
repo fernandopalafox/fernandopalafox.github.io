@@ -9,9 +9,9 @@ export default (() => {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
 
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
-      }
+      // if (fileData.dates) {
+      //   segments.push(formatDate(getDate(cfg, fileData)!))
+      // }
 
       segments.push(timeTaken)
       return <p class="content-meta">{segments.join(", ")}</p>
