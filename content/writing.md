@@ -1,10 +1,7 @@
 ---
-title: Research
+title: Writing
 ---
 
-- [Reflections](reflections)
-- [Health and Longevity](health.md)
-- [Notes on *The Beginning of Infinity*](infinity.md)
-- [Do we need rules of discourse in a world of AIs?](ai-discourse.md)
-- [The Radavist article on cycling in Argentina](https://theradavist.com/argentina-gravel-cycling/)
-- [A random list of non-technical resources on AI](ai-resources.md)
+<figure style="text-align: center;">
+  <img src="media/reflection.png" alt="alternative_text_here" style="width:50%">
+</figure>

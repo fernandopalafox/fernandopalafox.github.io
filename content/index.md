@@ -9,7 +9,7 @@ Hi, my name is Fernando. I am an aerospace engineer and PhD student in robotics.
 [research](research.md)
 <br>
 
-[writing](writing.md)
+[writing](writing)
 <br>
 
 [reading](books.md)

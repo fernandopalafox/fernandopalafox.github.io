@@ -1,5 +1,7 @@
 ---
 title: On Finding Meaning
+tags: [writing]
+draft: true
 ---
 
 What is my contribution? 
