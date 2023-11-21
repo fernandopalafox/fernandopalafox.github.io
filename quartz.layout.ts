@@ -7,11 +7,13 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "about me": "about",
+      about: "about",
       contact: "contact",
     },
   }),
 }
+
+// components for home page
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -23,7 +25,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
-  right: [Component.Graph(), Component.Backlinks()],
+  // right: [Component.Graph(), Component.Backlinks()],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

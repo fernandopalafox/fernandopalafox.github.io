@@ -2,7 +2,7 @@
 title: Index
 ---
 
-Hi, I'm Fernando. I'm an aerospace engineer and PhD student in robotics. I find meaning life by understanding how the universe works. 
+Hi, my name is Fernando. I am an aerospace engineer and PhD student in robotics. I find meaning life by understanding how the universe works so I work on game theory, optimal control, deep learning, and numerical optimization.
 
 <div align="center">
 
