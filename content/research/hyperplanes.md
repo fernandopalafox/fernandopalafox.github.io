@@ -1,6 +1,8 @@
 ---
-title: Learning Hyperplanes
-tags: [game theory, optimal control]
+title: Learning Hyperplanes for Collision Avoidance in Space
+tags: [game theory, control theory]
+publishDate: 2023-11-16
+draft: false
 ---
 
 Here's a project I'm working on right now: [hyperplane inference for collision-avoidance in space](https://github.com/fernandopalafox/InverseHyperplanes.jl)

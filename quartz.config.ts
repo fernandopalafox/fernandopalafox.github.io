@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "palafox.info",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
