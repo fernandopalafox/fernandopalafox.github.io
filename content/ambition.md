@@ -29,11 +29,11 @@ When working towards a goal, if I know that I went all-in and pushed myself to t
 
 <figure style="text-align: center;">
   <img src="media/tension.png" alt="Tension and ambition" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between serenity and ambition.</em></figcaption>
+  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tensions between ambition and serenity.</em></figcaption>
 </figure>
 
 Working hard looks different for everyone. 
-For me, it looks like uninterrupted periods of [deep work](writing/deepwork) followed by reflection over any learned lessons. 
+For me, it looks like uninterrupted periods of [deep work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/) followed by reflection over any learned lessons. 
 I usually aim to distill my experience into what worked, what didn't, why that was the case, and what the logical next steps are. 
 I also make an earnest effort to reflect on what I can do better. 
 This can be painful, especially if an idea I developed and worked hard on does not work as expected (or at all).
