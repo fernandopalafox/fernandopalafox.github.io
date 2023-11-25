@@ -1,9 +1,8 @@
 ---
-title: Ambition and Serenity 
+title: Ambition and serenity
 draft: false
 ---
 
-This is a brief note about my thoughts on reconciling ambition and serenity. 
 Ambition is the desire to do or achieve something hard, perhaps something that has never been done before, perhaps something that can't be done according to conventional wisdom. 
 Ambition is a fundamental part of who I am.[^1]
 Serenity is the state of peace and calm that gives me the clarity to get through high-stress situations. 
@@ -76,7 +75,7 @@ I'll end this note with my current ambitions (as of November 2023):
 
 [^4]: Problems are inevitable. Problems are soluble. See my second favorite idea [here](infinity/favorite-ideas). 
 
-# Related readings 
+## Related readings 
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - *Zero to One* by Peter Thiel.
 - *Deep Work* by Cal Newport.
