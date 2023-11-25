@@ -5,7 +5,7 @@ draft: false
 
 <figure style="text-align: center;">
   <img src="media/tension.png" alt="Tension and ambition" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between ambition and serenity.</em></figcaption>
+  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between ambition and serenity. Image courtesy of DALL·E 3.</em></figcaption>
 </figure>
 
 Ambition is the desire to do or achieve something hard, perhaps something that has never been done before, perhaps something that can't be done according to conventional wisdom. 
@@ -15,9 +15,9 @@ My teens and early twenties were marked with severe bouts of self-doubt and depr
 Marcus Aurelius recognized the power of this attitude when he said that 
 > a blazing fire makes flame and brightness out of everything that is thrown into it.
 
-*Amor fati* helped me navigate periods of stress and/or uncertainty, but I recently ran into what felt like a paradox: ambition necessarily requires a desire to change the status quo driven by some kind of discomfort.
+*Amor fati* helped me navigate periods of stress and/or uncertainty, but I recently ran into a contradiction: ambition necessarily requires a desire to change the status quo driven by some kind of discomfort.
 On the other hand, *amor fati* is all about literally loving the status quo by interpreting it in the best way possible. 
-Both ideas seem contradictory, yet, they both feel important to me, so this note is on how I bring them together
+Both ideas feel important to me, so this is about how I bring them together. 
 
 My solution is simple: 
 1. Select ambitious goals that challenge conventional wisdom on what can and can't be done.
@@ -75,7 +75,7 @@ I'll end this note with my current ambitions (as of November 2023):
 
 [^4]: Problems are inevitable. Problems are soluble. See my second favorite idea [here](infinity/favorite-ideas). 
 
-## Related readings 
+## Related 
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - *Zero to One* by Peter Thiel.
 - *Deep Work* by Cal Newport.
