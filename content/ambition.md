@@ -1,5 +1,5 @@
 ---
-title: Ambition and serenity 
+title: Ambition and Serenity 
 draft: false
 ---
 
