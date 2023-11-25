@@ -3,6 +3,11 @@ title: Ambition and Serenity
 draft: false
 ---
 
+<figure style="text-align: center;">
+  <img src="media/tension.png" alt="Tension and ambition" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between ambition and serenity.</em></figcaption>
+</figure>
+
 Ambition is the desire to do or achieve something hard, perhaps something that has never been done before, perhaps something that can't be done according to conventional wisdom. 
 Ambition is a fundamental part of who I am.[^1]
 Serenity is the state of peace and calm that gives me the clarity to get through high-stress situations. 
@@ -25,11 +30,6 @@ Inevitably, you will find yourself in periods of great uncertainty, particularly
 I find serenity through these periods by doings things well. 
 When working towards a goal, if I know that I went all-in and pushed myself to the limit, then, at least for a moment, I can sit back in peace and love whatever life throws at me next. 
 *Amor fati*. 
-
-<figure style="text-align: center;">
-  <img src="media/tension.png" alt="Tension and ambition" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between ambition and serenity.</em></figcaption>
-</figure>
 
 Working hard looks different for everyone. 
 For me, it looks like uninterrupted periods of [deep work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/) followed by reflection over any learned lessons. 
@@ -67,7 +67,7 @@ I'll end this note with my current ambitions (as of November 2023):
 2. To do so, leverage my background in aerospace engineering and become an expert in control, game theory, and machine learning. Instead of aiming to be better than 99% of people at any single topic, I aim to be better than 90% at all three. 
 3. Along the way learn a bit about what makes humans special and why we are so unique. 
 
-[^1]: I like to think deeply about many things in my life, but I've found that it's best for me not to dig into what gives me meaning past a certain point. If something *feels* like it gives me meaning, then it does. It muddies the water too much to try and look too deeply into why that is the case, especially when it's a feeling I don't have the technical/intellectual chops to write cogently about. On feelings that give me meaning, I agree with Wittgenstein that "whereof one cannot speak, thereof one must be silent." This attitude partially originated from very valuable conversations with [Dr. Andrea Kowalchuck](https://www.colorado.edu/herbst/andrea-kowalchuk), who taught an ethics course I took during my undergraduate years at CU Boulder. I love people, I love humanity, and I find meaning in understanding our universe and making stuff that makes people's lives better. That's it.
+[^1]: I like to think deeply about many things in my life, but I've found that it's best for me not to dig past a certain point into what gives me meaning. If something *feels* like it gives me meaning, then it does. It muddies the water too much to try and look too deeply into why that is the case, especially when it's a feeling I don't have the technical or intellectual chops to write cogently about. On feelings that give me meaning, I agree with Wittgenstein that "whereof one cannot speak, thereof one must be silent." This attitude partially originated from very valuable conversations with [Dr. Andrea Kowalchuck](https://www.colorado.edu/herbst/andrea-kowalchuk), who taught an ethics course I took during my undergraduate years at CU Boulder. I love people, I love humanity, and I find meaning in understanding our universe and making stuff that makes people's lives better. That's it.
 
 [^2]: Based on what I've read and heard, crazy ideas that end up working are typically found by people with [specific knowledge](https://nav.al/specific-knowledge) about a particular topic. They've spent enough time working on something to find gaps in conventional wisdom and this leads them to pursue ideas that may seem crazy to an outsider. Note that I've yet to fully go through this process myself, as I'm still developing my personal specific knowledge, so don't quote me on this yet and I'll report back in a couple years. 
 
