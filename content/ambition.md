@@ -71,7 +71,7 @@ I'll end this note with my current ambitions (as of November 2023):
 
 [^2]: Based on what I've read and heard, crazy ideas that end up working are typically found by people with [specific knowledge](https://nav.al/specific-knowledge) about a particular topic. They've spent enough time working on something to find gaps in conventional wisdom and this leads them to pursue ideas that may seem crazy to an outsider. Note that I've yet to fully go through this process myself, as I'm still developing my personal specific knowledge, so don't quote me on this yet and I'll report back in a couple years. 
 
-[^3]: I learned this idea from the first couple of minutes in this [podcast](https://www.youtube.com/watch?v=yixIc1Ai6jM).
+[^3]: I learned this idea from the first couple of minutes of this [podcast](https://www.youtube.com/watch?v=yixIc1Ai6jM).
 
 [^4]: Problems are inevitable. Problems are soluble. See my second favorite idea [here](infinity/favorite-ideas). 
 
