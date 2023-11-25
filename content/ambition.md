@@ -45,7 +45,7 @@ In any case, these reflections should not take up much time (a mistake I've done
 Select your goals from first principles.
 If a goal is not prohibited by the laws of physics, then don't worry about how crazy it sounds, and proceed as if its possible unless proven otherwise. 
 This doesn't mean you should go for any idea just because it hasn't been proven impossible yet.
-You should still have a good idea to believe why your idea may work.[^2]
+You should still have a good reason to believe why it may work.[^2]
 
 A related skill is the ability to discern when something is not working. 
 It requires learning the delicate balancing act between open-mindedness and unreasonable stubbornness.
