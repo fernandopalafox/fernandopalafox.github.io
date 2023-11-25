@@ -1,7 +1,7 @@
 ---
-title: "Generative pre-trained transformer (GPT)"
+title: "Generative pre-trained transformers (GPTs)"
 tags: [hack, ML]
-publishDate: 2023-11-25
+publishDate: 2023-11-20
 draft: false
 ---
 

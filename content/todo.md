@@ -6,6 +6,7 @@ title: Website To-do
 - [ ] Keep darkmode but remove the toggle
 - [ ] Add Google analytics
 - [ ] Set a background image? 
+- [ ] Add another tag for publications? 
 - [x] Add books
 - [ ] Add podcasts
 - [x] Add ai-resoruces
