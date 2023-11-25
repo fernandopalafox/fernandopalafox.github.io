@@ -47,10 +47,10 @@ Select your goals from first principles.
 If a goal is not prohibited by the laws of physics, then don't worry about how crazy it sounds, and proceed as if its possible unless proven otherwise. 
 This doesn't mean you should go for any idea just because it hasn't been proven impossible yet.
 You should still have a good idea to believe why your idea may work.[^2]
+
 A related skill is the ability to discern when something is not working. 
-It requires keeping your ego in check and mind open to new ideas and perspectives.   
-which requires learning the delicate balance between being open-minded but also unreasonably stubborn.
-This seems to be critical to the successful developing ambitious goals[^3] and the only way to get better at this is by iterating through lots of ideas and to never stop learning. 
+It requires learning the delicate balancing act between open-mindedness and unreasonable stubbornness.
+Some people think it is a crucial ingredient in the successful development ambitious goals[^3] and I think that the only way of getting better at it is to iterate through lots of ideas and never stop learning. 
 
 Be an optimist.
 Optimism will get you through the hard times because it's easier to come up with creative solutions to temporary road-blocks if you're optimistic about the driving idea. 
@@ -60,10 +60,10 @@ I can't write about serenity without mentioning the Serenity Prayer:
 > God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
 My previous thoughts pertain mostly to the acquisition of that elusive "wisdom to know the difference." 
-Combining ambition and *amor fati* does not mean a searching for the ultimate wisdom that can differentiate between what can and cannot be changed with perfection -- I don't think that even exists.[^4]
-Instead, one should leverage the rocking motion between the driving discomfort of ambition and the clarity of serenity to learn the best error-correction heuristics, and improve indefinitely. 
+Combining ambition and *amor fati* does not mean a searching for the ultimate wisdom that can perfectly discern between what can and cannot be changed -- I don't think it even exists.[^4]
+Instead, I believe we should leverage the rocking motion induced by the contrast between the driving discomfort of ambition and the clarity of serenity to learn the best error-correction heuristics and improve indefinitely. 
 
-I'll end this note with my current ambitions (as of 2023/11/24):
+I'll end this note with my current ambitions (as of November 2023):
 1. Figure out how to build [creative robots](https://twitter.com/p_lafox/status/1714798989965451596) that make everyday people's lives better. 
 2. To do so, leverage my background in aerospace engineering and become an expert in control, game theory, and machine learning. Instead of aiming to be better than 99% of people at any single topic, I aim to be better than 90% at all three. 
 3. Along the way learn a bit about what makes humans special and why we are so unique. 
