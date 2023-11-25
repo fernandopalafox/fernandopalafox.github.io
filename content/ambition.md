@@ -29,7 +29,7 @@ When working towards a goal, if I know that I went all-in and pushed myself to t
 
 <figure style="text-align: center;">
   <img src="media/tension.png" alt="Tension and ambition" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tensions between ambition and serenity.</em></figcaption>
+  <figcaption style="max-width: 95%; margin: auto;"><em>Navigating the tension between ambition and serenity.</em></figcaption>
 </figure>
 
 Working hard looks different for everyone. 
