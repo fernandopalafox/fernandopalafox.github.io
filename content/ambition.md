@@ -67,13 +67,7 @@ I'll end this note with my current ambitions (as of November 2023):
 2. To do so, leverage my background in aerospace engineering and become an expert in control, game theory, and machine learning. Instead of aiming to be better than 99% of people at any single topic, I aim to be better than 90% at all three. 
 3. Along the way learn a bit about what makes humans special and why we are so unique. 
 
-[^1]: I like to think deeply about many things in my life, but I've found that it's best for me not to dig past a certain point into what gives me meaning. If something *feels* like it gives me meaning, then it does. It muddies the water too much to try and look too deeply into why that is the case, especially when it's a feeling I don't have the technical or intellectual chops to write cogently about. On feelings that give me meaning, I agree with Wittgenstein that "whereof one cannot speak, thereof one must be silent." This attitude partially originated from very valuable conversations with [Dr. Andrea Kowalchuck](https://www.colorado.edu/herbst/andrea-kowalchuk), who taught an ethics course I took during my undergraduate years at CU Boulder. I love people, I love humanity, and I find meaning in understanding our universe and making stuff that makes people's lives better. That's it.
-
-[^2]: Based on what I've read and heard, crazy ideas that end up working are typically found by people with [specific knowledge](https://nav.al/specific-knowledge) about a particular topic. They've spent enough time working on something to find gaps in conventional wisdom and this leads them to pursue ideas that may seem crazy to an outsider. Note that I've yet to fully go through this process myself, as I'm still developing my personal specific knowledge, so don't quote me on this yet and I'll report back in a couple years. 
-
-[^3]: I learned this idea from the first couple of minutes of this [podcast](https://www.youtube.com/watch?v=yixIc1Ai6jM).
-
-[^4]: Problems are inevitable. Problems are soluble. See my second favorite idea [here](infinity/favorite-ideas). 
+## Acknowledgements
 
 ## Related 
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
@@ -85,4 +79,12 @@ I'll end this note with my current ambitions (as of November 2023):
 - [*Great Work*](http://www.paulgraham.com/greatwork.html) by Paul Graham.
 - Wikipedia on [*amor fati*](https://en.wikipedia.org/wiki/Amor_fati#:~:text=Amor%20fati%20is%20a%20Latin,at%20the%20very%20least%2C%20necessary).
 - The idea of [*eternal return*](https://en.wikipedia.org/wiki/Eternal_return).
-- Works by Nietzsche like *Thus Spoke Zarathustra*. Although I'm still learning about Nietzsche's work myself. 
+- Works by Nietzsche like *Thus Spoke Zarathustra*. Although I'm still learning about Nietzsche's work myself.
+
+[^1]: I like to think deeply about many things in my life, but I've found that it's best for me not to dig past a certain point into what gives me meaning. If something *feels* like it gives me meaning, then it does. It muddies the water too much to try and look too deeply into why that is the case, especially when it's a feeling I don't have the technical or intellectual chops to write cogently about. On feelings that give me meaning, I agree with Wittgenstein that "whereof one cannot speak, thereof one must be silent." This attitude partially originated from very valuable conversations with [Dr. Andrea Kowalchuck](https://www.colorado.edu/herbst/andrea-kowalchuk), who taught an ethics course I took during my undergraduate years at CU Boulder. I love people, I love humanity, and I find meaning in understanding our universe and making stuff that makes people's lives better. That's it.
+
+[^2]: Based on what I've read and heard, crazy ideas that end up working are typically found by people with [specific knowledge](https://nav.al/specific-knowledge) about a particular topic. They've spent enough time working on something to find gaps in conventional wisdom and this leads them to pursue ideas that may seem crazy to an outsider. Note that I've yet to fully go through this process myself, as I'm still developing my personal specific knowledge, so don't quote me on this yet and I'll report back in a couple years. 
+
+[^3]: I learned this idea from the first couple of minutes of this [podcast](https://www.youtube.com/watch?v=yixIc1Ai6jM).
+
+[^4]: Problems are inevitable. Problems are soluble. See my second favorite idea [here](infinity/favorite-ideas). 
