@@ -1,11 +1,11 @@
 ---
-title: WH: 
-draft: false
+title: "Generative pre-trained transformer (GPT)"
+tags: [hack, ML]
 publishDate: 2023-11-25
-tags: hack
+draft: false
 ---
 
-Last weekend I spent some time working through Andrej Karpathy's intro to generative pre-trained transformers. 
+Last weekend's hack was spent working through Andrej Karpathy's intro to generative pre-trained transformers. 
 
 Here's the repo to the code: [link](https://github.com/fernandopalafox/hello_gpt) and a sample generative output given a newline character after 30' of training (on my poor laptop's single GTX 1070):
 

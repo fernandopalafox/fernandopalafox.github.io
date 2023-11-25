@@ -1,6 +1,6 @@
 ---
 title: Learning Hyperplanes for Collision Avoidance in Space
-tags: [game theory, control theory]
+tags: [gt, ct]
 publishDate: 2023-11-16
 draft: false
 ---
