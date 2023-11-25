@@ -49,10 +49,10 @@ You should still have a good reason to believe why it may work.[^2]
 
 A related skill is the ability to discern when something is not working. 
 It requires learning the delicate balancing act between open-mindedness and unreasonable stubbornness.
-Some people think it is a crucial ingredient in the successful development ambitious goals[^3] and I think that the only way of getting better at it is to iterate through lots of ideas and never stop learning. 
+Some people think it is a crucial ingredient in the successful development of ambitious goals[^3], and I think that the only way of getting better at it is to iterate through lots of ideas and never stop learning. 
 
 Be an optimist.
-Optimism will get you through the hard times because it's easier to come up with creative solutions to temporary road-blocks if you're optimistic about the driving idea. 
+Optimism will get you through the hard times because it's easier to come up with creative solutions to temporary roadblocks if you're optimistic about the driving idea. 
 And, if your idea is ambitious enough, optimism will naturally expose you to massive upsides if your idea works i.e., optimism exposes you to [positive Black Swans](https://www.wealest.com/articles/positive-black-swan).
  
 I can't write about serenity without mentioning the Serenity Prayer: 
