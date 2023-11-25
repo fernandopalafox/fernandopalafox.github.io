@@ -11,20 +11,20 @@ draft: false
 Ambition is the desire to do or achieve something hard, perhaps something that has never been done before, perhaps something that can't be done according to conventional wisdom. 
 Ambition is a fundamental part of who I am.[^1]
 Serenity is the state of peace and calm that gives me the clarity to get through high-stress situations. 
-My teens and early twenties were marked with severe bouts of self-doubt and depression (a common occurrence, unfortunately), and I found that growing of out it was immensely assisted by internalizing the Stoic attitude of *amor fati*: a love of fate, and an understanding of our capacity to attribute any meaning to any situation, good or bad. 
+My teens and early twenties were marked with severe bouts of self-doubt and depression (a common occurrence, unfortunately), when navigating these hard times I found the Stoic attitude of *amor fati* immensely useful: a love of fate, and an understanding of our capacity to attribute any meaning to any situation, good or bad. 
 Marcus Aurelius recognized the power of this attitude when he said that 
 > a blazing fire makes flame and brightness out of everything that is thrown into it.
 
 *Amor fati* helped me navigate periods of stress and/or uncertainty, but I recently ran into a contradiction: ambition necessarily requires a desire to change the status quo driven by some kind of discomfort.
-On the other hand, *amor fati* is all about literally loving the status quo by interpreting it in the best way possible. 
-Both ideas feel important to me, so this is about how I bring them together. 
+On the other hand, *amor fati* is all about being content with whatever happens and interpreting it in the best way possible. 
+Both ideas felt important to me, but I had trouble reconciling the discomfort that drives ambition and the contentedness of *amor fati*, so I wrote this to describe how I bring them together. 
 
 My solution is simple: 
 1. Select ambitious goals that challenge conventional wisdom on what can and can't be done.
-2. Bias yourself towards doing (rather than thinking), and work *hard*. 
-3. Along the way, keep your ego in check and mind open so you can learn new things.
-4. Reflect on what you learn to calibrate where you spend time and energy. 
-5. Goto 1.
+2. Bias yourself towards doing (rather than thinking). 
+3. Work as hard as you can, and then embrace *amor fati*.
+1. Reflect on what you learn to calibrate where you spend time and energy. 
+2. Goto 1.
    
 Inevitably, you will find yourself in periods of great uncertainty, particularly when working on something that's really interesting or novel. 
 I find serenity through these periods by doings things well. 
@@ -43,7 +43,7 @@ The former sets you up for unbounded improvement, the latter can quickly become 
 In any case, these reflections should not take up much time (a mistake I've done before), lest they shift your bias from doing to thinking. 
 
 Select your goals from first principles.
-If a goal is not prohibited by the laws of physics, then don't worry about how crazy it sounds, and proceed as if its possible unless proven otherwise. 
+If a goal is not prohibited by the laws of physics, then don't worry about how crazy it sounds, and proceed as if it's possible unless proven otherwise. 
 This doesn't mean you should go for any idea just because it hasn't been proven impossible yet.
 You should still have a good reason to believe why it may work.[^2]
 
@@ -59,8 +59,8 @@ I can't write about serenity without mentioning the Serenity Prayer:
 > God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
 My previous thoughts pertain mostly to the acquisition of that elusive "wisdom to know the difference." 
-Combining ambition and *amor fati* does not mean a searching for the ultimate wisdom that can perfectly discern between what can and cannot be changed -- I don't think it even exists.[^4]
-Instead, I believe we should leverage the rocking motion induced by the contrast between the driving discomfort of ambition and the clarity of serenity to learn the best error-correction heuristics and improve indefinitely. 
+Combining ambition and the serenity of *amor fati* does not mean to search for the ultimate wisdom that can perfectly discern between what can and cannot be changed -- I don't think it even exists.[^4]
+Instead, I think it's about leveraging the driving nature of ambition and the mental clarity of serenity to continually improve our error-correction heuristics. 
 
 I'll end this note with my current ambitions (as of November 2023):
 1. Figure out how to build [creative robots](https://twitter.com/p_lafox/status/1714798989965451596) that make everyday people's lives better. 
