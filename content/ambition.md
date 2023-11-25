@@ -5,7 +5,7 @@ draft: false
 
 This is a brief note about my thoughts on reconciling ambition and serenity. 
 Ambition is the desire to do or achieve something hard, perhaps something that has never been done before, perhaps something that can't be done according to conventional wisdom. 
-Ambition is a fundamental part of who I am [^1].
+Ambition is a fundamental part of who I am.[^1]
 Serenity is the state of peace and calm that gives me the clarity to get through high-stress situations. 
 My teens and early twenties were marked with severe bouts of self-doubt and depression (a common occurrence, unfortunately), and I found that growing of out it was immensely assisted by I internalizing the Stoic attitude of *amor fati*: a love of fate, and an understanding of our capacity to attribute any meaning to any situation, good or bad. 
 Marcus Aurelius recognized the power of this attitude when he said that 
@@ -46,11 +46,11 @@ In any case, these reflections should not take up much time (a mistake I've done
 Select your goals from first principles.
 If a goal is not prohibited by the laws of physics, then don't worry about how crazy it sounds, and proceed as if its possible unless proven otherwise. 
 This doesn't mean you should go for any idea just because it hasn't been proven impossible yet.
-You should still have a good idea to believe why your idea may work [^2].
+You should still have a good idea to believe why your idea may work.[^2]
 A related skill is the ability to discern when something is not working. 
 It requires keeping your ego in check and mind open to new ideas and perspectives.   
 which requires learning the delicate balance between being open-minded but also unreasonably stubborn.
-This seems to be key in developing ambitious goals [^3] and the only way you get better at this is by iterating through lots of ideas and to never stop learning. 
+This seems to be critical to the successful developing ambitious goals[^3] and the only way to get better at this is by iterating through lots of ideas and to never stop learning. 
 
 Be an optimist.
 Optimism will get you through the hard times because it's easier to come up with creative solutions to temporary road-blocks if you're optimistic about the driving idea. 
@@ -60,7 +60,7 @@ I can't write about serenity without mentioning the Serenity Prayer:
 > God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
 My previous thoughts pertain mostly to the acquisition of that elusive "wisdom to know the difference." 
-Combining ambition and *amor fati* does not mean a searching for the ultimate wisdom that can differentiate between what can and cannot be changed with perfection -- I don't think that even exists [^4].
+Combining ambition and *amor fati* does not mean a searching for the ultimate wisdom that can differentiate between what can and cannot be changed with perfection -- I don't think that even exists.[^4]
 Instead, one should leverage the rocking motion between the driving discomfort of ambition and the clarity of serenity to learn the best error-correction heuristics, and improve indefinitely. 
 
 I'll end this note with my current ambitions (as of 2023/11/24):
