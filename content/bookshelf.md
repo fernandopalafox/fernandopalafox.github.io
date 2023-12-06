@@ -65,4 +65,4 @@ Some of the books I've read in no particular order.
 **Aldous Huxley** *The Doors of Perception*
 > "My own belief is that, though they may start by being something of an embarrassment, these new mind changers will tend in the long run to deepen the spiritual life of the communities in which they are available. . . . From being an activity mainly concerned with symbols, religion will be transformed into an activity concerned mainly with experience and intuition — an everyday mysticism underlying and giving significance to everyday rationality, everyday tasks and duties, everyday human relationships."
 
-Template inspired by [Joanne Peng's](https://www.joannepeng.com/lists) website.
+I took the idea of a digital bookshelf from [Patrick Collison's blog](https://patrickcollison.com/bookshelf). The template for this page was partly inspired by [Joanne Peng's](https://www.joannepeng.com/lists) website.
