@@ -1,5 +1,5 @@
 ---
-title: My favorite books
+title: Bookshelf
 ---
 Some of the books I've read in no particular order.
 
