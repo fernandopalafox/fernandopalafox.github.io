@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "published",
     theme: {
       typography: {
-        header: "IBM Plex Mono",
-        body: "Benton Sans",
+        header: "Titillium Web",
+        body: "Titillium Web",
         code: "IBM Plex Mono",
       },
       colors: {
