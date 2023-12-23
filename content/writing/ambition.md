@@ -1,6 +1,7 @@
 ---
 title: Ambition and Serenity
 draft: false
+publishDate: 2023-12-01
 ---
 
 <figure style="text-align: center;">

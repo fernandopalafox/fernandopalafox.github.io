@@ -1,7 +1,7 @@
 ---
 title: On Breaking Up
-draft: true
-publishDate: 2023-11-20
+draft: false
+publishDate: 2023-11-15
 ---
 
 <figure style="text-align: center;">

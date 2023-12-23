@@ -1,5 +1,6 @@
 ---
 title: Non-technical AI resources
+publishDate: 2023-09-01
 ---
 A list of resources for people interested in learning what some discussions on AI safety. The field moves fast, so this list may be outdated.
 
