@@ -1,6 +1,7 @@
 ---
 title: On Breaking Up
 draft: true
+publishDate: 2023-11-20
 ---
 
 <figure style="text-align: center;">
@@ -9,7 +10,7 @@ draft: true
 </figure>
 
 I'm currently going through a hard breakup. We ended the relationship on good terms and the reasons were relatively benign. In the long run, this may even be better for both of us, especially given our current priorities. 
-I'm also old enough to know that time, does indeed, heal all wounds. 
+I am now old enough to understand that time, does indeed, heal all wounds. 
 Still, no amount of reflecting turns off the whirlwind of emotions I feel right now. 
 
 Perhaps one of the most memorable experiences I've had in my life was lying in next to her, looking straight into her eyes and realizing that in her gaze I saw everything. 
@@ -29,7 +30,7 @@ I constantly find myself making projections about the future, and the moment I r
 Or when you take a step and there's no ground beneath you. 
 
 This experience has certainly been a bit disorienting. 
-And I've had some pretty bad dats, but it's been getting better as I've started to really assimilate the notion that my idea of "self" is not static (and an [illusion](https://www.youtube.com/watch?v=fajfkO_X0l0)). 
+And I've had some pretty bad days, but it's been getting better as I've started to really assimilate the notion that my idea of "self" is not static (and an [illusion](https://www.youtube.com/watch?v=fajfkO_X0l0)). 
 My current sense of "self" may not be compatible with a future without her. 
 But it won't need to be, because it will change. 
 The melancholic in me gets a bif sad thinking about this. 
