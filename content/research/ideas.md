@@ -1,5 +1,5 @@
 ---
-title: Weekend Hack Ideas
+title: Research/Hack Ideas
 publishDate: 2024-01-01
 draft: false
 ---
