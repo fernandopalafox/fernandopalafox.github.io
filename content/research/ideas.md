@@ -10,4 +10,5 @@ Here's a list of weekend hack ideas I'd like to work on. Feel free to steal them
 - Learn to use [TinyGrad](https://github.com/tinygrad/tinygrad) by training an MNIST classifier. 
 - Finetune an LLM with my Google Keep notes.
 - Follow Karpathy's tutorial on GPT's. [(Done 11/24)](research/ideas/hello_gpt.md)
+- Pipeline for training humanoids using something like the Meta Ray Bans. Video -> Parametric model of a human -> data for humanoid -> train humanoid. Not an expert of this. But the hack would be to understand the challenges here. 
   
