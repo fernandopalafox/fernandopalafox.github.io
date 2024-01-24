@@ -5,7 +5,12 @@ draft: false
 ---
 
 I have more ideas than time. 
-Here's a list of weekend hack ideas I'd like to work on. Feel free to steal them, and let me know if you make something cool!
+Here's a list of ideas I'd like to work on. Feel free to steal them, and let me know if you make something cool!
+
+# Research
+- Problem statement for a socially aware robot that learns from human demonstraitons. If I show the robot how to do something, I don't want it to just copy what I did, I want it to understand what my intentions where. In a manipulation setting, there could be an interesting game-theoretic application. 
+
+# Weekend Hacks
 - Pose estimation for tele-operation of robot arm. 
 - Learn to use [TinyGrad](https://github.com/tinygrad/tinygrad) by training an MNIST classifier. 
 - Finetune an LLM with my Google Keep notes.
