@@ -6,11 +6,15 @@ I am a PhD student at the [CLeAR Laboratory](https://clearoboticslab.github.io/)
 **My mission is to build low-cost, socially aware, consumer robots to relieve humans of dangerous, boring, or physically demanding tasks such as driving, flying, household tasks, and/or manual labor.** 
 I'd like to see a world where all humans can focus on what machines still can’t do: creativity, knowledge creation, and living meaningful lives. 
 
+# Research Statement
+
 **I focus on socially-aware robotics** because deployment beyond an academic setting will inevitably lead to interactions with other agents such as humans, animals, or other robots. 
 This means that safe and useful interactions will require **robots that can reason about the effect their actions will have on other agents**. 
 To that end, my research focuses on developing decision-making algorithms that enable robots to make real-time decisions in multi-agent environments.
 
-A recent example of my research is my work on game-theoretic imitation learning, where a robot imitates behavior by observing a multi-agent interaction and learning what other agents want (objectives) and how they get it (constraints). 
+My work primarily builds on the paradigm of **imitation learning**, where robots learn by observing expert demonstrations. This is based on the premise that it is easier, more efficient, and safer to show a robot how it should do things instead of verbally specifying it or hoping it learns it by pure trial and error. Much of my work focuses on using our knowledge of physics, multi-agent interactions, and control theory to structure the learning problem in a way that improves sample efficiency and generalizability to previously unseen scenarios. **My goal is to build a robot that does not simply copy the observed behavior but instead, learns why the experts acted the way they did and then completes its task in a manner consistent with these reasons.**
+
+An example of my research is my work on game-theoretic imitation learning, where a robot imitates behavior by observing a multi-agent interaction and learning what other agents want (objectives) and how they get it (constraints). 
 Structuring the learning problem with a game-theoretic representation allows the robot to efficiently learn behavior that better generalizes. 
 A concrete application of this can be found in my most recent publication [*Learning Hyperplanes for Multi-Agent Collision Avoidance in Space*](research/hyperplanes) which focuses on autonomous spacecraft that use expert demonstrations to learn how to optimally avoid collisions in close-proximity, multi-agent operations, e.g., collaborative space construction.
 
