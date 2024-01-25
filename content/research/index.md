@@ -6,8 +6,6 @@ I am a PhD student at the [CLeAR Laboratory](https://clearoboticslab.github.io/)
 **My mission is to build low-cost, socially aware, consumer robots to relieve humans of dangerous, boring, or physically demanding tasks such as driving, flying, household tasks, and/or manual labor.** 
 I'd like to see a world where all humans can focus on what machines still can’t do: creativity, knowledge creation, and living meaningful lives. 
 
-# Research Statement
-
 **I focus on socially-aware robotics** because deployment beyond an academic setting will inevitably lead to interactions with other agents such as humans, animals, or other robots. 
 This means that safe and useful interactions will require **robots that can reason about the effect their actions will have on other agents**. 
 To that end, my research focuses on developing decision-making algorithms that enable robots to make real-time decisions in multi-agent environments.
