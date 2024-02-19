@@ -70,6 +70,8 @@ I'll end this note with my current ambitions (as of November 2023):
 
 ## Acknowledgements
 
+Thanks to Henry Beer for reading an early draft of this essay.
+
 ## Related 
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - *Zero to One* by Peter Thiel.
