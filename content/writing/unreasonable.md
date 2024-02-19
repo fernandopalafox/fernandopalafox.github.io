@@ -50,7 +50,7 @@ I am reminded of Drake's line in the song ["Fair Trade"](https://www.youtube.com
 But honestly that sounds like a fair trade to me."
 
 # Acknowledgements
-Thank you to all my friends and family who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
+Thank you to all my friends, family, and mentors who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
 
 # Related
 - *The Structure of Scientific Revolutions* by Thomas Kuhn.
