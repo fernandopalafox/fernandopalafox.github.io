@@ -15,7 +15,7 @@ A couple months ago, I read [this post](https://twitter.com/eldsjal/status/16943
 It aligned with everything I've learned about scientific and cultural progress, and how it typically comes from people at the fringes of the current zeitgeist. 
 So, like Ek, I adopted this as a guiding motto. 
 I began to speak and act without fear of judgment, and was pleasantly surprised to find this opened many new doors.
-However, it also led me to some unexpected experiences that I share here. 
+However, it also led to some unexpected experiences that I'd like to share. 
 
 When being unreasonable, resistance to new ideas is typically expected from older generations or strangers, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years give one plenty of practice debating with parents, teachers, or mentors.
