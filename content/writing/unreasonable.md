@@ -39,7 +39,7 @@ Discussions of this kind will most likely result in an improved version of your 
 Finally, one can and should choose where to be unreasonable. 
 Pick a couple things you truly care about and go all-in on them.
 For everything else, simply let things be.
-Being unreasonable and disagreeable about everything is only a recipe for becoming a bitter, resentful, and a very unhappy person.
+Being unreasonable and disagreeable about everything is only a recipe for becoming a bitter, resentful, and very unhappy person.
 
 Personally, I would describe the effect of George Bernard Shaw's idea on me as intense yet extremely formative. 
 In my "unreasonable" search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
