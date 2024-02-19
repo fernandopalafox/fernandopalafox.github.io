@@ -15,7 +15,7 @@ However, I also had some surprising and unexpected experiences, so here I includ
 
 When being unreasonable, resistance to new ideas is typically expected from older generations, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years gives one plenty of practice debating with parents, teachers, or mentors on the merits of one's idea.
-Unfortunately, negative reactions to an idea can be much harder to deal with when they come from someone, whom presumably, was well aligned with how you thought. 
+Unfortunately, negative reactions to a new idea can be much harder to deal with when they come from someone, whom presumably, you were well intellectually well-aligned. 
 And, if the idea digs deep enough, it can, with immediate effect, create an emotional rift with a person you care deeply about. 
 
 Being unreasonable is hard. 
@@ -35,14 +35,15 @@ Discussions this kind will most likely result in an improved version of your ori
 Finally, one can and should choose where to be unreasonable. 
 Pick a couple things you truly care about and go all-in on them.
 And for everything else, just let things be. 
-Being unreasonable and disagreeable about everything is only a recipe for becoming a sour, resentful, and likely very unhappy person.
+Being unreasonable and disagreeable about everything is only a recipe for becoming a bitter, resentful, and likely very unhappy person.
 
 Personally, I would describe the effect of George Bernard Shaw's idea on me as extremely formative. 
 In my search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
 This process has been painful, but there is no other way.
-I am reminded of Drake's "Fair Trade":
+I am reminded of [Drake's "Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
 > "I been losing friends and finding peace 
 > But honestly that sounds like a fair trade to me"
+
 And, although much work remains to be done, calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
 
 <figure style="text-align: center;">
