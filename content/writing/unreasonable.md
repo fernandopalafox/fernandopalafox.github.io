@@ -20,7 +20,7 @@ However, it also led me to some unexpected experiences that I share here.
 Resistance to new ideas is typically expected from older generations or strangers, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years give one plenty of practice debating with parents, teachers, or mentors.
 Unfortunately, it can be much harder to deal with negative reactions to a new idea when they come from someone with whom you were presumably intellectually well-aligned.
-And, if the idea digs deep enough, it can, with immediate effect, create a painful emotional rift with a person you care deeply about. 
+And, if the idea digs deep enough, it can, with immediate effect, create a painful emotional rift someone you hold dear. 
 
 Being unreasonable is hard. 
 Most people, especially young people, like an element of adventure or weirdness in their lives. 
