@@ -43,11 +43,12 @@ Being unreasonable and disagreeable about everything is only a recipe for becomi
 
 Personally, I would describe the effect of George Bernard Shaw's idea on me as intense yet extremely formative. 
 In my "unreasonable" search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
-This process has been painful, but there is no other way.
-As calmer seas prevail, I find myself with a sense of meaning and purpose like never before.
-I am reminded of Drake's line in the song ["Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
+I am reminded of Drake's line in ["Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
 > "I been losing friends and finding peace  
 But honestly that sounds like a fair trade to me."
+This process has been painful, but there is no other way.
+And now, as calmer seas prevail, I find myself with a sense of meaning and purpose like never before.
+
 
 # Acknowledgements
 Thank you to all my friends, family, and mentors who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
