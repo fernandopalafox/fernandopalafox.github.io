@@ -12,7 +12,7 @@ A couple months ago, I read [this post](https://twitter.com/eldsjal/status/16943
 
 > "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
 
-It aligned with everything I've learned about scientific and cultural progress, and how new ideas typically comes from people at the fringes of the current zeitgeist. 
+It aligned with everything I've learned about scientific and cultural progress, and how new ideas typically come from people at the fringes of the current zeitgeist. 
 So, like Ek, I adopted this as a guiding motto. 
 I began to speak and act without fear of judgment, and was pleasantly surprised to find this opened many new doors.
 However, it also led me to some unexpected experiences that I share here. 
