@@ -14,9 +14,8 @@ A couple months ago, I read [this post](https://twitter.com/eldsjal/status/16943
 
 It aligned with everything I've learned about scientific and cultural progress, and how it typically comes from people at the fringes of the current zeitgeist. 
 So, like Ek, I adopted this as a guiding motto. 
-It immediately had a positive effect on my life as I gave myself permission to say and act in ways that I would not have previously done for fear of being judged by others. 
-And to my pleasant surprise, this opened many new doors. 
-However, I also had some surprising and unexpected experiences, so here I include some of my observations.
+I began to speak and act without fear of judgment, and was pleasantly surprised to find this opened many new doors.
+However, it also led me to some unexpected experiences that I share here. 
 
 When being unreasonable, resistance to new ideas is typically expected from older generations or strangers, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years give one plenty of practice debating with parents, teachers, or mentors.
@@ -43,21 +42,22 @@ For everything else, simply let things be.
 Being unreasonable and disagreeable about everything is only a recipe for becoming a bitter, resentful, and likely very unhappy person.
 
 Personally, I would describe the effect of George Bernard Shaw's idea on me as extremely formative. 
-In my search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
+In my "unreasonable" search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
 This process has been painful, but there is no other way.
-I am reminded of [Drake's "Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
+I am reminded of Drake's line in the song ["Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
 > "I been losing friends and finding peace  
-But honestly that sounds like a fair trade to me"
+But honestly that sounds like a fair trade to me."
 
 Much work remains to be done, but calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
 
 # Acknowledgements
-Thank you to all my friends and family who have encouraged me to keep pushing for what I believe in.
+Thank you to all my friends and family who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
 
 # Related
 - *The Structure of Scientific Revolutions* by Thomas Kuhn.
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - [The Deutsch Files](https://nav.al/deutsch-files-ii), where Naval Ravikant and Brett Hall interview David Deutsch about his views on knowledge creation, scientific progress, and many other interesting topics.
 - Rudy Kahsar's essay on [*The good life and the mere life*](https://rudykahsar.substack.com/p/the-good-life-and-the-mere-life?utm_source=post-email-title&publication_id=1871240&post_id=140206296&utm_campaign=email-post-title&isFreemail=true&r=ovbmd&utm_medium=email).
+- X version of this essay.
 
 [^1]: Here is a relevant excerpt from the [Deutsch Files II](https://nav.al/deutsch-files-ii) where Deutsch argues why clashes between ideas result in even better ideas: "...a clash of ideas is very beneficial even if they are never resolved. Even if the parties with the ideas never agree, because when the ideas come into conflict with each other, almost without the people knowing it or wanting it, they get changed. Because even if you come out of an argument saying, “Oh, I’ve really showed it to them!” right? What you mean is, you’ve thought of a new angle, which you didn’t have before going into the discussion. You’ve thought of a new angle on your own view, which makes you more sure of it than before. And, although it’s not good to be sure of things, this change, this way of changing, the confrontation between ideas as being beneficial because they cause change in the ideas is also a beneficial side effect of Popper’s concept of a problem."
