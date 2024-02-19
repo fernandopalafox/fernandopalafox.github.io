@@ -48,7 +48,7 @@ I am reminded of Drake's line in the song ["Fair Trade"](https://www.youtube.com
 > "I been losing friends and finding peace  
 But honestly that sounds like a fair trade to me."
 
-Much work remains to be done, but calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
+Much work remains to be done, but calmer seas are prevailing, and I now find myself with a sense of meaning and purpose that's stronger than ever before.
 
 # Acknowledgements
 Thank you to all my friends and family who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
