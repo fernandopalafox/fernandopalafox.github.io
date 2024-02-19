@@ -56,6 +56,7 @@ Thank you to all my friends and family who have encouraged me to keep pushing fo
 
 # Related
 - *The Structure of Scientific Revolutions* by Thomas Kuhn.
+- *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - [The Deutsch Files](https://nav.al/deutsch-files-ii), where Naval Ravikant and Brett Hall interview David Deutsch about his views on knowledge creation, scientific progress, and many other interesting topics.
 - Rudy Kahsar's essay on [*The good life and the mere life*](https://rudykahsar.substack.com/p/the-good-life-and-the-mere-life?utm_source=post-email-title&publication_id=1871240&post_id=140206296&utm_campaign=email-post-title&isFreemail=true&r=ovbmd&utm_medium=email).
 
