@@ -47,6 +47,7 @@ I am reminded of Drake's line in ["Fair Trade"](https://www.youtube.com/watch?v=
 > "I been losing friends and finding peace  
 But honestly that sounds like a fair trade to me."
 This process has been painful, but there is no other way.
+
 And now, as calmer seas prevail, I find myself with a sense of meaning and purpose like never before.
 
 
