@@ -3,7 +3,7 @@ title: On Being Unreasonable
 publishDate: 2024-02-19
 ---
 
-A couple months ago I read [this post](https://twitter.com/eldsjal/status/1694385101755343212) by Spotify's CEO Daniel Ek where he included a quote by George Bernard Shaw: 
+A couple months ago I read [this post](https://twitter.com/eldsjal/status/1694385101755343212) by Spotify's CEO Daniel Ek where he shared a quote by George Bernard Shaw: 
 
 > "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
 
@@ -44,3 +44,8 @@ I am reminded of Drake's "Fair Trade":
 > "I been losing friends and finding peace 
 > But honestly that sounds like a fair trade to me"
 And, although much work remains to be done, calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
+
+<figure style="text-align: center;">
+  <img src="media/ronnie.png" alt="Ronnie Coleman on ambition (probably)" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>Bodybuilding legend Ronnie Coleman on being unreasonable (probably).</em></figcaption>
+</figure>
