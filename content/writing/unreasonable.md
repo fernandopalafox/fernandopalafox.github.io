@@ -3,6 +3,11 @@ title: On Being Unreasonable
 publishDate: 2024-02-19
 ---
 
+<figure style="text-align: center;">
+  <img src="media/ronnie.png" alt="Ronnie Coleman on ambition (probably)" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>Bodybuilding legend Ronnie Coleman on being unreasonable (probably).</em></figcaption>
+</figure>
+
 A couple months ago I read [this post](https://twitter.com/eldsjal/status/1694385101755343212) by Spotify's CEO Daniel Ek where he shared a quote by George Bernard Shaw: 
 
 > "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
@@ -15,7 +20,7 @@ However, I also had some surprising and unexpected experiences, so here I includ
 
 When being unreasonable, resistance to new ideas is typically expected from older generations, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years gives one plenty of practice debating with parents, teachers, or mentors on the merits of one's idea.
-Unfortunately, negative reactions to a new idea can be much harder to deal with when they come from someone, whom presumably, you were well intellectually well-aligned. 
+Unfortunately, negative reactions to a new idea can be much harder to deal with when they come from someone, whom presumably, you were intellectually well-aligned. 
 And, if the idea digs deep enough, it can, with immediate effect, create an emotional rift with a person you care deeply about. 
 
 Being unreasonable is hard. 
@@ -30,7 +35,7 @@ Progress requires a delicate balance of unreasonable ideas forged by reasonable 
 Pick a problem and dig to its core in search of truth, no matter how different, wrong, or scary the idea might sound. 
 Be truly unreasonable in this search for truth but never forget that discussion and criticism is where great ideas are formed.
 And engaging in productive discussions will require a degree of agreeableness so that you can properly listen and understand other perspectives.
-Discussions this kind will most likely result in an improved version of your original idea. 
+Discussions this kind will most likely result in an improved version of your original idea.[^1]
 
 Finally, one can and should choose where to be unreasonable. 
 Pick a couple things you truly care about and go all-in on them.
@@ -44,9 +49,14 @@ I am reminded of [Drake's "Fair Trade"](https://www.youtube.com/watch?v=THVbtGqE
 > "I been losing friends and finding peace 
 > But honestly that sounds like a fair trade to me"
 
-And, although much work remains to be done, calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
+Much work remains to be done, but calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
 
-<figure style="text-align: center;">
-  <img src="media/ronnie.png" alt="Ronnie Coleman on ambition (probably)" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Bodybuilding legend Ronnie Coleman on being unreasonable (probably).</em></figcaption>
-</figure>
+# Acknowledgements
+Thank you to all the friends and family that have listened to me and encouraged me to keep pushing on what I believe.
+
+# Related
+- *The Structure of Scientific Revolutions* by Thomas Kuhn.
+- [The Deutsch Files](https://nav.al/deutsch-files-ii), where Naval Ravikant and Brett Hall interview David Deutsch about his views on knowledge creation, scientific progress, and many other interesting topics.
+- Rudy Kahsar's essay on [*The good life and the mere life*](https://rudykahsar.substack.com/p/the-good-life-and-the-mere-life?utm_source=post-email-title&publication_id=1871240&post_id=140206296&utm_campaign=email-post-title&isFreemail=true&r=ovbmd&utm_medium=email).
+
+[^1]: Here is a relevant excerpt from the [Deutsch Files II](https://nav.al/deutsch-files-ii) where Deutsch argues why clashes between ideas result in even better ideas: "...a clash of ideas is very beneficial even if they are never resolved. Even if the parties with the ideas never agree, because when the ideas come into conflict with each other, almost without the people knowing it or wanting it, they get changed. Because even if you come out of an argument saying, “Oh, I’ve really showed it to them!” right? What you mean is, you’ve thought of a new angle, which you didn’t have before going into the discussion. You’ve thought of a new angle on your own view, which makes you more sure of it than before. And, although it’s not good to be sure of things, this change, this way of changing, the confrontation between ideas as being beneficial because they cause change in the ideas is also a beneficial side effect of Popper’s concept of a problem."
