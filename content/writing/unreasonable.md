@@ -30,7 +30,7 @@ Believing and acting on a new and truly important idea will likely require immen
 You will be alone and scared. 
 Fortunately, if you have a good reason to believe in your idea, and follow through with it, the storm **will** clear out.
 
-Progress requires a delicate balance of unreasonable ideas forged by reasonable discussions.
+Progress requires a delicate balance between unreasonable ideas and reasonable discussions.
 Pick a problem, dig to its core in search of truth, no matter how different, wrong, or scary the idea might seem.
 Be truly unreasonable in this search for truth but never forget that discussion and criticism is where great ideas are formed.
 And engaging in productive discussions will require a degree of agreeableness so that you can properly understand other perspectives.
