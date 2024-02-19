@@ -18,7 +18,7 @@ It immediately had a positive effect on my life as I gave myself permission to s
 And to my pleasant surprise, this opened many new doors. 
 However, I also had some surprising and unexpected experiences, so here I include some of my observations.
 
-When being unreasonable, resistance to new ideas is typically expected from older generations, but it can be extremely disorienting when it comes from a friend or significant other. 
+When being unreasonable, resistance to new ideas is typically expected from older generations or strangers, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years give one plenty of practice debating with parents, teachers, or mentors.
 Unfortunately, it can be much harder to deal with negative reactions to a new idea when they come from someone with whom you were presumably intellectually well-aligned.
 And, if the idea digs deep enough, it can, with immediate effect, create an emotional rift with a person you care deeply about. 
@@ -46,8 +46,8 @@ Personally, I would describe the effect of George Bernard Shaw's idea on me as e
 In my search for truth about the things I care and I find meaning in, some relationships I cared deeply about have unravelled. 
 This process has been painful, but there is no other way.
 I am reminded of [Drake's "Fair Trade"](https://www.youtube.com/watch?v=THVbtGqEO1o):
-> "I been losing friends and finding peace 
-> But honestly that sounds like a fair trade to me"
+> "I been losing friends and finding peace  
+But honestly that sounds like a fair trade to me"
 
 Much work remains to be done, but calmer seas are prevailing, and I now find myself with a sense of meaning and purpose like never before.
 
