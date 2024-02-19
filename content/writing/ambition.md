@@ -69,7 +69,6 @@ I'll end this note with my current ambitions (as of November 2023):
 3. Along the way learn a bit about what makes humans special and why we are so unique. 
 
 ## Acknowledgements
-
 Thanks to Henry Beer for reading an early draft of this essay.
 
 ## Related 
