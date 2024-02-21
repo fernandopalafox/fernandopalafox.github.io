@@ -5,9 +5,9 @@ Last update: Dec. 2023
 
 # Exercise 
 
-- Monday: shoulder, arms, stability, 10' core. 1hr
+- Monday: shoulder, arms, mobility, 10' core. 1hr
 - Tuesday: Run with intervals. Intervals change depending on what I'm training for. 1hr
-- Wednesday: Bike ride and mobility. 1-2hrs
+- Wednesday: Bike ride and stability. 1-2hrs
 - Thursday: Easy run. 45-60'
 - Friday: chest, back, posterior chain, 10' core. 1hr
 - Saturday: Bike ride. 3-5hrs, depends on what I'm training for. 
