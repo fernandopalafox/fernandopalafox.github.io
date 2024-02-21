@@ -20,7 +20,7 @@ However, it also led to some unexpected experiences that I'd like to share.
 Resistance to new ideas is typically expected from older generations or strangers, but it can be extremely disorienting when it comes from a friend or significant other. 
 Teenage years give one plenty of practice debating with parents, teachers, or mentors.
 Unfortunately, it can be much harder to deal with negative reactions to a new idea when they come from someone with whom you were presumably intellectually well-aligned.
-And, if the idea digs deep enough, it can, with immediate effect, create a painful emotional rift someone you hold dear. 
+And, if the idea digs deep enough, it can, with immediate effect, create a painful emotional rift with someone you hold dear. 
 
 Being unreasonable is hard. 
 Most people, especially young people, like an element of adventure or weirdness in their lives. 
@@ -52,13 +52,12 @@ And now, as calmer seas prevail, I find myself with a sense of meaning and purpo
 
 
 # Acknowledgements
-Thank you to all my friends, family, and mentors who have encouraged me to keep pushing for what I believe in, even when i'm unreasonable about it :)
+Thank you to all my friends, family, and mentors who have encouraged me to keep pushing for what I believe in, even when I'm unreasonable about it :)
 
 # Related
 - *The Structure of Scientific Revolutions* by Thomas Kuhn.
 - *The Beginning of Infinity* by David Deutsch. Read my notes on the book [here](infinity).
 - [The Deutsch Files](https://nav.al/deutsch-files-ii), where Naval Ravikant and Brett Hall interview David Deutsch about his views on knowledge creation, scientific progress, and many other interesting topics.
 - Rudy Kahsar's essay on [*The good life and the mere life*](https://rudykahsar.substack.com/p/the-good-life-and-the-mere-life?utm_source=post-email-title&publication_id=1871240&post_id=140206296&utm_campaign=email-post-title&isFreemail=true&r=ovbmd&utm_medium=email).
-- X version of this essay.
 
 [^1]: Here is a relevant excerpt from the [Deutsch Files II](https://nav.al/deutsch-files-ii) where Deutsch argues why clashes between ideas result in even better ideas: "...a clash of ideas is very beneficial even if they are never resolved. Even if the parties with the ideas never agree, because when the ideas come into conflict with each other, almost without the people knowing it or wanting it, they get changed. Because even if you come out of an argument saying, “Oh, I’ve really showed it to them!” right? What you mean is, you’ve thought of a new angle, which you didn’t have before going into the discussion. You’ve thought of a new angle on your own view, which makes you more sure of it than before. And, although it’s not good to be sure of things, this change, this way of changing, the confrontation between ideas as being beneficial because they cause change in the ideas is also a beneficial side effect of Popper’s concept of a problem."
