@@ -1,6 +1,10 @@
 ---
-title: Notes on Deep Work by Cal Newport
+title: Value of Focus
 draft: true
 ---
 
-Coming soon...
+- Why 
+  - Our job, as graduate students depends on deep, uninterrupted periods of work. 
+- What will you be able to do afterwards? 
+- Intent: to convince that it's something you should do
+- 
