@@ -27,6 +27,8 @@ It is the understanding, to your bones, that change is the only constant.
 
 It is learning that not everyone can be trusted
 
+It is learning that we don't choose who we love. 
+
 It is learning that opening one's heart cannot be done at a safe distance
 It is learning that opening one's heart is worth it
 
@@ -40,17 +42,19 @@ It is understanding that wishing anything but what is, is the path to pain.
 
 It is realizing that the the world exists in a delicate balance between progress and decay. There is no in between. 
 
-It is learning that some people simply do not want ot be hepled
+It is learning that some people simply do not want to be helped
 
-It is understandin that self-sacrifice can paradoxically be completely selfish. 
+That it's easier to be dragged down than it is to pull someone up
+
+That some people don't believe that they deserve any better or don't want the trouble of getting to it. 
+
+It is understanding that self-sacrifice for someone else's wellbeing can paradoxically be completely selfish. 
 
 It is learning that you can only get stepped on if you lay down.
 
-We show other people how to treat us. 
+It is learning that we dont choose whether we believe or not, we choose what to believe in. And this is likely the most important decision you'll ever make. Choose incorrectly and the hardships of life will drown you in hopelessness, resentment, and arrogance. 
 
-It is learning that we dont choose whether we believe or not, we choose what to believe in. And this is likely the most important decision you'll ever make. Choose incorrectly and the hardships of li fe will drown you in hopelessness, resentment, and arrogance. 
-
-It is understanding that ceaseless motion may hide the problem, but it won't fix them
+It is understanding that ceaseless motion may hide problems, but it won't fix them
 
 That you really have no choice over what you feel. 
 
@@ -62,7 +66,11 @@ It is learning that love is not blind, it just plays dumb
 
 That if you live in truth, you will feel the force of reality behind you.
 
-That the only way back to innocence is to blind oneself. 
+That the only way back to innocence is to try and blind oneself. 
+
+It is llearning that cynicism 
+
+That the only way of seeing the truth is to 
 
 That asking yourself: "why did this fail?" is not enough. You must also want to the answer. 
 
