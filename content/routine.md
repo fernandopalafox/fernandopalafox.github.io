@@ -20,11 +20,11 @@ This can be frustrating, but this approach has kept me injury free for a long ti
 
 # Stability Routine
 - 3 x 10 ATG split squats
-- 3 x 20 Poliquin step up (move up to peterson ste up)
+- 3 x 20 Poliquin step up (progress to peterson step up)
 - 3 x 20 Calf raises
-- 3 x 20 Slant board squats Goal is 45lbs
-- 3 x 20 Body weight squats
+- 3 x 20 Slant board squats. Goal is 45lbs.
+- 3 x 20 Body weight squats.
 - 3 x 20 Tibialis raise
 - 3 x 20s L-sit
-- 2 x 12 external rotation. Goal is 18lbs
-- 2 x 10 powell raise. Goal is 18lbs
+- 2 x 12 External shoulder rotation. Goal is 18lbs.
+- 2 x 10 Powell raise. Goal is 18lbs
