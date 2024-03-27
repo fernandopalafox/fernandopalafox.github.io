@@ -1,18 +1,25 @@
 ---
-title: Health
+title: Fitness    
 ---
-I'm a big fan of exercise and understanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading and learning about exercise, diet, longevity, and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self).
-I strongly agree with Paul Graham in [*How To Do Great Work*](http://www.paulgraham.com/greatwork.html) when he says:
-> Ultimately morale is physical. You think with your body, so it's important to take care of it. That means exercising regularly, eating and sleeping well, and avoiding the more dangerous kinds of drugs. Running and walking are particularly good forms of exercise because they're good for thinking.
 
-Here's a list of what I do to stay healthy, and some of the resources I've found helpful.
+This is where I comprehensively outline my approach to health and wellbeing. 
+If you're looking for my current workout routine, [click here](routine).
 
+- [Introduction](#introduction)
 - [Exercise](#exercise)
 - [Sleep](#sleep)
 - [Supplements](#supplements)
 - [Diet](#diet)
 - [Measurements](#measurements)
 - [Resources](#resources)
+
+# Introduction
+
+I'm a big fan of exercise and understanding how my body works. I'm also an engineer and I like measuring stuff, so I've spent a lot of time reading and learning about exercise, diet, longevity, and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self).
+I strongly agree with Paul Graham in [*How To Do Great Work*](http://www.paulgraham.com/greatwork.html) when he says:
+> Ultimately morale is physical. You think with your body, so it's important to take care of it. That means exercising regularly, eating and sleeping well, and avoiding the more dangerous kinds of drugs. Running and walking are particularly good forms of exercise because they're good for thinking.
+
+Here's a bit of what I do to stay healthy, and some of the resources I've found helpful.
 
 # Exercise
 
@@ -69,7 +76,8 @@ I've tried all sorts of diets and I've found the most sustainable approach are t
 - Avoid danger foods (processed, high-sugar, or high-fat foods) in general, but especially when I'm tired, stressed, or hungry.
 - No alcohol. 
 
-I'm not a monk, and of course I make exceptions. I track my weight daily for fun, but I mostly look for long-term trends (i.e. whether I'm bulking, cutting, or staying), and I don't stress out over short-term fluctuations.
+I'm not a monk, and of course I make exceptions. 
+I track my weight daily for fun, but I mostly look for long-term trends (i.e. whether I'm bulking, cutting, or staying), and I don't stress out over short-term fluctuations.
 
 I try to never workout fasted. I normally aim to replace what I burn (in terms of calories), but if I'm training for an important event I'll also aim for 100-120g of carbs per hour. This is a non-trivial amount (equivalent to around 3 Cliff bars per hour), so I use specialized products like Maurten or Neversecond. 
 
@@ -80,7 +88,9 @@ This is what I consistently measure:
 * Every 3 months: DEXA scan (depending on whether I'm trying to change body composition)
 * Every day: weight and sleep hours
 
-Regular bloodwork is how I first found out that even with my active lifestyle, my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~96 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). I consulted with an endocrinologist and this is likely due to a genetic predisposition for a higher baseline. The good news is that I can probably keep it in check with a healthy diet, exercise, and sleep.
+Regular bloodwork is how I first found out that even with my active lifestyle, my blood glucose was on the upper end of normal (~5.5% HbA1c and fasting blood glucose ~96 mg/dL) and my "good" cholesterol was on the lower end of normal (4.8 mg/dL HDL). 
+I consulted with an endocrinologist and this is likely due to a genetic predisposition for a higher baseline. 
+The good news is that I can probably keep it in check with a healthy diet, exercise, and sleep.
 
 I've also tried out continuous glucose monitors and HRV tracking (like Whoop), and I'm always interested in new gadgets. 
 Recently, I've been experiment with a CO2 monitor to track indoor air quality (after seeing [this post](https://twitter.com/levelsio/status/1728730190182768803) by Pieter Levels) 

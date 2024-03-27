@@ -7,7 +7,7 @@ Hi, my name is Fernando. I am an aerospace engineer and PhD student working on r
 [research](research.md)
 [writing](writing)
 [bookshelf](bookshelf.md)
-[health](health.md)
+[fitness](fitness.md)
 [about](about.md)
 
 Leave anonymous thoughts or feedback [here](https://forms.gle/ZF31PFQEHVKtGWuE6).
