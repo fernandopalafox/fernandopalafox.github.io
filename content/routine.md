@@ -6,12 +6,12 @@ Last update: March 2024
 # Exercise 
 
 - Monday: Upper body lift (1hr). 
-- Tuesday: Run with intervals. Intervals change depending on what I'm training for. 1hr. Mobility at night. A mix of my own routine and [David Thurin's free ebooks](https://stayflexy.co/collections/mobility-flexibility-guides).
-- Wednesday: Lift. Sometimes a bike ride in the afternoon. 
-- Thursday: Easy run. 45-60'. [Stability](#stability-routine) exercises. Inspired by [Ben Patrick's](https://www.youtube.com/c/thekneesovertoesguy) approach to strength/mobility.
-- Friday: Lift.
-- Saturday: Bike ride. 3-5hrs, depends on what I train for.
-- Sunday: Long run. >1hr, depends on what I'm training for.
+- Tuesday: Run with intervals. Intervals change depending on what I'm training for (1hr). Mobility exercises at night. A mix of my own routine and [David Thurin's free ebooks](https://stayflexy.co/collections/mobility-flexibility-guides).
+- Wednesday: Lift (1hr). Sometimes a bike ride in the afternoon. 
+- Thursday: Easy run (45-60'). [Stability](#stability-routine) exercises. Inspired by [Ben Patrick's](https://www.youtube.com/c/thekneesovertoesguy) approach to strength/mobility.
+- Friday: Easy group run. Lift (1hr).
+- Saturday: Bike ride (3-5hrs). Varies depending what I'm in the mood for.
+- Sunday: Long run (>1hr). Duration depends on what I'm training for.
 
 Current focus is on whole body strength and shorter run races (I've got a couple 5k's on the calendar).
 Currently following [Old School Iron](https://athleanx.com/old-school-iron) and endurance training from [Brad Seng](https://www.d3multisport.com/our-coaches/brad-seng).
