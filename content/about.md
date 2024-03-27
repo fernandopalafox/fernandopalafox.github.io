@@ -3,7 +3,7 @@ title: About
 ---
 
 <figure style="text-align: center;">
-  <img src="media/me_dad.JPG" alt="yo merengues" style="width:75%">
+  <img src="media/me_dad.jpg" alt="yo merengues" style="width:75%">
 </figure>
 
 My name is Fernando Palafox Escobedo and I am a research assistant UT Austin working on a PhD in robotics and AI.
