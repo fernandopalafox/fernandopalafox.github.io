@@ -8,6 +8,15 @@ They're grouped into three topics: [Truth](#truth), [Being](#being), and [relati
 
 **Truth**
 
+Outline
+- Making some life decisions. Forced to look at what's true. Where is the meaning
+- It turns out, meaning is in truth
+- Talk about what truth means
+- Talk about what's hard about truth
+- Talk about what's easy about truth
+- Talk about how this actually makes it easier to get going. The path forward is laid out!
+- If you follow it, you'll be doing the right thing AND you will also have a more meaningful life
+
 The life of most meaning is the one with the most adventure, and the life with the most adventure is the one that follows truth. 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
 It is completely out of your control. 
@@ -48,6 +57,7 @@ You will resent those who tried, even if they failed.
 Take a moment  to look for Truth in your life. Pause for a second and pay attention and you will find a clear path in front of you 
 Perhaps it's something mundane, something small. l
 
+You aren't the best judge of what you need. And it is easy to delude yourself into believing what you need. 
 - Most of the time, we're not the best judges for what is best for us. And if we ever do get it, it can quickly turn into an addictive dependence. 
 Fortunately, what's best for us is generally accesible, but only if we can let go of our identities. 
 Of the idea we hold on how we should act, who we should be, what we should do, who should like us, who you talk to, who follows you, who you follow. 
@@ -103,6 +113,7 @@ The lack of certainty makes it worth it.
 
 > "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
 
+No one is more keenly aware of our faults than ourselves. So treat yourself with kindness. 
 
 **Relationships**
 
