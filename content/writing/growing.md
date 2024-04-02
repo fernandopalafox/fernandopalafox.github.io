@@ -83,6 +83,9 @@ It's easier to do it with other people.
 But doing so will require good relationships. 
 That good friends will, in a painful process, carve out the bad, the mediocre, the bad. 
 That bad friends will drag you down as your success shines a light on their faults. 
+Surround yourself by courageous people. 
+People who aren't afraid of calling you out on your defects. 
+People that are open to changing. 
 
 There are many uncomfortable truths
 Truth is completely out of your control and is completely unstoppable. 
@@ -106,6 +109,11 @@ Most of the times, when you dare look at Truth, it becomes immediately apparent 
 Living truth is accessible
 The adventure of truth is what makes life interesting!
 > "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
+
+Living in truth is how you find meaning in life. 
+It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
+Living in truth removes any interpreation of life as a glass half-full or glass half-empty person. 
+The glass is already full, just not of what we think or want.
 
 Get started now. 
 “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. Favorable conditions never come.”
