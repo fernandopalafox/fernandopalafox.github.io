@@ -6,17 +6,15 @@ draft: true
 Here are a couple lessons I've learned in the past couple of months
 They're grouped into three topics: [Truth](#truth), [Being](#being), and [relationships](#relationships). 
 
-**Truth**
+**Facing Truth**
 
-I like to make the best decisions I can with the information I have. 
-I recently made some tough decisions and I found myself asking some deep questions: 
-What kind of life is worth living? Is it one of sacrifice? One of pleasure? What's the right balance? 
+What kind of life is worth living? 
+How much should I sacrifice in pursuit of my goals? 
 How much sacrifice is too much sacrifice? 
 Answering these questions sent me down a rabbit hole of answering truth. 
-Here I write about what I learned about the truth of truth of the matter. 
+I think that a life worth living is one of relentless pursuit of adventure, and the greatest source of adventure is the truth.  
 
-The life worth living is a life of adventure, and the greatest source of adventure is the truth.  
-What is truth? 
+What exactly is truth? 
 Truth is what you see, say, or feel when you let go who you think you are, how you think things should be, how you think things should feel. 
 The systematic process of uncovering truth is also known as science. 
 Truth is not what you wish things would be, it's what they actually are. 
@@ -26,52 +24,35 @@ It is the way you look.
 It is your career. 
 It is your faults. 
 It is your talents.
-It is your situation. 
-It's what you see and feel when you stop resisting uncomfortable emotions.
-It is not potential, it is what you've done. 
-Truth is revealed when you try something and you fail. 
+It is your situation.
+It is your insecurities. 
+It is your talents. 
+It's what you see and feel when you stop avoiding uncomfortable emotions.
+Truth is not your "potential", it is what you've done. 
+Truth is revealed when you try something and fail. 
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
-It is completely out of your control. 
+The force of reality stands behind truth, no amount of mental gymnastics, no amount of distortion, pleasure, or gaslighting will ever stop it.
 When you speak the truth, you let go of consequences. 
-People will get hurt, people will be upset, but it doesn't make it any less real. 
-Because the force of reality stands behind truth. 
+In many cases, people will get hurt, people will be upset, but it doesn't make it any less real. 
 Living in truth is hard! 
+Because truth shines a shining light on what you lack. 
+Perhaps the truth is you're not as smart, good looking, or charismatic as you would like to believe. 
 We do not control it, we have no say over its consequences, but it is always there. 
-And no fiction, no mental gymnastics, no amount of distortion, pleasure, or gaslighting will ever stop reality. 
 
-A life of truth is the worthiest one because it will force you to become the best version of yourself. 
+But, it's not all bad, because a life of truth is the worthiest one because it will force you to become the best version of yourself. 
 When you orient towards truth you will need to face your darkest fears and faults. 
 Fortunately, if if you are honest enough with yourself, you will find it 
 
-We have an obligation to do great things. 
-Because the truth is, the world is a fragile place with unimaginable amounts of suffering, and it won't get any better by itself. 
-Things don't just happen by default, built it.
-It took the great work and sacrifice of many people to build the world we have today. 
-We have many, many problems to fix, but the truth of the matter is that the world has never been a better place. 
-And there is also no middle: if you're not making the world a better place, you're actively dragging down those who are.
+Living in a lie may feel safer, but that's only because you have temporary control over the bubble you choose to build around yourself. 
+However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
+The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
+You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
+It may destroy you. 
+The longer you avoid it, the deeper the hole you dig. 
 
-Greatness may sound intimidating, but it may be a lot more straightforward than you realize.
-I define greatness as whatever you can do to reduce the amount of suffering in the world. 
-Perhaps greatness for you is to raise a family. 
-Perhaps it's to spend some of your time volunteering at a local shelter. 
-At the end of the day, everyone has a role in the world. 
-You are responsible for yourself, because if you don't take care of yourself, someone else will. 
-Although this may sound counterintuitive to some people, greatness may involve a great deal of self-care. 
-Because if you don't take care of yourself, eventually, someone else will have to. 
-This means that greatness for you may mean brushing your teeth, making your bed every morning, or exercising for a bit. 
-Or, perhaps it is literally to change the world. 
-Orient yourself towards truth, no matter how uncomfortable, break down the steps, and you will find what it is you should do next. 
-Aiming high is accesible to everyone, but only if you are honest with yourself. 
-Perhaps aiming high means taking stock of the situation and looking around you. 
-
-Whatever greatness means for you, you have a duty to pursue it. 
-Because life is hard, and if you can't rest easy knowing that you did your best, no matter the sacrifice, you will end up bitter and resentful. 
-If you avoid aiming for greatness, you will inevitably try to bring down all those who do, because they will remind you of the dreams you gave up on. 
-They will remind you of the sacrifices you were not willing to make.
-
-Living in truth is harder than not living in truth. 
-The truth of the matter is that any life worth living will require some sacrifice.   
+Living in truth is certainly harder than not living in truth. 
+And the truth of the matter is that any life worth living will require some sacrifice.   
 And if you don't feel like you're sacrificing something right now, like you're not facing an uncomfortable truth. 
 Well, buckle down, because something has to give eventually. Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it   . 
 Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
@@ -122,6 +103,34 @@ Almost like magic, you will know what right thing to do next is.
 And it may actually be something simple, like, get off your phone and go to bed so you can wakeup early the next day to workout. 
 Or it could be something major: confess a lie, end an important relationship, change your job.  
 > If not you, then who? If not now, when?
+
+**An obligation to do great things**
+
+We have an obligation to do great things. 
+Because the truth is, the world is a fragile place with unimaginable amounts of suffering, and it won't get any better by itself. 
+Things don't just happen by default, built it.
+It took the great work and sacrifice of many people to build the world we have today. 
+We have many, many problems to fix, but the truth of the matter is that the world has never been a better place. 
+And there is also no middle: if you're not making the world a better place, you're actively dragging down those who are.
+
+Greatness may sound intimidating, but it may be a lot more straightforward than you realize.
+I define greatness as whatever you can do to reduce the amount of suffering in the world. 
+Perhaps greatness for you is to raise a family. 
+Perhaps it's to spend some of your time volunteering at a local shelter. 
+At the end of the day, everyone has a role in the world. 
+You are responsible for yourself, because if you don't take care of yourself, someone else will. 
+Although this may sound counterintuitive to some people, greatness may involve a great deal of self-care. 
+Because if you don't take care of yourself, eventually, someone else will have to. 
+This means that greatness for you may mean brushing your teeth, making your bed every morning, or exercising for a bit. 
+Or, perhaps it is literally to change the world. 
+Orient yourself towards truth, no matter how uncomfortable, break down the steps, and you will find what it is you should do next. 
+Aiming high is accesible to everyone, but only if you are honest with yourself. 
+Perhaps aiming high means taking stock of the situation and looking around you. 
+
+Whatever greatness means for you, you have a duty to pursue it. 
+Because life is hard, and if you can't rest easy knowing that you did your best, no matter the sacrifice, you will end up bitter and resentful. 
+If you avoid aiming for greatness, you will inevitably try to bring down all those who do, because they will remind you of the dreams you gave up on. 
+They will remind you of the sacrifices you were not willing to make.
 
 **Being**
 
