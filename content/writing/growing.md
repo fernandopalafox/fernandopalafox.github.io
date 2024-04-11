@@ -6,17 +6,16 @@ draft: true
 Here are a couple lessons I've learned in the past couple of months
 They're grouped into three topics: [Truth](#truth), [Being](#being), and [relationships](#relationships). 
 
-**Facing Truth for a Life Worth Living**
+**Why You Should Face Truth**
 
 What kind of life is worth living? 
 How much should I sacrifice in pursuit of my goals? 
 How much sacrifice is too much sacrifice? 
 I think that a life worth living is one of relentless pursuit of adventure, and the greatest source of adventure is the truth.  
+This is why you should face truth.
 
 Truth is what you see, say, or feel when you let go who you think you are, how you think things should be, how you think you should feel. 
-The systematic process of uncovering truth is also known as science. 
-Or as legendary physicist Richard Feynamn put it:
-> "Science is what we have learned about how to keep from fooling ourselves".
+The systematic process of uncovering truth is also known as science. [^1]
 Truth is not what you wish things would be, it's what they actually are. 
 Truth is what you see when you look at the mirror. 
 It is the way people treat you.
@@ -42,6 +41,9 @@ Because truth shines a shining light on what you lack.
 You should live in truth because it will force you to become the best version of yourself. 
 When face truth you face your darkest fears and faults. 
 Facing truth means you not only ask the questions, "why did this fail?" or "How can I be better?", you must also want the answer. 
+Living in truth removes any interpretation of life as a glass half-full or glass half-empty person. 
+The glass is already full, just not of what we think or want.
+It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
 This is may sound scary because perhaps the truth is you're not as smart, good looking, or charismatic as you would like to believe. 
 But the only way you can begin to do something about your faults is by accepting them!
 
@@ -55,9 +57,14 @@ And fully internalizing that there's very little we choose is very scary!
 > ― Chögyam Trungpa
 However, this lack of control is liberating in a sense, because it means that I can let go an fully hand myself over to life. 
 
-No one is better and being yourself, than yourself.
 And the only way you can be yourself is by facing truth, accepting your flaws, talents and life situation, and fully leaning into it.  
-Let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
+No one is better and being yourself, than yourself.
+But you can only be yourself if you, let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
+And if you allow yourself to let go of this sense of identity, things will fall into place. 
+My friend Dan recently reminded me of a good phrase in Spanish I really like: 
+> "Cuando te toca, ni aunque te quites y cuando no te toca, ni aunque te pongas"
+Which loosely translates to "When it's your turn, not even if you move away, and when it's not your turn, not even if you try."
+Face truth, make the necessary sacrifices, and surrender yourself to life and things will fall into place. 
 
 Living in truth is certainly harder than not living in truth. 
 By recognizing where your flaws are, where your talents are, and what your situation is, you will likely inch closer to what your role in this world is. 
@@ -79,7 +86,9 @@ Any tiny bit of uncomfortable truth you sweep under a rug will always grow into 
 Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
 Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with.
 The longer you avoid it, the deeper the hole you dig. 
-"You are not stuck, you're just scared of the consequences".
+"You are not stuck, you're just scared of the consequences" - Joe Hudson.
+
+> "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
 There are many nice truths: 
 But this is where things get good: now that you know all this you can start to do something about it!
@@ -96,12 +105,6 @@ Living truth is accessible
 The adventure of truth is what makes life interesting!
 > "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
 
-You should pursue because it will force you to become the best version of yourself.
-Living in truth is how you find meaning in life. 
-It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
-Living in truth removes any interpreation of life as a glass half-full or glass half-empty person. 
-The glass is already full, just not of what we think or want.
-
 If you don't feel like you deserve becoming a better person (many such cases), think about it in terms of the people you love. 
 Pursue truth for them, because if you don't become the best person you can, someone else will eventually carry the burden you're avoiding. 
 
@@ -109,22 +112,45 @@ It's easier to do it with other people.
 But doing so will require good relationships. 
 That good friends will, in a painful process, carve out the bad, the mediocre, the bad. 
 That bad friends will drag you down as your success shines a light on their faults. 
-Surround yourself by courageous people. 
+Personally, I struggle with this aspect a lot. 
+Growing up I had trouble making friends and I was the opposite of charismatic. 
+I am extremely sensitive to the feeling of abandonment, of feeling like I'm not enough.
+This has manifested itself through a pattern of making friends with people that don't truly value me. 
+Although I know this, I've tolerated it because: 
+1. I want to avoid the feeling of abandonment at all costs.
+2. These friends fill a necessity that's dictated by my current identity. 
+Face the truth in this respect. 
+Ask yourself "Do my friends love me for who I am or what I do?"[^1]
+Bad relationships will join the bubble of your life lie and do the equivalent of handing an beer to a recovering alcoholic. 
+Most of time time it's not because they're Bad People. 
+It's likely because they're also avoiding something in their lives, and you likely serve a similar role in their life. 
+You form a bubble of dependence with an implicit agreemeent never to call each out on the real problems you're avoiding. 
+
+Instead, surround yourself by courageous people. 
 People who aren't afraid of calling you out on your defects. 
 People that are open to changing. 
-Strong relationships, the ones that stick through thick or thin, are not meant to be there for your happiness. 
+Strong relationships, the ones that stick through thick or thin. 
+They are not meant to be there for your happiness. 
 They're there to carve you into the best person you can be. 
 
-
-> Life expands or shrinks according to one's courage
-
 Get started now. 
-“We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. Favorable conditions never come.”
+> Life expands or shrinks according to one's courage — Anaïs Nin, 1939
+There is never a perfect time to leave that bad relationship, that 
+> “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
+> If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
+> The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
+> Favorable conditions never come.”  C.S. Lewis.
 If you don't know how to get started, take a moment, pause for a second and pay attention to whatever you have been hiding ignoring or pretending doesn't exist.
+Once you decide to face truth, expect resistance from those closest to you.
+Personally, one of the hardest aspects of facing truth has been the resistance I've felt from those closest to me (I wrote about it [here](unreasonable.md))
+After all, when you embrace truth, you will shine a light on their faults and defficiencies  of other people
 Almost like magic, you will know what right thing to do next is.
 And it may actually be something simple, like, get off your phone and go to bed so you can wakeup early the next day to workout. 
 Or it could be something major: confess a lie, end an important relationship, change your job.  
-> If not you, then who? If not now, when?
+> If not you, then who? If not now, when? - Hillel
+
+[^1] As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
+[^2] Do you love yourself for what you do or who you are? 
 
 **An obligation to do great things**
 
