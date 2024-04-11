@@ -63,7 +63,7 @@ But you can only be yourself if you, let go of the identity that society, your f
 And if you allow yourself to let go of this sense of identity, things will fall into place. 
 My friend Dan recently reminded me of a good phrase in Spanish I really like: 
 > "Cuando te toca, ni aunque te quites y cuando no te toca, ni aunque te pongas"
-Which loosely translates to "When it's your turn, not even if you move away, and when it's not your turn, not even if you try."
+Which loosely translates to "When it's your turn, it doesn't matter if try to avoid it, and when it's not your turn, you won't get it even if you try."
 Face truth, make the necessary sacrifices, and surrender yourself to life and things will fall into place. 
 
 Living in truth is certainly harder than not living in truth. 
@@ -82,12 +82,13 @@ However, this is only temporarily safer, because no matter what happens, truth w
 The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
 You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
 It may destroy you. 
-Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it   . 
+Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it.
+That if any of these comments gave you a negative reaction, it's probably because it's true ;) 
 Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
 Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with.
 The longer you avoid it, the deeper the hole you dig. 
-"You are not stuck, you're just scared of the consequences" - Joe Hudson.
 
+> "You are not stuck, you're just scared of the consequences" - Joe Hudson.
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
 There are many nice truths: 
@@ -126,6 +127,8 @@ Most of time time it's not because they're Bad People.
 It's likely because they're also avoiding something in their lives, and you likely serve a similar role in their life. 
 You form a bubble of dependence with an implicit agreemeent never to call each out on the real problems you're avoiding. 
 
+> Life expands or shrinks according to one's courage — Anaïs Nin, 1939
+
 Instead, surround yourself by courageous people. 
 People who aren't afraid of calling you out on your defects. 
 People that are open to changing. 
@@ -134,12 +137,12 @@ They are not meant to be there for your happiness.
 They're there to carve you into the best person you can be. 
 
 Get started now. 
-> Life expands or shrinks according to one's courage — Anaïs Nin, 1939
-There is never a perfect time to leave that bad relationship, that 
+> There is never a perfect time to leave that bad relationship, that 
 > “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
 > If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
 > The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
 > Favorable conditions never come.”  C.S. Lewis.
+
 If you don't know how to get started, take a moment, pause for a second and pay attention to whatever you have been hiding ignoring or pretending doesn't exist.
 Once you decide to face truth, expect resistance from those closest to you.
 Personally, one of the hardest aspects of facing truth has been the resistance I've felt from those closest to me (I wrote about it [here](unreasonable.md))
@@ -276,9 +279,6 @@ That it's beautiful we ever fall in love enough to get heartbroken.
 
 That when you put someone on a pedestal, you fall in love with your idea of them. And that places undue pressure on them. 
 
-
-
-That if any of these comments gave you a negative reaction, it's probably because it's true ;)
 
 "The point of the fish story is merely that the most obvious, important realities are often the ones that are hardest to see and talk about. Stated as an English sentence, of course, this is just a banal platitude, but the fact is that in the day to day trenches of adult existence, banal platitudes can have a life or death importance"
 
