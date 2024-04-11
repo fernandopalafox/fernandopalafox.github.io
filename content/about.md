@@ -10,7 +10,7 @@ My name is Fernando Palafox Escobedo and I am a research assistant UT Austin wor
 I am also passionate about [reading](bookshelf), [writing](writing), and [fitness](fitness).
 
 I was born and raised in Mexico City where I spent most of time on books, video games, and friends. 
-My father's family is from Amecameca and I spent many happy childhood days visiting my grandparents in the small countryside town of [Amecameca](https://en.wikipedia.org/wiki/Amecameca).
+My father's family is from the small countryside town of Amecameca and I spent many happy childhood days there visiting my grandparents, exploring the local [tianguis](https://www.youtube.com/watch?v=SufxVtso8C0), and hiking around the [Iztaccihuatl](https://en.wikipedia.org/wiki/Iztaccihuatl).
 The time I spent there was instrumental in shaping my love for nature and my understanding for the importance of community. 
 
 After highschool, I moved to Boulder, Colorado where I earned my Bachelor's and Master's degrees in Aerospace Engineering from the University of Colorado Boulder. 
