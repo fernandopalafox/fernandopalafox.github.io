@@ -6,59 +6,104 @@ draft: true
 Here are a couple lessons I've learned in the past couple of months
 They're grouped into three topics: [Truth](#truth), [Being](#being), and [relationships](#relationships). 
 
-**Facing Truth**
+**Facing Truth for a Life Worth Living**
 
 What kind of life is worth living? 
 How much should I sacrifice in pursuit of my goals? 
 How much sacrifice is too much sacrifice? 
-Answering these questions sent me down a rabbit hole of answering truth. 
 I think that a life worth living is one of relentless pursuit of adventure, and the greatest source of adventure is the truth.  
 
-What exactly is truth? 
-Truth is what you see, say, or feel when you let go who you think you are, how you think things should be, how you think things should feel. 
+Truth is what you see, say, or feel when you let go who you think you are, how you think things should be, how you think you should feel. 
 The systematic process of uncovering truth is also known as science. 
+Or as legendary physicist Richard Feynamn put it:
+> "Science is what we have learned about how to keep from fooling ourselves".
 Truth is not what you wish things would be, it's what they actually are. 
 Truth is what you see when you look at the mirror. 
 It is the way people treat you.
 It is the way you look. 
 It is your career. 
 It is your faults. 
+It is your health.
 It is your talents.
-It is your situation.
 It is your insecurities. 
 It is your talents. 
-It's what you see and feel when you stop avoiding uncomfortable emotions.
+It's what you feel when you stop avoiding uncomfortable emotions.
 Truth is not your "potential", it is what you've done. 
 Truth is revealed when you try something and fail. 
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
-The force of reality stands behind truth, no amount of mental gymnastics, no amount of distortion, pleasure, or gaslighting will ever stop it.
-When you speak the truth, you let go of consequences. 
-In many cases, people will get hurt, people will be upset, but it doesn't make it any less real. 
-Living in truth is hard! 
-Because truth shines a shining light on what you lack. 
-Perhaps the truth is you're not as smart, good looking, or charismatic as you would like to believe. 
+The force of reality stands behind truth and no amount of mental gymnastics, pleasure, or manipulation will ever stop it.
+In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
+When you speak the truth, you let go of consequences.
 We do not control it, we have no say over its consequences, but it is always there. 
+Any proper adventure involves adversity, and finding truth is no different. 
+Because truth shines a shining light on what you lack. 
 
-But, it's not all bad, because a life of truth is the worthiest one because it will force you to become the best version of yourself. 
-When you orient towards truth you will need to face your darkest fears and faults. 
-Fortunately, if if you are honest enough with yourself, you will find it 
+You should live in truth because it will force you to become the best version of yourself. 
+When face truth you face your darkest fears and faults. 
+Facing truth means you not only ask the questions, "why did this fail?" or "How can I be better?", you must also want the answer. 
+This is may sound scary because perhaps the truth is you're not as smart, good looking, or charismatic as you would like to believe. 
+But the only way you can begin to do something about your faults is by accepting them!
 
-Living in a lie may feel safer, but that's only because you have temporary control over the bubble you choose to build around yourself. 
+When you face truth, you will let go of the identity you spend so much energy trying to maintain. 
+Personally, this experience feels like driving down a hill and finding that my brakes have failed.
+It is panic born from the recognition that very little of my reality is under my control.
+I don't choose my looks, smarts, or life situation. 
+I didn't choose what I like, who I love, what I like, who I am. 
+And fully internalizing that there's very little we choose is very scary! 
+> "The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is, there’s no ground.”
+> ― Chögyam Trungpa
+However, this lack of control is liberating in a sense, because it means that I can let go an fully hand myself over to life. 
+
+No one is better and being yourself, than yourself.
+And the only way you can be yourself is by facing truth, accepting your flaws, talents and life situation, and fully leaning into it.  
+Let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
+
+Living in truth is certainly harder than not living in truth. 
+By recognizing where your flaws are, where your talents are, and what your situation is, you will likely inch closer to what your role in this world is. 
+And fulfilling this role will require some sacrifice.
+But the truth of the matter is that any life worth living will require some sacrifice.   
+And if you don't feel like you're sacrificing something right now, like you're not facing an uncomfortable truth. 
+Well, buckle down, because something will break, eventually. 
+Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it. 
+Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
+If you're going through sacrifice right now, a part of you must recognize and knew at some point that what you were trying to do wuould be hard. 
+And well, this is what hard feels like. 
+
+Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the bubble you choose to build around yourself. 
 However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
 The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
 You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
 It may destroy you. 
-The longer you avoid it, the deeper the hole you dig. 
-
-Living in truth is certainly harder than not living in truth. 
-And the truth of the matter is that any life worth living will require some sacrifice.   
-And if you don't feel like you're sacrificing something right now, like you're not facing an uncomfortable truth. 
-Well, buckle down, because something has to give eventually. Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it   . 
+Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it   . 
 Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
-If you're going through sacrifice right now, a part of you must recognize and knew at some point that what you were trying to do wuould be hard. 
-And well, this is what hard feels like. 
-"If you're going through hell, don't stop"
+Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with.
+The longer you avoid it, the deeper the hole you dig. 
+"You are not stuck, you're just scared of the consequences".
+
+There are many nice truths: 
+But this is where things get good: now that you know all this you can start to do something about it!
+No one will ever take the power away from intepreting situations. 
+If you aim at truth, things will fall into place. 
+"Cynics get to be right, optimists get to be rich."
+Living in Truth does mean living a passive life of existence. 
+In fact, most of the times it's the opposite. 
+Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. 
+Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. 
+In fact, the bar to be better than most people at getting the truth is ridicuoulousy low. 
+Because is easier not to think, not to do, and not to care. It is easier to stagnate, to ignore, to pretend. 
+Living truth is accessible
+The adventure of truth is what makes life interesting!
+> "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
+
+You should pursue because it will force you to become the best version of yourself.
+Living in truth is how you find meaning in life. 
+It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
+Living in truth removes any interpreation of life as a glass half-full or glass half-empty person. 
+The glass is already full, just not of what we think or want.
+
+If you don't feel like you deserve becoming a better person (many such cases), think about it in terms of the people you love. 
+Pursue truth for them, because if you don't become the best person you can, someone else will eventually carry the burden you're avoiding. 
 
 It's easier to do it with other people. 
 But doing so will require good relationships. 
@@ -67,34 +112,11 @@ That bad friends will drag you down as your success shines a light on their faul
 Surround yourself by courageous people. 
 People who aren't afraid of calling you out on your defects. 
 People that are open to changing. 
+Strong relationships, the ones that stick through thick or thin, are not meant to be there for your happiness. 
+They're there to carve you into the best person you can be. 
 
-There are many uncomfortable truths
-Truth is completely out of your control and is completely unstoppable. 
-If you don't aim high, you will be consumed by resentment and make the world a bad place. 
-Aiming high will alienate others
-About sacrificing short term outcomes for long term gain. 
-You must not only ask the question, "why did this fail? How can I be better? How can I get better", you must also want the answer. 
-Ignoring truth will always backfire.
-Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it   . 
-Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
-Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with. 
 
-There are some nice truths: 
-But this is where things get good: now that you know all this you can start to do something about it!
-No one will ever take the power away from intepreting situations. 
-If you aim at truth, things will fall into place. 
-"Cynics get to be right, optimists get to be rich."
-Living in Truth does mean living a passive life of existence. 
-In fact, most of the times it's the opposite. 
-Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. In fact, the bar to be better than most people at getting the truth is ridicuoulousy low. Because is easier not to think, not to do, and not to care. It is easier to stagnate, to ignore, to pretend. 
-Living truth is accessible
-The adventure of truth is what makes life interesting!
-> "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
-
-Living in truth is how you find meaning in life. 
-It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
-Living in truth removes any interpreation of life as a glass half-full or glass half-empty person. 
-The glass is already full, just not of what we think or want.
+> Life expands or shrinks according to one's courage
 
 Get started now. 
 “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. Favorable conditions never come.”
