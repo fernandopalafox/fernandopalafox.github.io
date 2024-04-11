@@ -11,7 +11,7 @@ They're grouped into three topics: [Truth](#truth), [Being](#being), and [relati
 What kind of life is worth living? 
 How much should I sacrifice in pursuit of my goals? 
 How much sacrifice is too much sacrifice? 
-I think that a life worth living is one of relentless pursuit of adventure, and the greatest source of adventure is the truth.  
+I think that a life worth living is one of relentless pursuit of adventure, and the greatest source of adventure is the truth.
 This is why you should face truth.
 
 Truth is what you see, say, or feel when you let go who you think you are, how you think things should be, how you think you should feel. 
@@ -25,20 +25,18 @@ It is your faults.
 It is your health.
 It is your talents.
 It is your insecurities. 
-It is your talents. 
 It's what you feel when you stop avoiding uncomfortable emotions.
 Truth is not your "potential", it is what you've done. 
 Truth is revealed when you try something and fail. 
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
-The force of reality stands behind truth and no amount of mental gymnastics, pleasure, or manipulation will ever stop it.
+what is more adventurous, more real than heading headfirst into the dark forest of reality? 
+
 In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
-When you speak the truth, you let go of consequences.
-We do not control it, we have no say over its consequences, but it is always there. 
-Any proper adventure involves adversity, and finding truth is no different. 
-Because truth shines a shining light on what you lack. 
+When you speak the truth, you let go of consequences because We do not control truth, we have no say over its consequences, but it is always there. 
 
 You should live in truth because it will force you to become the best version of yourself. 
+Because truth shines a bright light on what you lack. 
 When face truth you face your darkest fears and faults. 
 Facing truth means you not only ask the questions, "why did this fail?" or "How can I be better?", you must also want the answer. 
 Living in truth removes any interpretation of life as a glass half-full or glass half-empty person. 
@@ -79,6 +77,7 @@ And well, this is what hard feels like.
 
 Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the bubble you choose to build around yourself. 
 However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
+The force of reality stands behind truth and no amount of mental gymnastics, , distraction, pleasure, or manipulation will ever fool nature.
 The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
 You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
 It may destroy you. 
@@ -132,11 +131,13 @@ You form a bubble of dependence with an implicit agreemeent never to call each o
 Instead, surround yourself by courageous people. 
 People who aren't afraid of calling you out on your defects. 
 People that are open to changing. 
-Strong relationships, the ones that stick through thick or thin. 
-They are not meant to be there for your happiness. 
+Good relationships, the kind that stick through thick or thin, not meant to make you happy. 
+That's your responsibility.
 They're there to carve you into the best person you can be. 
+they're there to constantly remind you that the only way is to orient yourself towards truth. 
 
-Get started now. 
+So, getface the truth.
+if not for you, 
 > There is never a perfect time to leave that bad relationship, that 
 > “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
 > If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
