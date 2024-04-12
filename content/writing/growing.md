@@ -30,26 +30,22 @@ Truth is not your "potential", it is what you've done.
 Truth is revealed when you try something and fail. 
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
-what is more adventurous, more real than heading headfirst into the dark forest of reality? 
+what is more adventurous, more real than going headfirst into the dark forest of reality? 
+
+You should live in truth because it will force you to become the best version of yourself. 
+Because truth shines a bright light on what you lack. 
+When you face the truth you don't only ask the questions, "why did this fail?" or "How can I be better?", it means you also want the answer. 
+When you face the truth, you stop being a glass half-full or glass half-empty person. 
+The glass is already full, just not of what we think or want.
+Truth forces you to engage with every part of our conscious experience, both the good and the bad. 
+But the only way you can begin to do something about your faults is by accepting them!
 
 In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
 When you speak the truth, you let go of consequences because We do not control truth, we have no say over its consequences, but it is always there. 
 
-You should live in truth because it will force you to become the best version of yourself. 
-Because truth shines a bright light on what you lack. 
-When face truth you face your darkest fears and faults. 
-Facing truth means you not only ask the questions, "why did this fail?" or "How can I be better?", you must also want the answer. 
-Living in truth removes any interpretation of life as a glass half-full or glass half-empty person. 
-The glass is already full, just not of what we think or want.
-It forces you to u to engage with every part of our conscious experience, both the good and the bad. 
-This is may sound scary because perhaps the truth is you're not as smart, good looking, or charismatic as you would like to believe. 
-But the only way you can begin to do something about your faults is by accepting them!
-
-When you face truth, you will let go of the identity you spend so much energy trying to maintain. 
+When you face truth, you will let go of the identity you spend so much energy maintaining. 
 Personally, this experience feels like driving down a hill and finding that my brakes have failed.
-It is panic born from the recognition that very little of my reality is under my control.
-I don't choose my looks, smarts, or life situation. 
-I didn't choose what I like, who I love, what I like, who I am. 
+Everytime I let got a new piece of my identity, I feel panic as I completely relinquish control. 
 And fully internalizing that there's very little we choose is very scary! 
 > "The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is, there’s no ground.”
 > ― Chögyam Trungpa
@@ -57,9 +53,9 @@ However, this lack of control is liberating in a sense, because it means that I 
 
 And the only way you can be yourself is by facing truth, accepting your flaws, talents and life situation, and fully leaning into it.  
 No one is better and being yourself, than yourself.
-But you can only be yourself if you, let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
+You can only be yourself if you let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
 And if you allow yourself to let go of this sense of identity, things will fall into place. 
-My friend Dan recently reminded me of a good phrase in Spanish I really like: 
+My friend Dan recently reminded me of this great Latin proverb: 
 > "Cuando te toca, ni aunque te quites y cuando no te toca, ni aunque te pongas"
 Which loosely translates to "When it's your turn, it doesn't matter if try to avoid it, and when it's not your turn, you won't get it even if you try."
 Face truth, make the necessary sacrifices, and surrender yourself to life and things will fall into place. 
@@ -75,9 +71,17 @@ Atonement when straying from truth will require sacrifice, and let this dragon g
 If you're going through sacrifice right now, a part of you must recognize and knew at some point that what you were trying to do wuould be hard. 
 And well, this is what hard feels like. 
 
+You should face the truth because you don't have alternative. 
+Sooner or later, truth will come knocking at your door. 
+The toxic relationship you avoided leaving will dramatically explode at some point. 
+The skill you avoided improving because you were too busy? In some years, guess who won't get a promotion at their job. 
+The dentist appointments you avoided 
+There is no free lunch, and every bit of truth you avoid today is using up some part of you future. 
+"In life you most choose your regrets". Choose wisely. 
+
 Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the bubble you choose to build around yourself. 
 However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
-The force of reality stands behind truth and no amount of mental gymnastics, , distraction, pleasure, or manipulation will ever fool nature.
+The force of reality stands behind truth and no amount of mental gymnastics, distraction, pleasure, or manipulation will ever fool nature.
 The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
 You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
 It may destroy you. 
@@ -87,15 +91,19 @@ Atonement when straying from truth will require sacrifice, and let this dragon g
 Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with.
 The longer you avoid it, the deeper the hole you dig. 
 
-> "You are not stuck, you're just scared of the consequences" - Joe Hudson.
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
-There are many nice truths: 
-But this is where things get good: now that you know all this you can start to do something about it!
-No one will ever take the power away from intepreting situations. 
-If you aim at truth, things will fall into place. 
+> Insert skill issue meme
+
+> "If shit happens, do you overcome shit or do you become shit?" - Alex Hormozi
+
+But this is where things get good: once you face the truth you have the chance to find meaning in it.
+The truth may be you're working a dead-end job you don't like, you have a degenerative disease, you hate yourself, you care too much about what people think, you suck at your favorite hobby, or your friends don't respect you. 
+Will you use these uncomfortable truths to get better? 
+Or will you let them drag you down into a bottomless pit of resentment, cynicism, and selfishness?
+
 "Cynics get to be right, optimists get to be rich."
-Living in Truth does mean living a passive life of existence. 
+Living in Truth does not mean living a passive life of existence. 
 In fact, most of the times it's the opposite. 
 Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. 
 Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. 
@@ -136,9 +144,9 @@ That's your responsibility.
 They're there to carve you into the best person you can be. 
 they're there to constantly remind you that the only way is to orient yourself towards truth. 
 
-So, getface the truth.
+So, get out there and face the truth.
 if not for you, 
-> There is never a perfect time to leave that bad relationship, that 
+There is never a perfect time to leave that bad relationship, that 
 > “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
 > If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
 > The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
@@ -183,6 +191,10 @@ Whatever greatness means for you, you have a duty to pursue it.
 Because life is hard, and if you can't rest easy knowing that you did your best, no matter the sacrifice, you will end up bitter and resentful. 
 If you avoid aiming for greatness, you will inevitably try to bring down all those who do, because they will remind you of the dreams you gave up on. 
 They will remind you of the sacrifices you were not willing to make.
+
+"We regret the things we didn't do more than the things we did. 
+The pain of trying and failying may be intense but at least it tends to be over rather quickly. 
+The pain of failintg to try, on the other hand, is less intense but neer really goes away." 
 
 **Being**
 
