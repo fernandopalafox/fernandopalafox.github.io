@@ -25,52 +25,49 @@ It is your faults.
 It is your health.
 It is your talents.
 It is your insecurities. 
+It is your responsibilities
 It's what you feel when you stop avoiding uncomfortable emotions.
 Truth is not your "potential", it is what you've done. 
 Truth is revealed when you try something and fail. 
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
-what is more adventurous, more real than going headfirst into the dark forest of reality? 
+What is more adventurous, more uncertain, more worthy than going headfirst into the dark forest of reality? 
+
+> "If i know what I shall find, I do not want to find it. Uncertainty is the salt of life" - Erwin Chargaff
 
 You should live in truth because it will force you to become the best version of yourself. 
 Because truth shines a bright light on what you lack. 
 When you face the truth you don't only ask the questions, "why did this fail?" or "How can I be better?", it means you also want the answer. 
-When you face the truth, you stop being a glass half-full or glass half-empty person. 
-The glass is already full, just not of what we think or want.
 Truth forces you to engage with every part of our conscious experience, both the good and the bad. 
 But the only way you can begin to do something about your faults is by accepting them!
-
-Sooner or later, truth will come knocking at your door. 
-The toxic relationship you avoided leaving will dramatically explode at some point. 
-The skill you avoided improving because you were too busy? In some years, guess who won't get a promotion at their job. 
-The dentist appointments you avoided 
-There is no free lunch, and every bit of truth you avoid today is using up some part of you future. 
-"In life you most choose your regrets". Choose wisely. 
-
 If you don't feel like you deserve becoming a better person (many such cases), think about it in terms of the people you love. 
 Pursue truth for them, because if you don't become the best person you can, someone else will eventually carry the burden you're avoiding. 
-
-<!-- In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
-When you speak the truth, you let go of consequences because We do not control truth, we have no say over its consequences, but it is always there.  -->
 
 When you face truth, you will let go of the identity you spend so much energy maintaining. 
 Personally, this experience feels like driving down a hill and finding that my brakes have failed.
 Everytime I let got a new piece of my identity, I feel panic as I completely relinquish control. 
-And fully internalizing that there's very little we choose is very scary! 
+I begin to accept my flaws, talents, life situation, mistakes, and fully lean into them. 
+I stop the mental control over my mental filter of the situation and just take things for what they are.  
+But this is very scary! 
 > "The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is, there’s no ground.”
 > ― Chögyam Trungpa
 However, this lack of control is liberating in a sense, because it means that I can let go an fully hand myself over to life. 
 
-And the only way you can be yourself is by facing truth, accepting your flaws, talents and life situation, and fully leaning into it.  
-No one is better and being yourself, than yourself.
-You can only be yourself if you let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
+By facing truth, you can begin to become who you are meant to be. 
+When you face truth you let go of the identity that society, your friends, family, and social media is trying to turn you into, and fully hand yourself over to life.
 And if you allow yourself to let go of this sense of identity, things will fall into place. 
 My friend Dan recently reminded me of this great Latin proverb: 
 > "Cuando te toca, ni aunque te quites y cuando no te toca, ni aunque te pongas"
 Which loosely translates to "When it's your turn, it doesn't matter if try to avoid it, and when it's not your turn, you won't get it even if you try."
-Face truth, make the necessary sacrifices, and surrender yourself to life and things will fall into place. 
+Face truth, surrender yourself to life, and things will fall into place. 
 
-Living in truth is certainly harder than not living in truth. 
+None of this is to say that it will be easy. 
+In fact, living in truth is harder than not living in truth. 
+You will find that facing it will require some significant sacrifices. 
+When you accept the sacrifice that comes with facing truth, you will likely be left with some regrets over the friends you lost, the parties parties, and trips you didn't take. 
+But as Christopher Hitchins said it bet: "In life you most choose your regrets". 
+So, choose wisely. 
+
 By recognizing where your flaws are, where your talents are, and what your situation is, you will likely inch closer to what your role in this world is. 
 And fulfilling this role will require some sacrifice.
 But the truth of the matter is that any life worth living will require some sacrifice.   
@@ -81,85 +78,88 @@ Atonement when straying from truth will require sacrifice, and let this dragon g
 If you're going through sacrifice right now, a part of you must recognize and knew at some point that what you were trying to do wuould be hard. 
 And well, this is what hard feels like. 
 
-Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the bubble you choose to build around yourself. 
-However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
-The force of reality stands behind truth and no amount of mental gymnastics, distraction, pleasure, or manipulation will ever fool nature.
-The more time you spend entertaining people bad relationships, avoiding responsibility, avoiding uncomfortable emotions, the bigger the monster under the bed grows. 
-You may be able to avoid facing this dragon for a long time, but if you let it grow too large, the corresponding sacrifice will be just as large. 
-It may destroy you. 
-Any tiny bit of uncomfortable truth you sweep under a rug will always grow into legimitate chaos if you don't face it.
-That if any of these comments gave you a negative reaction, it's probably because it's true ;) 
-Atonement when straying from truth will require sacrifice, and let this dragon grow to big, and the sacrifice may take everything from you. 
-Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes out of it will be much harder to deal with.
-The longer you avoid it, the deeper the hole you dig. 
-
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
-It's easier to do it with other people. 
-But doing so will require good relationships. 
-That good friends will, in a painful process, carve out the bad, the mediocre, the bad. 
-That bad friends will drag you down as your success shines a light on their faults. 
-Personally, I struggle with this aspect a lot. 
+If you don't face truth, sooner or later, it will come knocking at your door. 
+The hard work you avoided today? You'll see this reflected in you career in a couple years
+The dentist appointments you avoided today will leave you with a heap of medical problems and shame later on. 
+The toxic relationship you avoided leaving will dramatically explode at some point. 
+Every bit of truth you avoid today is using up some part of your future. 
+
+Living in a life may temporarily feel better because you have some degree of control over the bubble you build around yourself. 
+Personally, I like feeling under control, and letting go of it is scary. 
+
+Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the mental bubble you build around yourself. 
+The force of reality stands behind truth and no amount of distraction, pleasure, or manipulation will ever fool nature.
+The more time you spend entertaining people bad relationships, avoiding responsibility or uncomfortable emotions, the bigger the monster under the bed grows. 
+And the bigger the monster, the larger the corresponding sacrifice you will have to face. 
+Let it grow too big, and it may just destroy you. 
+The longer you avoid it, the deeper the hole you dig. 
+
+One way of getting started in facing truth is to surround yourself with good relationships
+That good friends will, in a sometimes painful process, carve out the mediocre parts of you.
+If they love you, they will be your biggest critics in private and your biggest supporters in public. 
+On the other hand, bad friends will drag you down as your sincere and intense conviction for truth shines a light on their faults.[^2]
+They will resent you for constantly reminding them of the dreams they gave up on, or the sacrifices they didn't make.
+
+Personally, I have sometimes struggled with finding good relationships.
 Growing up I had trouble making friends and I was the opposite of charismatic. 
 I am extremely sensitive to the feeling of abandonment, of feeling like I'm not enough.
 This has manifested itself through a pattern of making friends with people that don't truly value me. 
 Although I know this, I've tolerated it because: 
-1. I want to avoid the feeling of abandonment at all costs.
-2. These friends fill a necessity that's dictated by my current identity. 
-Face the truth in this respect. 
-Ask yourself "Do my friends love me for who I am or what I do?"[^1]
-Bad relationships will join the bubble of your life lie and do the equivalent of handing an beer to a recovering alcoholic. 
+1. I wanted to avoid the feeling of abandonment at all costs.
+2. These friends fill a requirement of my current identity. 
+Facing this reality has involved accepting my insecurities around abandonment and then filtering friendships by asking:  "Do my friends love me for who I am or what I do?"[^1]
+Bad relationships will contribute to the bubble of your life lie and continuously hand a beer to a recovering alcoholic. 
 Most of time time it's not because they're Bad People. 
 It's likely because they're also avoiding something in their lives, and you likely serve a similar role in their life. 
 You form a bubble of dependence with an implicit agreemeent never to call each out on the real problems you're avoiding. 
+In the same way it's easier to face reality with a good set of relationships, bad relationships will make it really easy who you avoid truth.
 
 > Life expands or shrinks according to one's courage — Anaïs Nin, 1939
 
 Instead, surround yourself by courageous people. 
 People who aren't afraid of calling you out on your defects. 
 People that are open to changing. 
-Good relationships, the kind that stick through thick or thin, not meant to make you happy. 
-That's your responsibility.
-They're there to carve you into the best person you can be. 
+Good relationships, the kind that stick through thick or thin, not responsibl for making you happy. 
+They're there to support you in the mind-bending process of carving yourself into the best person you can be. 
 they're there to constantly remind you that the only way is to orient yourself towards truth. 
+After all, you're the average of the five people you spend the most time with. 
+Is your partner courageous? 
+Are your friends courageous? 
 
 > "If shit happens, do you overcome shit or do you become shit?" - Alex Hormozi
 
-But this is where things get good: once you face the truth you have the chance to find meaning in it.
-The truth may be you're working a dead-end job you don't like, you have a degenerative disease, you hate yourself, you care too much about what people think, you suck at your favorite hobby, or your friends don't respect you. 
-Will you use these uncomfortable truths to get better? 
-Or will you let them drag you down into a bottomless pit of resentment, cynicism, and selfishness?
+If you face truth, you're given access to the biggest priviledge in life: the chance to find meaning in truth. 
+Perhaps the truth is you're working a dead-end job you don't like, you have a degenerative disease, you hate yourself, you care too much about what people think, you suck at your favorite hobby, or your friends don't respect you. 
+Wil you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and selfishness?
+Will you accept face them and use them to be better? 
+That if any of these comments gave you a negative reaction, it's probably because it's true ;) 
 
-"Cynics get to be right, optimists get to be rich."
-Living in Truth does not mean living a passive life of existence. 
-In fact, most of the times it's the opposite. 
-Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. 
-Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. 
-In fact, the bar to be better than most people at getting the truth is ridicuoulousy low. 
-Because is easier not to think, not to do, and not to care. It is easier to stagnate, to ignore, to pretend. 
-Living truth is accessible
-The adventure of truth is what makes life interesting!
-> "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
-
-So, get out there and face the truth.
-if not for you, 
-There is never a perfect time to leave that bad relationship, that 
 > “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
 > If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
 > The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
 > Favorable conditions never come.”  C.S. Lewis.
 
+Get out there and face the truth.
+if not for you, then do it for the people you love, because they will bear your burden if you don't. 
+There is never a perfect time to leave that bad relationship, learn to face your crippling anxiety, or leave that job you hate. 
 If you don't know how to get started, take a moment, pause for a second and pay attention to whatever you have been hiding ignoring or pretending doesn't exist.
+Ask yourself: what feeling am I avoiding? Shame? Anger? Abandonment? Anxiety? Dependency? Insufficiency? Fear? Incompetence?
+Face it. 
+Only when you accept responsibility for who you are that you can do something about it. 
+And if you do, it will likely be easier than you expect.
+> "If you face your deepest fears, you may never have to meet them." 
+And if it's not easy, what were you expecting. 
+Did you really think aiming towards the worthiest of lives was going to be easy? 
+No, you knew it was going to be hard. 
+Well, this is what hard feels like. 
 Once you decide to face truth, expect resistance from those closest to you.
-Personally, one of the hardest aspects of facing truth has been the resistance I've felt from those closest to me (I wrote about it [here](unreasonable.md))
-After all, when you embrace truth, you will shine a light on their faults and defficiencies  of other people
-Almost like magic, you will know what right thing to do next is.
-And it may actually be something simple, like, get off your phone and go to bed so you can wakeup early the next day to workout. 
-Or it could be something major: confess a lie, end an important relationship, change your job.  
 > If not you, then who? If not now, when? - Hillel
 
 [^1] As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
 [^2] Do you love yourself for what you do or who you are? 
+[^3] Personally, one of the hardest aspects of facing truth has been the resistance I've felt from those closest to me (I wrote about it [here](unreasonable.md))
 
 **An obligation to do great things**
 
