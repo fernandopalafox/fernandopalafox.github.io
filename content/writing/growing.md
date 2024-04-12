@@ -40,8 +40,18 @@ The glass is already full, just not of what we think or want.
 Truth forces you to engage with every part of our conscious experience, both the good and the bad. 
 But the only way you can begin to do something about your faults is by accepting them!
 
-In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
-When you speak the truth, you let go of consequences because We do not control truth, we have no say over its consequences, but it is always there. 
+Sooner or later, truth will come knocking at your door. 
+The toxic relationship you avoided leaving will dramatically explode at some point. 
+The skill you avoided improving because you were too busy? In some years, guess who won't get a promotion at their job. 
+The dentist appointments you avoided 
+There is no free lunch, and every bit of truth you avoid today is using up some part of you future. 
+"In life you most choose your regrets". Choose wisely. 
+
+If you don't feel like you deserve becoming a better person (many such cases), think about it in terms of the people you love. 
+Pursue truth for them, because if you don't become the best person you can, someone else will eventually carry the burden you're avoiding. 
+
+<!-- In many cases, speaking the truth will upset those around you, but it doesn't make it any less real. 
+When you speak the truth, you let go of consequences because We do not control truth, we have no say over its consequences, but it is always there.  -->
 
 When you face truth, you will let go of the identity you spend so much energy maintaining. 
 Personally, this experience feels like driving down a hill and finding that my brakes have failed.
@@ -71,14 +81,6 @@ Atonement when straying from truth will require sacrifice, and let this dragon g
 If you're going through sacrifice right now, a part of you must recognize and knew at some point that what you were trying to do wuould be hard. 
 And well, this is what hard feels like. 
 
-You should face the truth because you don't have alternative. 
-Sooner or later, truth will come knocking at your door. 
-The toxic relationship you avoided leaving will dramatically explode at some point. 
-The skill you avoided improving because you were too busy? In some years, guess who won't get a promotion at their job. 
-The dentist appointments you avoided 
-There is no free lunch, and every bit of truth you avoid today is using up some part of you future. 
-"In life you most choose your regrets". Choose wisely. 
-
 Living in a lie may feel like a safer alternative, but that's only because of the temporary control over the bubble you choose to build around yourself. 
 However, this is only temporarily safer, because no matter what happens, truth will eventually come out. 
 The force of reality stands behind truth and no amount of mental gymnastics, distraction, pleasure, or manipulation will ever fool nature.
@@ -92,29 +94,6 @@ Perhaps not today. Perhaps not tomorrow. But I guarantee whatever dragon comes o
 The longer you avoid it, the deeper the hole you dig. 
 
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
-
-> Insert skill issue meme
-
-> "If shit happens, do you overcome shit or do you become shit?" - Alex Hormozi
-
-But this is where things get good: once you face the truth you have the chance to find meaning in it.
-The truth may be you're working a dead-end job you don't like, you have a degenerative disease, you hate yourself, you care too much about what people think, you suck at your favorite hobby, or your friends don't respect you. 
-Will you use these uncomfortable truths to get better? 
-Or will you let them drag you down into a bottomless pit of resentment, cynicism, and selfishness?
-
-"Cynics get to be right, optimists get to be rich."
-Living in Truth does not mean living a passive life of existence. 
-In fact, most of the times it's the opposite. 
-Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. 
-Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. 
-In fact, the bar to be better than most people at getting the truth is ridicuoulousy low. 
-Because is easier not to think, not to do, and not to care. It is easier to stagnate, to ignore, to pretend. 
-Living truth is accessible
-The adventure of truth is what makes life interesting!
-> "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
-
-If you don't feel like you deserve becoming a better person (many such cases), think about it in terms of the people you love. 
-Pursue truth for them, because if you don't become the best person you can, someone else will eventually carry the burden you're avoiding. 
 
 It's easier to do it with other people. 
 But doing so will require good relationships. 
@@ -143,6 +122,24 @@ Good relationships, the kind that stick through thick or thin, not meant to make
 That's your responsibility.
 They're there to carve you into the best person you can be. 
 they're there to constantly remind you that the only way is to orient yourself towards truth. 
+
+> "If shit happens, do you overcome shit or do you become shit?" - Alex Hormozi
+
+But this is where things get good: once you face the truth you have the chance to find meaning in it.
+The truth may be you're working a dead-end job you don't like, you have a degenerative disease, you hate yourself, you care too much about what people think, you suck at your favorite hobby, or your friends don't respect you. 
+Will you use these uncomfortable truths to get better? 
+Or will you let them drag you down into a bottomless pit of resentment, cynicism, and selfishness?
+
+"Cynics get to be right, optimists get to be rich."
+Living in Truth does not mean living a passive life of existence. 
+In fact, most of the times it's the opposite. 
+Most of the times, when you dare look at Truth, it becomes immediately apparent what your flaws are. 
+Where you can improve, what you've done wrong, how you can be better. And it's actually easier to ignore it. 
+In fact, the bar to be better than most people at getting the truth is ridicuoulousy low. 
+Because is easier not to think, not to do, and not to care. It is easier to stagnate, to ignore, to pretend. 
+Living truth is accessible
+The adventure of truth is what makes life interesting!
+> "If i know what I shall find, I do not want to find it. Uncertainty is the salf of life" - Erwin Chargaff
 
 So, get out there and face the truth.
 if not for you, 
