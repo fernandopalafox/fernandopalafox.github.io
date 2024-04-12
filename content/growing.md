@@ -1,6 +1,6 @@
 ---
 title: Reminders to Self
-draft: true
+draft: false
 ---
 
 Here are a couple lessons I've learned in the past couple of months
