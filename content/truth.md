@@ -1,5 +1,5 @@
 ---
-title: **Why You Should Face Truth**
+title: Why You Should Face Truth
 draft: false
 ---
 
