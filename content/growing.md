@@ -3,9 +3,6 @@ title: Reminders to Self
 draft: false
 ---
 
-Here are a couple lessons I've learned in the past couple of months
-They're grouped into three topics: [Truth](#truth), [Being](#being), and [relationships](#relationships). 
-
 **Why You Should Face Truth**
 
 I think that a life worth living is one of adventure, and the greatest source of adventure is the truth.
@@ -38,7 +35,7 @@ Will you use them to get better?
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
 And I think you should face it because what is more adventurous, more uncertain, more worthy than going headfirst into the dark forest of reality?
 
-> "If i know what I shall find, I do not want to find it. Uncertainty is the salt of life" - Erwin Chargaff
+> "If I know what I shall find, I do not want to find it. Uncertainty is the salt of life" - Erwin Chargaff
 
 You should face truth because it will force you to become the best version of yourself. 
 Because truth shines a bright light on what you lack. 
@@ -69,7 +66,8 @@ Face truth, surrender yourself to life, and things will fall into place.
 However, facing truth is harder than avoiding it and will always come with some sacrifice. 
 To me, this has meant buckling down and missing out on a bunch of parties, losing some friends, and not going on some trips. 
 To you, the sacrifice may be different, but it will nonetheless be there. 
-As Christopher Hitchins rightly said "In life you most choose your regrets". 
+As Christopher Hitchins said "In life you most choose your regrets". 
+So, choose wisely.
 
 If you don't face truth, sooner or later, it will come knocking at your door. 
 The hard work you avoided today? You'll see this reflected in you career in a couple years
@@ -102,8 +100,6 @@ Letting go of these relationships has been really hard, but it really is the onl
 You're wasting everyone's time the more you spend here. 
 Part of facing truth in this respect has meant I asked myself the following question: "Do my friends love me for who I am or what I do?"[^1]. 
 
-> Life expands or shrinks according to one's courage — , 1939
-
 Instead, surround yourself by courageous people. 
 As Anaïs Nin said "life expands or shrinks according to one's courage".
 So find people that aren't afraid of calling you out on your bullshit. 
@@ -114,16 +110,18 @@ Are your friends courageous?
 You're the average of the five people you spend the most time with. 
 So, choose wisely. 
 
-> “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
-> If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
-> The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
-> Favorable conditions never come.”  C.S. Lewis.
-
 If you're reading this, you live a life of privilege beyond the wildest dreams of billions of people. 
 So, honor the parents, teachers, friends, and strangers that sacrificed for you and become the best person you can be. 
 If not for you, then do it for the people you love, because they will bear your burden if you don't. 
 There is never a perfect time to leave that bad relationship, learn to face your crippling anxiety, or leave that job you hate. 
-Accept responsibility for who you are and then start doing something about it. 
+As C.S. Lewis wrote at the height of World War Two: 
+
+> “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
+> If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. 
+> The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
+> Favorable conditions never come.”
+
+So, accept responsibility for who you are and start doing something about it. 
 In some cases, facing this responsibility will be easier than you expected.
 As the saying goes, "if you face your deepest fears, you may never have to meet them." 
 In most cases, it won't be easy, but what were you expecting? 
@@ -132,7 +130,7 @@ Well, this is what hard feels like.
 If you don't know how to get started, take a moment and pay attention to whatever it is you have have been pretending doesn't exist.
 And face it. 
 
-> If not you, then who? If not now, when? - Hillel
+> "If not you, then who? If not now, when?" - Hillel
 
 [^1] As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
 [^2] Do you love yourself for what you do or who you are? 
