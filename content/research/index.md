@@ -3,31 +3,8 @@ title: Research
 ---
 
 I am a PhD student at the [CLeAR Laboratory](https://clearoboticslab.github.io/) advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil). 
-**My mission is to build low-cost, socially aware, consumer robots to relieve humans of dangerous, boring, or physically demanding tasks such as driving, flying, household tasks, and/or manual labor.** 
-I'd like to see a world where all humans can focus on what machines still can’t do: creativity, knowledge creation, and living meaningful lives. 
-
-# Current projects
-Here's a list of projects I'm currently working on (please reach out if any of these sound interesting!):
-- Joint friction modelling of a robotic manipulator commanded via an impedance controller in a contact-rich manipulation task.
-- Topologically-grounded, multi-agent trajectory generation for autonomous driving. [Braid groups](https://en.wikipedia.org/wiki/Braid_group) are fun!
-- Uncertainty reduction in adversarial general-sum games with uncertainty about opponent's costs. 
-
-# Research Statement
-
-**I focus on socially-aware robotics** because deployment beyond an academic setting will inevitably lead to interactions with other agents such as humans, animals, or other robots. 
-This means that safe and useful interactions will require **robots that can reason about the effect their actions will have on other agents**. 
-To that end, my research focuses on developing decision-making algorithms that enable robots to make real-time decisions in multi-agent environments.
-
-My work primarily builds on the paradigm of **imitation learning**, where robots learn by observing expert demonstrations. This is based on the premise that it is easier, more efficient, and safer to show a robot how it should do things instead of verbally specifying it or hoping it learns it by pure trial and error. Much of my work focuses on using our knowledge of physics, multi-agent interactions, and control theory to structure the learning problem in a way that improves sample efficiency and generalizability to previously unseen scenarios. **My goal is to build a robot that does not simply copy the observed behavior but instead, learns why the experts acted the way they did and then completes its task in a manner consistent with these reasons.**
-
-An example of my research is my work on game-theoretic imitation learning, where a robot imitates behavior by observing a multi-agent interaction and learning what other agents want (objectives) and how they get it (constraints). 
-Structuring the learning problem with a game-theoretic representation allows the robot to efficiently learn behavior that better generalizes. 
-A concrete application of this can be found in my most recent publication [*Learning Hyperplanes for Multi-Agent Collision Avoidance in Space*](research/hyperplanes) which focuses on autonomous spacecraft that use expert demonstrations to learn how to optimally avoid collisions in close-proximity, multi-agent operations, e.g., collaborative space construction.
-
-My work leverages **game theory** [(gt)](tags/gt), **control theory** [(ct)](tags/ct), and **machine learning** [(ml)](tags/ml). 
-I sometimes work on weekend hacks [(wh)](tags/wh) to learn something new.
-In the past I've worked on software-defined radios for satellite navigation systems and low-cost, local positioning systems. 
-You can read more about me [here](about).
+I work with **game theory** [(gt)](tags/gt), **control theory** [(ct)](tags/ct), and **machine learning** [(ml)](tags/ml). 
+Sometimes I'll work on a weekend hack to learn something new. 
 
 <figure style="text-align: center;">
   <img src="media/impedance_collision.png" alt="" style="width:100%">
