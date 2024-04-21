@@ -2,9 +2,9 @@
 title: Research
 ---
 
-I'm researcher working on decisionmaking for robots.  
-My work uses **game theory** [(gt)](tags/gt), **control theory** [(ct)](tags/ct), and **machine learning** [(ml)](tags/ml). 
-Sometimes I'll work on a **weekend hack** [(wh)]to learn something new. 
+I'm researcher working on decision-making algothims for robots.  
+I use **game theory** [(gt)](tags/gt), **control theory** [(ct)](tags/ct), and **machine learning** [(ml)](tags/ml). 
+Sometimes I'll work on **weekend hacks** [(wh)] to learn something new. 
 I'm currently a PhD student at the [CLeAR Laboratory](https://clearoboticslab.github.io/) advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
 
 <figure style="text-align: center;">
