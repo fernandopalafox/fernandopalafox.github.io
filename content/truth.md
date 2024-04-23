@@ -8,8 +8,8 @@ But facing the truth is very hard.
 So here is why you should face it. 
 
 Truth is what you find when you let go of how you think things should be.
-The systematic process of discovering truth is known as science. [^1]
-Truth is what you see when you look at the mirror. 
+The systematic process of discovering truth is known as Science. [^1]
+Truth is what you see when you look in the mirror. 
 It is the way people treat you.
 It is how you look.
 It is your spouse. 
@@ -22,9 +22,9 @@ It is your responsibilities.
 It is not your potential, it is what you've done. 
 
 Facing truth means you stop avoiding what you don't want to hear.
-For example, it is accepting your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what people think, you distracts yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, you are angry, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
+For example, it may be accepting your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what people think, you distract yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, you are angry, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
 If any of this makes you uncomfortable, it's probably because it's true. 
-Wil you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and hate?
+Will you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and hate?
 Or will you face them and get better?
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
@@ -56,14 +56,14 @@ And when you do, perhaps you'll find an immense source of power you never knew y
 However, facing truth is harder than avoiding it and will require sacrifice. 
 To me, this has meant focusing on work and missing out on parties, travel, and losing some friends. 
 To you, the sacrifice may be different, but it will still be required.
-As Christopher Hitchins said: 
-> "In life you most choose your regrets."
+As Christopher Hitchens said: 
+> "In life you must choose your regrets."
 
 So, choose wisely.
 
 If you don't face truth, sooner or later, it will come knocking at your door. 
 The hard work you avoided today? Your career will reflect it in a couple years.
-The terrible way you treat your body? Good luck with medical bills and shame as your body begins to falls apart. 
+The terrible way you treat your body? Good luck with medical bills and shame as your body begins to fall apart. 
 The toxic relationship you avoided leaving? It may legitimately derail your life. 
 Every bit of truth you avoid today is using up some part of your future.
 
@@ -88,7 +88,7 @@ I avoid feeling abandonment or incompetence at all costs.
 But in avoiding these feelings I've repeatedly made friends with people that don't value me for who I am, only for what I do in the service of an identity they like.
 Letting go of these relationships has been really hard, but it is the best way forward for everyone involved
 Figure out who the good friends are and cut out the bad ones. 
-And if any feelings of selfishness or guilt stops you from doing this, consider the toxic role you serve in their lives, and do it for them.
+And if any feelings of selfishness or guilt stop you, consider the toxic role you serve in their lives, and do it for them.
 
 Instead, surround yourself by courageous people. 
 Find people that aren't afraid of calling out your bullshit. 
@@ -128,32 +128,3 @@ And face it today.
 
 [^1]: As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
 [^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
