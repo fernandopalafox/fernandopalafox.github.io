@@ -8,7 +8,7 @@ But facing the truth is very hard.
 So here is why you should face it. 
 
 Truth is what you see, say, or feel when you let go who you think you should be, how things should be, or you should feel. 
-The systematic process of uncovering truth is also known as science. [^1]
+The systematic process of discovering truth is also known as science. [^1]
 Truth is not what you wish things would be, it's what they actually are. 
 Truth is what you see when you look at the mirror. 
 It is the way people treat you.
@@ -24,9 +24,9 @@ It is not your potential, it is what you've done.
 It's what you feel when you stop avoiding uncomfortable emotions.
 
 Facing truth means you stop avoiding what you don't want to hear.
-For example, it is accepting that your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what people think, you distracts yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
+For example, it is accepting your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what people think, you distracts yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
 If any of this makes you uncomfortable, it's probably because it's true. 
-Wil you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and selfishness?
+Wil you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and hate?
 Or will you face them and get better?
 
 Truth is the ultimate adventure because it does not depend on what you know, like, think, or want. 
@@ -36,26 +36,27 @@ And I think you should face it because what is more adventurous, more uncertain,
 
 You should face truth because it will force you to become the best version of yourself. 
 Truth shines a bright light on what you lack. 
-When you face it and ask "why did I fail?" or "how can I be better?" (and you also **want** the answer) you can begin to improve. 
+When you face it and ask "why did I fail?" or "how can I be better?" - and you also want the answer - you can begin to improve. 
 And if you don't feel like you deserve becoming a better person, think of the people you love.
 Pursue truth for them because if you don't, someone else will eventually carry the burden you're avoiding.
 
-When you face truth, you let go of your identity.
-Think of how much energy you spend maintaining the identity defined by yourself, society, friends, family, or social media.
+When you face truth, you let go of identity.
+Think of how much energy you spend maintaining the identity defined by society, social media, friends, family, or even yourself.
 Perhaps you try to look as independent as possible because you're afraid of feeling dependent or appearing needy. 
-But that would be unacceptable because you have always identified as self-sufficient, competent, and resourceful!
+And that would be unacceptable because you have always presented yourself as self-sufficient, competent, and resourceful!
 Perhaps you wear a mask of extreme generosity and warmth because you're afraid of facing the immense anger and resentment that lives inside of you.
 Or perhaps you're agreeable and avoid conflicts at all costs because you're afraid of rejection.
+
 We all have faults, vices and bad habits. 
-Some of them are easy to recognize, but some of them are so scary, and against who we're "supposed" to be, that we spend immense effort trying to pretend they don't exist.
+Some of them are easy to recognize, but some of them are so scary, and so directly against who we're "supposed" to be, that we spend a monumental amount of energy pretending they don't exist.
 But in a war against yourself, you'll never win. 
-And the only way to become the best version of yourself is by surrendering yourself to the truth, releasing any idea of an identity, and accepting your shadow. 
+And the only way to become the best version of yourself is by surrendering yourself to the truth, letting go of identity, and accepting your shadow.
 And when you do, perhaps you'll find an immense source of power you never knew you had.
 
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
 However, facing truth is harder than avoiding it and will always include sacrifice. 
-To me, this has meant buckling down on work and missing out on parties and travel and losing some friends. 
+To me, this has meant focusing on work and missing out on parties, travel, and losing some friends. 
 To you, the sacrifice may be different, but it will be there.
 As Christopher Hitchins said: 
 > "In life you most choose your regrets."
@@ -68,33 +69,35 @@ The terrible way you treat your body? Good luck with medical bills and shame as 
 The toxic relationship you avoid leaving? It may legitimately derail your life. 
 Every bit of truth you avoid today is using up some part of your future.
 
-Living in a lie may feel like a safer alternative, but only because you get to build the walls of lies around truth.
-The force of reality stands behind truth and no amount of distraction, pleasure, or manipulation will ever fool nature.
+Living in a lie may feel like a safer alternative, but only because you get to decide the shape of the walls of lies you lay around truth.
+But the force of reality stands behind truth and no distraction, pleasure, or manipulation will ever fool nature.
 The more time you spend in bad relationships, avoiding responsibility or distracting yourself from uncomfortable emotions, the bigger the monster under the bed grows. 
-And the bigger the monster, the larger the corresponding sacrifice you'll have to make when to face it.
-Let it grow too big, and it may just destroy you.
+And the bigger the monster, the larger the corresponding sacrifice you'll have to make when you face it.
+Let it get too big, and it may just destroy you.
 
-One way of getting started in facing truth is to surround yourself with good friends.
+Facing truth is easier if you surround yourself with good friends.
 A good friend will carve out the mediocre in you and will never tolerate cynicism, avoidance, or self-pity. 
-He will be your biggest critic in private, your biggest supporter in public, and will not allow you to give up on your dreams.
-On the other hand, a bad friend will help maintain the walls of lies you've built around truth.
+He will be your biggest critic in private, your biggest supporter in public, and will not let you give up on your dreams.
+On the other hand, a bad friend will help maintain the walls you've built around truth.
 He won't do this out of evil, but because you serve a similar role in his life. 
 In a bad friendship, you sign an agreement to never call each other out on the real problems you're both avoiding. 
-And even if you ever manage to slap yourself awake from this nightmare, a bad friend will try to drag you down as your search for truth shines a light on his faults.[^2]
+And if you ever manage to slap yourself awake from this nightmare, a bad friend will try to drag you down as your search for truth shines a light on his faults. [^2]
 He will resent you for constantly reminding him of the dreams he gave up on, or the sacrifices he didn't make.
 Good friends help you face truth, bad friends help you avoid it.
 
 Personally, this is something I struggle with a lot. 
 I avoid feeling abandonment or incompetence at all costs. 
-But in avoiding these feelings I've repeatedly made friends with people that don't value me for who I am, only for what I do in the service of an identity.
-Letting go of these relationships has been really hard, but it really is the best way forward for all parties involved.
+But in avoiding these feelings I've repeatedly made friends with people that don't value me for who I am, only for what I do in the service of an identity they like.
+Letting go of these relationships has been really hard, but it is the best way forward for everyone involved
 Figure out who the good friends are and cut out the bad ones. 
 And if the feeling of selfishness stops you from doing this, consider the toxic role you serve in their lives, and do it for them.
 
 Instead, surround yourself by courageous people. 
-Find people that aren't afraid of calling you out on your bullshit. 
+Find people that aren't afraid of calling out your bullshit. 
 People that celebrate you for facing your biggest fears. 
 People that support you when times are hard, and sober you up when times are good.
+People that want to improve and are ready to hear your opinion on how they could be better. 
+
 Anaïs Nin said it well: "life expands or shrinks according to one's courage." 
 So, ask yourself: is your partner courageous? 
 Are your coworkers courageous?
@@ -105,7 +108,7 @@ Choose wisely.
 If you're reading this, you likely have a life of privilege beyond the wildest dreams of millions of people around the world. 
 Honor the sacrifices made by parents, teachers, friends, and strangers and become the very best person you can be. 
 If not for you, then do it for the people you love, because they will bear your burden if you don't. 
-There is never a perfect time to leave that bad relationship, face your insecurities, quit that dead-end job, or go back to school. 
+There is never a perfect time to leave an unhealthy relationship, face your insecurities, quit that dead-end job, or go back to school. 
 As C.S. Lewis wrote at the height of World War Two: 
 
 > “We are always falling in love or quarreling, looking for jobs or fearing to lose them, getting ill and recovering, following public affairs. 
@@ -124,8 +127,8 @@ And face it today.
 
 > "If not you, then who? If not now, when?" - Hillel
 
-[^1]: As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".)
-
+[^1]: As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
+[^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable).
 
 
 
