@@ -2,6 +2,7 @@
 title: AI Rules of Discourse 
 tags: research, note
 publishDate: 2023-10-03
+draft: True
 ---
 
 > Disclaimer: This note is a stream of consciousness where I try to crystallize a fleeting idea into a concrete research question or finding. Keep that in mind when reading it!
