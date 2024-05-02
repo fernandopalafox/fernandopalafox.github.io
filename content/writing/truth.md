@@ -83,7 +83,7 @@ The terrible way you treat your body? Good luck with medical bills and shame as 
 The toxic relationship you avoided leaving? It may legitimately derail your life. 
 Every bit of truth you avoid today is using up some part of your future.
 
-Living in a lie may feel like a safer alternative, but only because you get to decide the shape of the walls of lies you lay around the truth.
+Living in a lie may feel like a safer alternative, but only because you get to control the lies you lay around the truth.
 But the force of reality stands behind truth and no distraction, pleasure, or manipulation will ever stop nature.
 The more time you spend in bad relationships, avoiding responsibility or distracting yourself from uncomfortable emotions, the bigger the monster under the bed grows. 
 And with it, the corresponding sacrifice you'll have to make when you face the monster.
@@ -92,7 +92,7 @@ Let it grow too big, and it may just destroy you.
 Facing truth is easier if you surround yourself with good friends.
 A good friend will carve out the mediocre in you and will never tolerate cynicism, avoidance, or self-pity. 
 He will be your biggest critic in private, your biggest supporter in public, and will never let you give up on your dreams.
-On the other hand, a bad friend will help maintain the walls you've built around truth.
+On the other hand, a bad friend will help maintain the lies you've built around truth.
 He won't do this out of evil, but because you serve a similar role in his life. 
 In a bad friendship, you sign an agreement to never call each other out on the real problems you're both avoiding. 
 And if you ever manage to slap yourself awake from this nightmare, a bad friend will try to drag you down as your search for truth shines a light on his faults. [^2]
@@ -102,7 +102,7 @@ Good friends help you face truth, bad friends help you avoid it.
 Personally, this is something I struggle with a lot. 
 I avoid feeling abandonment or incompetence at all costs. 
 But in avoiding these feelings I've repeatedly made friends with people that don't value me for who I am, only for what I do in the service of an identity they like.
-Letting go of these relationships has been really hard, but it is the best way forward for everyone involved
+Letting go of these relationships has been hard, but it is the best way forward for everyone involved.
 Figure out who the good friends are and cut out the bad ones. 
 And if any feelings of selfishness or guilt stop you, consider the toxic role you serve in their lives, and do it for them.
 
@@ -143,4 +143,4 @@ And face it today.
 > "If not you, then who? If not now, when?" - Hillel
 
 [^1]: As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
-[^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable).
+[^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable). This reminds me of one of favorite passages in Nietzsche's *Beyond Good and Evil*: "“One has to test oneself to see that one is destined for independence and command—and do it at the right time. One should not dodge one’s tests, though they may be the most dangerous game one could play and are tests that are taken in the end before no witness or judge but ourselves. Not to remain stuck to a person—not even the most loved—every person is a prison, also a nook. ... Not to remain stuck to one’s own detachment, to that voluptuous remoteness and strangeness of the bird who flees ever higher to see ever more below him—the danger of the flier. Not to remain stuck to our own virtues and become as a whole the victim of some detail in us, such as our hospitality, which is the danger of dangers for superior and rich souls who spend themselves lavishly, almost indifferently, and exaggerate the virtue of generosity into a vice. One must know how to conserve oneself: the hardest test of independence.”"
