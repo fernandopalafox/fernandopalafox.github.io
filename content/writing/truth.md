@@ -8,10 +8,10 @@ draft: false
 </figure>
 
 In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose biggest concern was how to dress well.
-Most of his time was spent either buying new clothes or showing them off around his empire.
-One day, two merchants gave him offer he could not resist: In exchange for a lot of money, they would weave a set of clothes more beautiful than anything he had ever seen. 
+Most of his time was spent either buying new clothes or showing them off.
+One day, two merchants gave him offer he could not resist: In exchange for a lot of money, they would weave a set of clothes more beautiful than anything he had ever seen.
 Not only would the clothing have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
-The emperor could not think of a better way of looking great and weeding out the royal court.
+The emperor could not think of a better way of looking great and trimming the fat off the royal court.
 Unfortunately, once the clothes were done and the merchants dressed him, he found himself naked.
 None of his advisors dared tell him the obvious, afraid of being outed as stupid. 
 So, the emperor ordered a celebration in honor of his new outfit.
