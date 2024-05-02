@@ -4,19 +4,19 @@ draft: false
 ---
 
 <figure style="text-align: center;">
-  <img src="media/emperor.png" alt="" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>The emperor's new clothes.</em></figcaption>
+  <img src="media/emperor.jpg" alt="" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"></figcaption>
 </figure>
 
 In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose only concern was how to dress better.
 Most of his time was spent either buying new clothes or showing them off on carriage rides around his empire.
 One day, two merchants presented an offer he could not resist: In exchange for money and materials, they would weave a set of clothes more beautiful than anything he had ever seen. 
 Not only would the clothing have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
-The emperor could not think of a better way of looking great and cleaning out the royal court.
+The emperor could not think of a better way of looking great and weeding out the royal court.
 Unfortunately, once the clothes were done and the merchants dressed him, he found himself completely naked.
 He looked around and none of his advisors dared tell him the obvious, afraid of being outed as stupid. 
 So, the emperor ordered a celebration in honor of his new outfit. 
-And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor found himself surrounded by his entire empire, when a little child said it: "the emperor has no clothes!"
+And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor found himself surrounded by his entire empire when a little child finally said it: "the emperor has no clothes!"
 
 Facing the truth is hard. 
 Most of the time it requires owning up to parts of yourself that you would rather not think about. 
@@ -62,7 +62,7 @@ Perhaps you wear a mask of extreme generosity and warmth because you're afraid o
 Or perhaps you're agreeable and avoid conflicts at all costs because you're afraid of rejection.
 
 We all have faults, vices and bad habits. 
-Some are easy to recognize, but some are so scary, and so directly against who you're "supposed" to be, that you spend a monumental amount of energy pretending they don't exist.
+Some are easy to recognize, but some are so scary, and go so directly against who you're "supposed" to be, that you spend a monumental amount of energy pretending they don't exist.
 But in a war against yourself, you'll never win. 
 And the only way to become the best version of yourself is by surrendering yourself to the truth, letting go of identity, and accepting your shadow.
 And when you do, perhaps you'll find an immense source of power you never knew you had.
@@ -78,7 +78,7 @@ As Christopher Hitchens said:
 So, choose wisely.
 
 If you don't face truth, sooner or later, it will come knocking at your door. 
-The hard work you avoided today? Your career will reflect it in a couple years.
+The hard work you didn't do today? Your career will reflect it in a couple years.
 The terrible way you treat your body? Good luck with medical bills and shame as your body begins to fall apart. 
 The toxic relationship you avoided leaving? It may legitimately derail your life. 
 Every bit of truth you avoid today is using up some part of your future.
