@@ -1,11 +1,27 @@
 ---
-title: Why You Should Face Truth
+title: Facing the Truth
 draft: false
 ---
 
-A life worth living is one of adventure, and the greatest source of adventure is the truth.
-But facing the truth is very hard. 
-So here is why you should face it. 
+<figure style="text-align: center;">
+  <img src="media/emperor.png" alt="" style="width:100%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>The emperor's new clothes.</em></figcaption>
+</figure>
+
+In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose only concern was how to dress better.
+Most of his time was spent either buying new clothes or showing them off on carriage rides around his empire.
+One day, two merchants presented an offer he could not resist: In exchange for money and materials, they would weave a set of clothes more beautiful than anything he had ever seen. 
+Not only would the clothing have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
+The emperor could not think of a better way of looking great and cleaning out the royal court.
+Unfortunately, once the clothes were done and the merchants dressed him, he found himself completely naked.
+He looked around and none of his advisors dared tell him the obvious, afraid of being outed as stupid. 
+So, the emperor ordered a celebration in honor of his new outfit. 
+And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor found himself surrounded by his entire empire, when a little child said it: "the emperor has no clothes!"
+
+Facing the truth is hard. 
+Most of the time it requires owning up to parts of yourself that you would rather not think about. 
+But a life worth living is one of adventure, and the greatest source of adventure is the truth.
+So here is why you should face it.
 
 Truth is what you find when you let go of how you think things should be.
 The systematic process of discovering truth is known as Science. [^1]
@@ -104,7 +120,7 @@ Are your friends courageous?
 You are the average of the five people you spend the most time with. 
 Choose wisely. 
 
-If you're reading this, you likely have a life of privilege beyond the wildest dreams of millions of people around the world. 
+If you're reading this, you likely live a life of privilege beyond the wildest dreams of millions of people around the world. 
 Honor the sacrifices made by parents, teachers, friends, and strangers and become the very best person you can be. 
 If not for you, then do it for the people you love, because they will bear your burden if you don't. 
 There is never a perfect time to leave an unhealthy relationship, face your insecurities, quit that dead-end job, or go back to school. 
