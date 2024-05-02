@@ -1,27 +1,26 @@
 ---
-title: Facing the Truth
+title: Facing Truth
 draft: false
 ---
 
 <figure style="text-align: center;">
-  <img src="media/emperor.jpg" alt="" style="width:100%">
-  <figcaption style="max-width: 95%; margin: auto;"></figcaption>
+  <img src="media/emperor.jpg" alt="" style="width:65%">
 </figure>
 
-In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose only concern was how to dress better.
-Most of his time was spent either buying new clothes or showing them off on carriage rides around his empire.
-One day, two merchants presented an offer he could not resist: In exchange for money and materials, they would weave a set of clothes more beautiful than anything he had ever seen. 
+In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose biggest concern was how to dress well.
+Most of his time was spent either buying new clothes or showing them off around his empire.
+One day, two merchants gave him offer he could not resist: In exchange for a lot of money, they would weave a set of clothes more beautiful than anything he had ever seen. 
 Not only would the clothing have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
 The emperor could not think of a better way of looking great and weeding out the royal court.
-Unfortunately, once the clothes were done and the merchants dressed him, he found himself completely naked.
-He looked around and none of his advisors dared tell him the obvious, afraid of being outed as stupid. 
-So, the emperor ordered a celebration in honor of his new outfit. 
-And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor found himself surrounded by his entire empire when a little child finally said it: "the emperor has no clothes!"
+Unfortunately, once the clothes were done and the merchants dressed him, he found himself naked.
+None of his advisors dared tell him the obvious, afraid of being outed as stupid. 
+So, the emperor ordered a celebration in honor of his new outfit.
+And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor was surrounded by his entire empire when a little child finally said it: "the emperor has no clothes!"
 
 Facing the truth is hard. 
 Most of the time it requires owning up to parts of yourself that you would rather not think about. 
 But a life worth living is one of adventure, and the greatest source of adventure is the truth.
-So here is why you should face it.
+So here I write about why I think you should face it.
 
 Truth is what you find when you let go of how you think things should be.
 The systematic process of discovering truth is known as Science. [^1]
@@ -72,9 +71,7 @@ And when you do, perhaps you'll find an immense source of power you never knew y
 However, facing truth is harder than avoiding it and will require sacrifice. 
 To me, this has meant focusing on work and missing out on parties, travel, and losing some friends. 
 To you, the sacrifice may be different, but it will still be required.
-As Christopher Hitchens said: 
-> "In life you must choose your regrets."
-
+As Christopher Hitchens said it: "In life you must choose your regrets."
 So, choose wisely.
 
 If you don't face truth, sooner or later, it will come knocking at your door. 
@@ -133,8 +130,7 @@ As C.S. Lewis wrote at the height of World War Two:
 
 So, accept responsibility for who you are and start doing something about it. 
 Sometimes, facing this responsibility will be easier than you expect.
-As the saying goes "if you face your deepest fears, you may never have to meet them." 
-In most cases, it won't be easy, but what were you expecting? 
+In most cases it won't be, but what were you expecting? 
 Did you really think that a worthy life was going to be easy?
 Well, this is what hard feels like. 
 Take a moment and pay attention to whatever you pretend doesn't exist.
@@ -143,4 +139,4 @@ And face it today.
 > "If not you, then who? If not now, when?" - Hillel
 
 [^1]: As legendary physicist Richard Feynman put it: "Science is what we have learned about how to keep from fooling ourselves".
-[^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable). This reminds me of one of favorite passages in Nietzsche's *Beyond Good and Evil*: "“One has to test oneself to see that one is destined for independence and command—and do it at the right time. One should not dodge one’s tests, though they may be the most dangerous game one could play and are tests that are taken in the end before no witness or judge but ourselves. Not to remain stuck to a person—not even the most loved—every person is a prison, also a nook. ... Not to remain stuck to one’s own detachment, to that voluptuous remoteness and strangeness of the bird who flees ever higher to see ever more below him—the danger of the flier. Not to remain stuck to our own virtues and become as a whole the victim of some detail in us, such as our hospitality, which is the danger of dangers for superior and rich souls who spend themselves lavishly, almost indifferently, and exaggerate the virtue of generosity into a vice. One must know how to conserve oneself: the hardest test of independence.”"
+[^2]: Personally, one of the hardest aspects of facing truth has been the resistance from those I love. I wrote a bit about this [here](unreasonable). This reminds me of one of my favorite passages in Nietzsche's *Beyond Good and Evil*: “One has to test oneself to see that one is destined for independence and command—and do it at the right time. One should not dodge one’s tests, though they may be the most dangerous game one could play and are tests that are taken in the end before no witness or judge but ourselves. Not to remain stuck to a person—not even the most loved—every person is a prison, also a nook. ... Not to remain stuck to one’s own detachment, to that voluptuous remoteness and strangeness of the bird who flees ever higher to see ever more below him—the danger of the flier. Not to remain stuck to our own virtues and become as a whole the victim of some detail in us, such as our hospitality, which is the danger of dangers for superior and rich souls who spend themselves lavishly, almost indifferently, and exaggerate the virtue of generosity into a vice. One must know how to conserve oneself: the hardest test of independence.”
