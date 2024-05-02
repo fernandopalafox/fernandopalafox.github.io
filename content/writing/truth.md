@@ -20,7 +20,7 @@ And that is how, unable to admit his vanity had gotten him tricked (or that perh
 Facing the truth is hard. 
 Most of the time it requires owning up to parts of yourself that you would rather not think about. 
 But a life worth living is one of adventure, and the greatest source of adventure is the truth.
-So here I write about why I think you should face it.
+So here is why I think you should face it.
 
 Truth is what you find when you let go of how you think things should be.
 The systematic process of discovering truth is known as Science. [^1]
