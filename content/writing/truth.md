@@ -8,19 +8,19 @@ draft: false
 </figure>
 
 In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose biggest concern was how to dress well.
-Most of his time was spent either buying new clothes or showing them off.
-One day, two merchants gave him offer he could not resist: In exchange for a lot of money, they would weave a set of clothes more beautiful than anything he had ever seen.
-Not only would the clothing have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
+Most of his time was spent buying new clothes or showing them off.
+One day, two merchants gave him an offer he could not resist: In exchange for a lot of money, they would weave a set of clothes more beautiful than anything he had ever seen.
+Not only would it have the brightest colors and most elaborate patterns, it would also be invisible to anyone that was stupid. 
 The emperor could not think of a better way of looking great and trimming the fat off the royal court.
 Unfortunately, once the clothes were done and the merchants dressed him, he found himself naked.
-None of his advisors dared tell him the obvious, afraid of being outed as stupid. 
+None of his advisors dared to tell him the obvious, afraid of being outed as stupid. 
 So, the emperor ordered a celebration in honor of his new outfit.
 And that is how, unable to admit his vanity had gotten him tricked (or that perhaps he was stupid), the emperor was surrounded by his entire empire when a little child finally said it: "the emperor has no clothes!"
 
 Facing the truth is hard. 
 Most of the time it requires owning up to parts of yourself that you would rather not think about. 
 But a life worth living is one of adventure, and the greatest source of adventure is the truth.
-So here is why I think you should face it.
+So here is why you should face it.
 
 Truth is what you find when you let go of how you think things should be.
 The systematic process of discovering truth is known as Science. [^1]
@@ -37,8 +37,8 @@ It is your responsibilities.
 It is not your potential, it is what you've done. 
 
 Facing truth means you stop avoiding what you don't want to hear.
-For example, it may be accepting your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what people think, you distract yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, you are angry, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
-If any of this makes you uncomfortable, it's probably because it's true. 
+For example, it may be accepting your relationship is toxic, you use hobbies to avoid responsibility, you care too much about what others think of you, you distract yourself from hard emotions with pleasure, you don't work as hard as you could, you hate yourself, you have bad friends, you are angry, your job is a dead-end, or you avoid conflict and let yourself get stepped on. 
+If any of this makes you uncomfortable, it's probably true. 
 Will you let these uncomfortable truths drag you down into a bottomless pit of resentment, cynicism, and hate?
 Or will you face them and get better?
 
@@ -60,19 +60,19 @@ And that would be unacceptable because you have always presented yourself as sel
 Perhaps you wear a mask of extreme generosity and warmth because you're afraid of facing the immense anger and resentment that lives inside of you.
 Or perhaps you're agreeable and avoid conflicts at all costs because you're afraid of rejection.
 
-We all have faults, vices and bad habits. 
-Some are easy to recognize, but some are so scary, and go so directly against who you're "supposed" to be, that you spend a monumental amount of energy pretending they don't exist.
+We all have vices and bad habits. 
+Some are easy to recognize, but some are so scary, and go so directly against who we're "supposed" to be, that we spend a monumental amount of energy pretending they don't exist.
 But in a war against yourself, you'll never win. 
-And the only way to become the best version of yourself is by surrendering yourself to the truth, letting go of identity, and accepting your shadow.
-And when you do, perhaps you'll find an immense source of power you never knew you had.
+And the only way to become the best version of yourself is by surrendering yourself to the truth, letting go of identity, and accepting your shadow side.
+And when you do, perhaps you'll find an unexpected source of power.
 
 > "The cave you fear to enter holds the treasure you seek" - Joseph Campbell 
 
 However, facing truth is harder than avoiding it and will require sacrifice. 
-To me, this has meant focusing on work and missing out on parties, travel, and losing some friends. 
-To you, the sacrifice may be different, but it will still be required.
+To me, this has meant missing out on parties, travel, and losing some friends. 
+To you, the sacrifice may be different, but it will still be needed.
 As Christopher Hitchens said it: "In life you must choose your regrets."
-So, choose wisely.
+Choose wisely.
 
 If you don't face truth, sooner or later, it will come knocking at your door. 
 The hard work you didn't do today? Your career will reflect it in a couple years.
@@ -83,7 +83,7 @@ Every bit of truth you avoid today is using up some part of your future.
 Living in a lie may feel like a safer alternative, but only because you get to control the lies you lay around the truth.
 But the force of reality stands behind truth and no distraction, pleasure, or manipulation will ever stop nature.
 The more time you spend in bad relationships, avoiding responsibility or distracting yourself from uncomfortable emotions, the bigger the monster under the bed grows. 
-And with it, the corresponding sacrifice you'll have to make when you face the monster.
+And with it grows the sacrifice you'll have to make when you face it.
 Let it grow too big, and it may just destroy you.
 
 Facing truth is easier if you surround yourself with good friends.
@@ -104,13 +104,13 @@ Figure out who the good friends are and cut out the bad ones.
 And if any feelings of selfishness or guilt stop you, consider the toxic role you serve in their lives, and do it for them.
 
 Instead, surround yourself by courageous people. 
-Find people that aren't afraid of calling out your bullshit. 
+Find people that aren't afraid of pointing out your bullshit. 
 People that celebrate you for facing your biggest fears. 
-People that support you when times are hard, and sober you up when times are good.
+People that support you when times are hard and sober you up when times are good.
 People that also want to get better and are ready to face truth themselves. 
 
 Anaïs Nin said it well: "life expands or shrinks according to one's courage." 
-So, ask yourself: are you courageous? 
+Ask yourself: are you courageous? 
 Is your partner courageous? 
 Are your coworkers courageous?
 Are your friends courageous? 
@@ -128,9 +128,9 @@ As C.S. Lewis wrote at the height of World War Two:
 > The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. 
 > Favorable conditions never come.”
 
-So, accept responsibility for who you are and start doing something about it. 
-Sometimes, facing this responsibility will be easier than you expect.
-In most cases it won't be, but what were you expecting? 
+Accept responsibility for who you are and start doing something about it. 
+Sometimes, facing this responsibility will be easier than you expected.
+Most of the times it won't be, but what were you expecting? 
 Did you really think that a worthy life was going to be easy?
 Well, this is what hard feels like. 
 Take a moment and pay attention to whatever you pretend doesn't exist.
