@@ -4,7 +4,7 @@ draft: false
 ---
 
 <figure style="text-align: center;">
-  <img src="media/emperor.jpg" alt="" style="width:65%">
+  <img src="media/emperor.jpg" alt="" style="width:75%">
 </figure>
 
 In *The Emperor's New Clothes* Hans Christian Andersen tells the story of an emperor whose biggest concern was how to dress well.
