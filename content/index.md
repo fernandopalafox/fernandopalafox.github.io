@@ -10,6 +10,4 @@ Hi, my name is Fernando. I am an aerospace engineer and PhD student working on r
 [fitness](fitness.md)
 [about](about.md)
 
-I also have a bi-weekly newsletter where I share a some of what I’m reading, listening, writing, doing, liking, or learning.  [Sign up here](https://thisisbeing.beehiiv.com/subscribe).
-
 Leave anonymous thoughts or feedback [here](https://forms.gle/ZF31PFQEHVKtGWuE6).

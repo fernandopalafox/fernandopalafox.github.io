@@ -6,7 +6,7 @@ title: About
   <img src="media/me_dad.jpg" alt="yo merengues" style="width:75%">
 </figure>
 
-My name is Fernando Palafox Escobedo and I am a research assistant at UT Austin working on a PhD in robotics and AI.
+I am a research assistant at UT Austin working on a PhD in robotics and AI.
 I love [reading](bookshelf), [writing](writing), and [fitness](fitness).
 
 I was born and raised in Mexico City where I spent most of time on books, video games, and friends. 
