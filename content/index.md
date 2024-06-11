@@ -2,7 +2,7 @@
 title: Fernando Palafox
 ---
 
-Hi, my name is Fernando. I am an aerospace engineer and PhD student working on robots, artificial intelligence, and game theory. 
+Hi, my name is Fernando. I like robots, reading, running, and writing.
 
 [research](research.md)
 [writing](writing)
@@ -10,4 +10,4 @@ Hi, my name is Fernando. I am an aerospace engineer and PhD student working on r
 [fitness](fitness.md)
 [about](about.md)
 
-Leave anonymous thoughts or feedback [here](https://forms.gle/ZF31PFQEHVKtGWuE6).
+Leave anonymous thoughts [here](https://forms.gle/ZF31PFQEHVKtGWuE6).
