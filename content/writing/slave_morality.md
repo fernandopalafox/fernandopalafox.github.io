@@ -1,11 +1,11 @@
 ---
-title: Thoughts on meditation and slave morality  
+title: Meditation and slave morality  
 publishDate: 2024-07-01
 draft: False
 ---
 
 <figure style="text-align: center;">
-  <img src="media/clouds.jpg" alt="" style="width:75%">
+  <img src="media/clouds.jpeg" alt="" style="width:75%">
   <figcaption style="max-width: 95%; margin: auto;"><em>Clouds from last night's sunset bike ride around Ann Arbor</em></figcaption>
 </figure>
 
@@ -67,4 +67,8 @@ A conversation with Sasha Chapin a couple months ago was very helpful in cluing 
 In any case, I'll continue reading, meditating, and learning and I'll report back in a couple months. 
 Thank you for reading.
 
-[^1] Paragraph 260 in [this link](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2HCH0007).
+<figure style="text-align: center;">
+  <img src="media/sheep.jpeg" alt="" style="width:75%">
+</figure>
+
+[^1]: Paragraph 260 in [this link](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2HCH0007).
