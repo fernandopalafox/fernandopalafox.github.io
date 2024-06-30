@@ -1,5 +1,5 @@
 ---
-title: My Writing on Other Sites
+title: My writing on other sites
 tags: writing
 publishDate: 2023-09-01
 ---
