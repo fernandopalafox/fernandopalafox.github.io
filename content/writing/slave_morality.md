@@ -1,5 +1,5 @@
 ---
-title: Meditation and slave morality  
+title: Meditation and Slave Morality  
 publishDate: 2024-07-01
 draft: False
 ---
