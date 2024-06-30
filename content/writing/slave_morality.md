@@ -54,7 +54,7 @@ I would hope my motivation comes from a place of genuine interest in being more 
 It should not be about escaping my reality or elevating myself to some kind of spiritual or moral high-ground. 
 
 I think many of my angsts are honestly based on ignorance, and I just need to learn more about meditation in general.
-So far, I've found [Nick Cammaratta's](https://x.com/nickcammarata) writing to be extremely useful since he's an advanced meditator that knows his way around the ultra-ambitious San Francisco tech crowd.
+So far, I've found [Nick Cammarata's](https://x.com/nickcammarata) writing to be extremely useful since he's an advanced meditator that knows his way around the ultra-ambitious San Francisco tech crowd.
 Here are a some tweets I liked on the effects of meditation on [personality](https://x.com/nickcammarata/status/1763334005490139533), [drive](https://x.com/nickcammarata/status/1806438864854413773), and [energy levels](https://x.com/nickcammarata/status/1804581069930594342).
 I also want to better understand my relationship with ambition.
 On the one hand, I have a great opportunity to do some really cool stuff from a place of love. 
