@@ -1,13 +1,18 @@
 ---
 title: Thoughts on meditation and slave morality  
 publishDate: 2024-07-01
-draft: True
+draft: False
 ---
+
+<figure style="text-align: center;">
+  <img src="media/clouds.jpg" alt="" style="width:75%">
+  <figcaption style="max-width: 95%; margin: auto;"><em>Clouds from last night's sunset bike ride around Ann Arbor</em></figcaption>
+</figure>
 
 I've recently been deepening my meditation practice by sitting between 30-60 minutes a day, listening to a bunch of Dharma talks on the Waking Up app (currently going through Joseph Goldstein's The Path of Insight), reading some relevant literature (current book is Thích Nhất Hạnh's *The Heart of the Buddha's Teaching*), and visiting the [Ann Arbor Zen Buddhist Temple](https://www.zenbuddhisttemple.org/annarbor) once a week (I'm here for a summer internship).
 I mostly have positive experiences to report: increased focus, anxiety has mostly vanished (never thought I'd say this lol), I have an easier time dealing with tough emotions, and I have waaay more patience; both with myself as well as other people. 
-I've also had some interesting experiences: for a couple weeks, I would get extremely hot during practice, dripping sweat by the time I was done. 
-Or that one time where I heard a sharp wooden crack, almost like a massive branch had just broken, but it was all my mind!
+I've also had some interesting experiences: for a couple of weeks, I would get extremely hot during practice, dripping sweat by the time I was done. 
+Or that one time when I heard a sharp wooden crack, almost like a massive branch had just broken, but it was all my mind!
 Or the time when I began hearing a deep thumping sound, almost like war drum, that completely disappeared when I opened my eyes.   
 I've also had some "bad" experiences: for example, I've become aware of a lot anger and frustration towards myself. 
 I've always put a lot of pressure on myself, so this is not entirely unexpected, but some of these thoughts can be quite jarring.
@@ -28,7 +33,7 @@ It's a habit built from 25 years of identifying with the feeling of self, and le
 But the experience has been sufficiently disturbing that it's made me question the practice as a whole. 
 I've found myself questioning whether I even want the prize at the end of the game (i.e., [awakening](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism)). 
 What is this prize anyways? 
-Does it mean becoming a shapeless blob of equanimity? 
+Will it turn me into a shapeless blob of equanimity?
 Immune to joy or suffering? 
 An archetypical stone-faced monk?
 An escape from my problems? 
@@ -42,7 +47,7 @@ I like most of those qualities, and I practice meditation to ease my suffering, 
 There are two pain points for me: first, is that slave morality comes from a place of deep resentment. 
 And, as a formerly resentful teenager, a part of me is scared I could regress back to that.     
 Second, the oppressed, as described by Nietzsche typically seek to convince themselves that the happiness of the oppressors is not genuine. 
-Personally, I've definitely found myself comparing my personal work to what other people are or aren't doing.
+Personally, I've definitely found myself comparing my "spiritual" work to what other people are or aren't doing.
 "Sure, the jet set lifestyle seems nice, but I bet they know nothing about true happiness because they haven't checked out the Jhanas like I have"
 Growing older (and getting off most social media) has definitely tempered my comparison habits, but I want to be sure about my motivations for practice.
 I would hope my motivation comes from a place of genuine interest in being more present both with myself and the people I love. 
