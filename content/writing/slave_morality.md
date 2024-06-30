@@ -41,9 +41,9 @@ But, hold on, is that even what awakening is like at all?
 I'm not sure, but these questions are a bit scary. 
 
 Another source of doubt comes from Nietzsche's slave morality.
-In *Beyond Good and Evil*[^1], he describes slave morality: a hierarchy of virtues formed by the "have-nots" in reaction to oppression by the "haves".
+In *Beyond Good and Evil*[^1], he describes it as a hierarchy of virtues formed by the "have-nots" in reaction to oppression by the "haves".
 Under slave morality one celebrates "those qualities which serve to make easier the existence of the suffering. [Such as] pity, the kind and helping hand, the warm heart, patience, industriousness, humility, [and] friendliness. [...] for here these are the most useful qualities and virtually the only means of enduring the burden of existence."
-I like most of those qualities, and I practice meditation to ease my suffering, so what's so bad about it?
+I like most of those qualities, and I practice meditation to ease my suffering, so what's so bad about slave morality?
 There are two pain points for me: first, is that slave morality comes from a place of deep resentment. 
 And, as a formerly resentful teenager, a part of me is scared I could regress back to that.     
 Second, the oppressed, as described by Nietzsche typically seek to convince themselves that the happiness of the oppressors is not genuine. 
@@ -62,7 +62,7 @@ I get paid to build literal artificial intelligence with some really smart and h
 On the other hand, I'm trying to get better at noticing when I'm doing things because it's what my identity says I "should" do.
 Am I doing X because I want to fulfill the role of the "high-potential smart person" or because I am genuinely curiosity? 
 I find that the latter builds up a lot of pressure and leaves very little margin for error before careening into psychological self-flagellation.
-A conversation with Sasha Chapin a couple months ago was very helpful in cluing me into the deep aversion I had for failure: I really did not want to fail in any way whatsoever, but that led me to either being overly conservative, or overly harsh with myself when I made mistakes.
+A conversation with Sasha Chapin a couple months ago was very helpful in cluing me about the deep aversion I had for failure: I really did not want to fail in any way whatsoever, but that led me to be either being overly conservative, or very harsh with myself when I made mistakes.
 
 In any case, I'll continue reading, meditating, and learning and I'll report back in a couple months. 
 Thank you for reading.
