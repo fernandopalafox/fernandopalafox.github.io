@@ -1,6 +1,5 @@
 ---
 title: AI Rules of Discourse 
-tags: research, note
 publishDate: 2023-10-03
 draft: True
 ---
