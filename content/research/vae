@@ -1,9 +1,0 @@
----
-title: "VAE's and representation learning"
-tags: [wh, ml]
-publishDate: 2024-11-06
-draft: true
----
-
-I've become fascinated by [representation learning](https://en.wikipedia.org/wiki/Feature_learning). 
-Danijar Hafner's work is particularly impressive, for example, this blogpost where 
