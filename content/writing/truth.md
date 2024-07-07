@@ -1,5 +1,6 @@
 ---
 title: Facing Truth
+publishDate: 2024-05-03
 draft: false
 ---
 
