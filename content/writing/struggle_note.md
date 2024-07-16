@@ -13,7 +13,7 @@ This may sound obvious, but I found it surprisingly hard to stop interrupting co
 First, if you need to take over a conversation to feel understood, the people you're talking with likely don't care about understanding you in the first place. 
 Second, if you're confident about your ideas then there's no need to interrupt because truth shows up whether it's been said or not.
 
-Beyond the obvious personal benefits of listening, your undivided attention is one of the best gifts you can give to someone.
+Beyond the obvious personal benefits of listening, your undivided attention is one of the best gifts you can give.
 Advice is overrated and often a projection of the adviser.
 And even when it's actually useful, no one follows advice until they feel like they came up with it themselves. 
 After all, [_no se aprende en cabeza ajena_](https://forum.wordreference.com/threads/nadie-aprende-en-cabeza-ajena.451203/#:~:text=%22Nobody%20learns%20from%20other%20people's%20mistakes%22.). 
