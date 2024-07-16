@@ -19,7 +19,7 @@ And even when it's actually useful, no one follows advice until they feel like t
 After all, "[no se aprende en cabeza ajena](https://forum.wordreference.com/threads/nadie-aprende-en-cabeza-ajena.451203/#:~:text=%22Nobody%20learns%20from%20other%20people's%20mistakes%22.)." 
 What people need is a good ear.
 They need to feel understood, validated, and seen.
-If you love someone I can't think of a greater gift than just sitting and listening. 
+If you love someone I can't think of a greater gift than giving them a supportive space to fully express how they feel. 
 
 ## Struggle as a distraction
 
