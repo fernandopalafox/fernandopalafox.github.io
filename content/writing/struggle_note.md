@@ -28,6 +28,6 @@ I typically use struggle as an easy distraction to prevent myself from fully foc
 It's an insurance against failure: if I don't completely focus on something, then if I fail I can "reassure" myself it's ok because I didn't give it everything, anyways.
 In non-work settings, struggle comes up when I avoid hard emotions.
 Perhaps sadness, anger, or shame.
-But avoiding these emotions because they're uncomfortable only gives them more energy.
+But avoiding emotions because they're uncomfortable only gives them more energy.
 I like how Spinoza described this phenomenon: "suffering ceases to be suffering as soon as we form a clear and precise picture of it."
 
