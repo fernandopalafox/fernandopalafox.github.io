@@ -10,7 +10,7 @@ New skill that's changing my life: listening.
 Turns out you can deeply understand most people if can shut up, listen very closely, and ask questions.
 Love and lust throws a wrench into all this, of course.
 This may sound obvious, but I found it surprisingly hard to stop interrupting conversations because I feared I wasn't "properly" asserting my point of view. 
-First, if you need to take over a conversation to feel understood, the people you're talking with likely don't care about understanding you in the first place. 
+First, if you need to take over a conversation to be understood, the people you're talking with likely don't care about understanding you in the first place. 
 Second, if you're confident about your ideas then there's no need to interrupt because truth shows up whether it's been said or not.
 
 Beyond the obvious personal benefits of listening, your undivided attention is one of the best gifts you can give.
