@@ -1,6 +1,5 @@
 ---
 title: Notes on The Beginning of Infinity
-tags: notes
 publishDate: 2023-10-15
 ---
 
