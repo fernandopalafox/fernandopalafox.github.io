@@ -5,7 +5,7 @@ draft: False
 ---
 
 Stories, quotes, experiments, practices, bits and bobs that consistently give me sudden, discrete glimpses into what it means to BE. 
-A list of my "personal [koans]"(https://en.wikipedia.org/wiki/Koan).
+A list of my "personal [koans](https://en.wikipedia.org/wiki/Koan)".
 A collection of psychoactive bits of text, if you will. 
 Maybe they'll hit you too. 
 
