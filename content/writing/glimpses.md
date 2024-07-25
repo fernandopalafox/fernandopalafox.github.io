@@ -6,7 +6,7 @@ draft: False
 
 Stories, quotes, experiments, practices, bits and bobs that consistently give me sudden, discrete glimpses into the nature of existence. 
 A list of my "personal [koans](https://en.wikipedia.org/wiki/Koan)".
-A collection of psychoactive bits of text, if you will. 
+A collection of psychoactive bits of text. 
 Maybe they'll hit you too. 
 
 - “The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is, there’s no ground.” - Chögyam Trungpa
