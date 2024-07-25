@@ -7,6 +7,6 @@ title: About
 </figure>
 
 I am a research assistant at UT Austin working on a PhD in robotics and AI with Dr. David Fridovich-Keil.
-I was born and raised in Mexico City and I like [reading](bookshelf), [writing](writing), and [working out](fitness).
+I was born and raised in Mexico City and I like [reading](bookshelf), [writing](writing), and [working out](fitness.md).
 
 This website was created with <a href="https://quartz.jzhao.xyz/">Quartz 4.
