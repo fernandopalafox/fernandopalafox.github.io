@@ -5,7 +5,7 @@ draft: False
 ---
 
 Stories, quotes, experiments, practices, bits and bobs that consistently give me sudden, discrete glimpses into the nature of existence. 
-A list of my "personal [koans](https://en.wikipedia.org/wiki/Koan)".
+A list of "personal [koans](https://en.wikipedia.org/wiki/Koan)".
 A collection of psychoactive bits of text. 
 Maybe they'll hit you too. 
 
