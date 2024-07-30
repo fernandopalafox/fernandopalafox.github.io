@@ -1,4 +1,4 @@
-s---
+---
 title: Glimpses
 publishDate: 2024-07-19
 draft: False
