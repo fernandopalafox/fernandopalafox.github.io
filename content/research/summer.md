@@ -44,24 +44,38 @@ Here's what I learned
 
 ### Anger, Sadness, and Release
 One of the first things I became aware of is how much built up tensions I had. 
-Physically, I had some lingering neck tightness since February that I was finally able to release over the course of the summer by consistently noting how I held my body. 
+Since February, I've had some some pretty serious neck tightness that I was finally able to release over the course of the summer by consistently noting how I held my body. 
 I was suprised at how much tension I have in my face, particularly in my forehead and around the eyes. 
 Consistenyl releasing this does wonders to your mood. 
 Obviously sitting for meditation is incredibly useful for this, but it's not the only way, literally just taking a couple of seconds to note how you're holding your body does wonders to the body.  
 
 Emotionally, I found a lot of sadness and anger.  
-If I've come to a conclusion from all the reading and studying and ocnversation with smart people is that if there's anything to know about self-help books is that they're all about accepting emotions. 
+If I've learned anything from a bunch of meditation, therapy, and self-help books is that the solution to most emotional knots is facing any and all accompanying emotions. 
 So that's exactly what I set out to do.
 I just accepted what I found, and it was mostly characterized by two emotions that kinda felt stuck: anger and sadness. 
-Anger typically manifested itself when meditating both via meoitons: angry thoughts directed towards others, but mostly towards myself. 
+Anger typically manifested itself when meditating both via tons of angry thoughts, physical tension, elevated heartrate, and even profuse sweating. 
+The angry thoughts are sometimes directed towards others, but mostly towards myself. 
 "Be better!" "Work harder!" "How are you so dumb!" "What you just did was so cringe!" "Feeling like this is only slowing you down, suck it up, buttercup!"
-Much of this summer was learning how to be more gentle, both with myself and with others, letting the anger flow, noting when pride made me hold on to it, and then just letting it go.
-Sadness 
-A big lesson was that it's possible to forgive and love pretty much everybody in a way that respects your boundaries.  
-I found that the movement extremes were both really good with this: 
-It's hard to describe, but meditating in the mornings and evenings I could feel myself releasing. 
+Much of this summer was learning how to skillfully let anger flow, noting when pride made me hold on to it, 
+I also spent a bunch of time being being more gentle, both with myself and with others, 
 
-# Avoidance and strong emotions
+On the other hand, sadness typically manifests itself in the mornings and evenings. 
+There's something special about a slow, quiet morning before the sun is up, or a cool night where the only sound is the soft rustling of leaves.
+These are [thin spaces](https://pres-outlook.org/2021/02/thin-places-here-there-or-everywhere/#:~:text=Iona%20is%20known%20as%20a,often%20transformed%20by%20the%20experience.) that consistently water the seeds of any unexpressed sadness. 
+In the past, my first reaction to this would've been to immediately drown out any uncomfortable feelings with a podcast, some doomscrolling, or even a guided meditation (yes, you can use meditation to avoid feelings, too)
+This time however, I decided to welcome these feelings, no matter how uncomfortable they were. 
+I found that a great way of doing this was to lay on the floor and look at the ceiling. 
+A bit of ["Do Nothing" meditation](https://www.youtube.com/watch?v=cZ6cdIaUZCA).
+The closest way of describing how this felt is melting into the enormity of life[^1].
+And it brought me some immensely cathartic experiences.
+
+In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love pretty even those that have hurt you the most. 
+I felt a stream of energy which I can best describe as a moment where I channeled some kind of divine forgiveness. 
+I was not under control, and I've never felt anything quite like this, and once it was over it left me in a warm and fuzzy state of understanding and love. 
+I wrote a lot about this moment. 
+Maybe one day I'll share it on here.
+
+### Avoidance and strong emotions
 As far as I can remember I tend to wakeup in a pretty terrible mood. 
 Every time, particularly when I'm stresesd, I wake up and life seems terrible: like I'm doing the wrong thing, worrying about what people thing of me, etc.
 Now, 
@@ -76,13 +90,11 @@ It was just a thought, a feeling, and even though I could tell myself stories ab
 Some of the sits were incredibly intense: heat, sweat, elevated heartrate, even panic! 
 I wrote a bit about this HERE. 
 
-## Understanding
+### Understanding
 
-# Anger
-Relationship to anger and those that I don't like and/or make me feel uncomfortable. 
-Negative self-talk, being more gentle to myself. 
+### Books and my spiritual journey
 
-# Failure
+### Failure
 Another big one was the avoidance of failure. 
 I hate failing. 
 But if you're not failing, you're not trying hard enough. 
@@ -95,7 +107,7 @@ So much to write about here.
 For example, my phone and eating habits were a primary focus. 
 So much of my time on the phone was just a direction. 
 
-# Feminine beauty
+### Feminine beauty
 Talking to beautiful girls. 
 This one was particularly funny: I found it hilarious how my body would go into full fight-or-flight mode when going up to a pretty girl. 
 Sweaty palms, heart pounding, and shaking hands (and legs!). 
@@ -119,3 +131,4 @@ Discovering who i want to be while letting go of who I think I should be.
 # Technical stuff
 
 
+[^1] There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this, quite yet. 
