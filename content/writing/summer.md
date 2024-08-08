@@ -69,30 +69,11 @@ A bit of ["Do Nothing" meditation](https://www.youtube.com/watch?v=cZ6cdIaUZCA).
 The closest way of describing how this felt is melting into the enormity of life[^1].
 And it brought me some immensely cathartic experiences.
 
-In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love pretty even those that have hurt you the most. 
+In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love pretty even those that have hurt you the most.[^2]
 I felt a stream of energy which I can best describe as a moment where I channeled some kind of divine forgiveness. 
 I was not under control, and I've never felt anything quite like this, and once it was over it left me in a warm and fuzzy state of understanding and love. 
 I wrote a lot about this moment. 
 Maybe one day I'll share it on here.
-
-### Avoidance and strong emotions
-As far as I can remember I tend to wakeup in a pretty terrible mood. 
-Every time, particularly when I'm stresesd, I wake up and life seems terrible: like I'm doing the wrong thing, worrying about what people thing of me, etc.
-Now, 
-My usual habit is to drown out any emotions by promptly putting on a podcast, eating, or exercising. 
-Obviously, this is a bandaid, so I determined to fix it this summer.
-So, every morning I would sit in my bad mood and try to make friends with it.
-Mind you, I was not perfect. 
-In fact, many morning I would default to my habitual doomscrolling or distraction of choice. 
-But, over time, i got better at welcoming the morning anxiety. 
-Almost immediately I realized it wasn't as bad. 
-It was just a thought, a feeling, and even though I could tell myself stories about it, I could choose not to follow with it.  
-Some of the sits were incredibly intense: heat, sweat, elevated heartrate, even panic! 
-I wrote a bit about this HERE. 
-
-### Understanding
-
-### Books and my spiritual journey
 
 ### Failure
 Another big one was the avoidance of failure. 
@@ -132,3 +113,4 @@ Discovering who i want to be while letting go of who I think I should be.
 
 
 [^1] There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this, quite yet. 
+[^2] Even cooler is the fact that you can do all this AND still have healthy boundaries with them.
