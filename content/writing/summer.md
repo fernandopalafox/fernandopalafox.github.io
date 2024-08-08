@@ -38,20 +38,19 @@ Some numbers to get started
 
 Here's what I learned 
 
-**Table of Contents**
-- [Favorite ideas](#favorite-ideas)
-
-
-### Anger, Sadness, and Release
 One of the first things I became aware of is how much built up tensions I had. 
 Since February, I've had some some pretty serious neck tightness that I was finally able to release over the course of the summer by consistently noting how I held my body. 
 I was suprised at how much tension I have in my face, particularly in my forehead and around the eyes. 
 Consistenyl releasing this does wonders to your mood. 
 Obviously sitting for meditation is incredibly useful for this, but it's not the only way, literally just taking a couple of seconds to note how you're holding your body does wonders to the body.  
 
-Emotionally, I found a lot of sadness and anger.  
 If I've learned anything from a bunch of meditation, therapy, and self-help books is that the solution to most emotional knots is facing any and all accompanying emotions. 
-So that's exactly what I set out to do.
+It's amazing how much of my behavior came from a place of avoidance. 
+There's simple ones, like using your phone all the time. 
+I found avoidance even in some unexpected places: exercise, a close relationship, sex, and even meditation all be used to avoid unmforotable emotions!
+
+Emotionally, I found a lot of sadness and anger.  
+So, with a sense of adventure and curiosity, I set out to face these uncomfortable feelings
 I just accepted what I found, and it was mostly characterized by two emotions that kinda felt stuck: anger and sadness. 
 Anger typically manifested itself when meditating both via tons of angry thoughts, physical tension, elevated heartrate, and even profuse sweating. 
 The angry thoughts are sometimes directed towards others, but mostly towards myself. 
@@ -69,24 +68,43 @@ A bit of ["Do Nothing" meditation](https://www.youtube.com/watch?v=cZ6cdIaUZCA).
 The closest way of describing how this felt is melting into the enormity of life[^1].
 And it brought me some immensely cathartic experiences.
 
-In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love pretty even those that have hurt you the most.[^2]
+In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love even those that have hurt you the most.[^2]
 I felt a stream of energy which I can best describe as a moment where I channeled some kind of divine forgiveness. 
 I was not under control, and I've never felt anything quite like this, and once it was over it left me in a warm and fuzzy state of understanding and love. 
 I wrote a lot about this moment. 
 Maybe one day I'll share it on here.
 
-### Failure
-Another big one was the avoidance of failure. 
-I hate failing. 
-But if you're not failing, you're not trying hard enough. 
-And honestly, now that I'm trying carder things, failing is necessity. 
-Turns out programming self-driving cars is not particularly simple.
-So I focused on this.
+Part of the process of [self-authorship](https://en.wikipedia.org/wiki/Self-authorship) involved making friends with my fear of failure. 
+A common theme the past year has been making an effort to leave my local talent bubble and expose myself to the best and most talented people out there. 
+This led to a ton of heartbreak as I found out just how much of my identity and self-worth was wrapped up in feeling smart. 
+Once I got past that though, I found myself doing some really interesting but hard things where failing was an inevitable part of the process. 
+Who would've thought a PhD in robotics and AI is hard? 
+Or that self-driving cars don't work on the first try?
+And that's where I learned just how much I hate failing.
+So I focused on this and I began to re-frame failure as an error-correction mechanism.
+David Deutsch said it best: errors are inevitable. 
+So, don't spend all your energy trying to be perfect, instead, maximize your error correction![^3]
+Increase speed of iteration. 
+Fail fast!
 I began to notice how much procrastination, even with relatively simple tasks, was because of the following simple idea: there's probably a better way of solving what I'm trying to do and I don't know about it yet. 
+So I might as well not try. 
 
-So much to write about here. 
-For example, my phone and eating habits were a primary focus. 
-So much of my time on the phone was just a direction. 
+Speaking of failure, let's talk about girls! 
+I find myself at an interesting point in my life. 
+Previously, being single and also feeling good about myself were mutually exclusive, and I had never felt both at the same time. 
+So I've started shooting my shot and started talking to some of the most women I've ever met. 
+
+The role of femininiity and masculinty
+And I've been so fortunate to meet some amazing women. 
+I could write poems about the completeness I've felt when interacting with a beautiful girl
+And the conclusion is that 
+
+Beyond romance
+Beyond the romantic aspect of this, my relationship to women has changed. 
+Appreciation for my mom and the women in my life
+Their wisdom
+Changing what I'm optimizing for. 
+I've learned to appreciate just how special they are
 
 ### Feminine beauty
 Talking to beautiful girls. 
@@ -107,10 +125,11 @@ It felt like I was shedding so many layers.
 Highly spiritual 
 The feeling of pure experience, becoming. 
 Choosing what mask to put on 
-Discovering who i want to be while letting go of who I think I should be. 
+
 
 # Technical stuff
 
 
 [^1] There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this, quite yet. 
 [^2] Even cooler is the fact that you can do all this AND still have healthy boundaries with them.
+[^3] If this sounds interesting, I highly suggest reading Deutsch's The Beggining of Infinity. Shameless plug to my notes [here](infinity.md). I also like the OODA loop.
