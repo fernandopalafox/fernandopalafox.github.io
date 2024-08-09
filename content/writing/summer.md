@@ -7,56 +7,38 @@ draft: True
 August 2024
 
 The plan was simple: meditate, lift, and code. 
-This summer I left Austin for Ann Arbor, Michigan. 
-I was offered an internship at Honda Research Institute working on self-driving cars, so I bought a car and drove to Michigan in late May.
-All I brought was my laptop, a pile of books, and some clothes. 
-Here's a bit of what I learned, and my thoughts on why every guy in their 20's should disapear for a bit and spend some time by themselves.
+This summer, I was hired as an intern at Honda Research Institute to work on self-driving cars. 
+The job was in Ann Arbor, Michigan and once I accepted the offer, my plan to go monk-mode for a couple months and focus on my interests.
+I love my life in Austin, but you don't always get the chance to temporarily move somewhere else with zero distractions and great weather.
+Here is a bit of what I learned, and my thoughts on why dissapearing for a bit can be so valuable -- particularly if you're in your 20s and trying to figure it all out. 
 
-This is a collection of thoughts in no particular order, so just skip around to what sounds most interesting. 
+2024 has been the wildest year of my life so far and and an fun exercise in finding where my priorities are and what I'm interested in when I'm not thinking of who I *should* be. 
+This has involved taking a break from cycling (wow, I never thought I'd say this), leaving most social media, certain social circles, and a even relationship. 
+Instead, I've found myself drawn towards coding, running, lifting, and meditation.
+So I just sent it with meditation, exercise, and code. 
 
-### The Plan
-
-My 2024 has been an incredible process of finding what I'm interested in when I'm not thinking of who I *should* be. 
-This has involved taking a break from cycling (wow, I never thought I'd say this) and leaving most social media, certain social circles, and a relationship. 
-I've found myself drawn towards running, lifting, coding, and meditation.
-So, when I got the offer for the internship in April, I realized I had the perfect opportunity to take this process even further. 
-I absolutely adore people, and when I'm in Austin I'm normally pretty booked with social commitments. 
-I love my friends. 
-However, this time the goal was simple: meditate, exercise, and code. 
-Nothing else.
-And that's exactly what I did. 
-
-Some numbers to get started
-- 3 months 
-- ~60 hours of meditation
-- 60 days in the office
-- ~40 runs
-- ~30 hours of meditation talks
-- ~30 lifts
-- 10 books
-- Many thousands of lines of code
-
-Here's what I learned 
-
-One of the first things I became aware of is how much built up tensions I had. 
-Since February, I've had some some pretty serious neck tightness that I was finally able to release over the course of the summer by consistently noting how I held my body. 
-I was suprised at how much tension I have in my face, particularly in my forehead and around the eyes. 
-Consistenyl releasing this does wonders to your mood. 
-Obviously sitting for meditation is incredibly useful for this, but it's not the only way, literally just taking a couple of seconds to note how you're holding your body does wonders to the body.  
+Nothing has affected how I relate to the world as much as meditation.
+I started in 2020, but my practice has been on and off until the past year or so. 
+I wanted to step it up this summer, so I settled into a routine of 30-60' of sitting a day (I wrote a bit about it HERE). 
+One of the first things I discovered just how much physical tension I had all around my body.
+In my face, shoulders, and neck!
+It was so interesting to see how just noting it allowed released it. 
+Some of it was easy, like noting how crunched up you hold your face. 
+Some toook more time, like the knot on my neck. 
 
 If I've learned anything from a bunch of meditation, therapy, and self-help books is that the solution to most emotional knots is facing any and all accompanying emotions. 
 It's amazing how much of my behavior came from a place of avoidance. 
 There's simple ones, like using your phone all the time. 
 I found avoidance even in some unexpected places: exercise, a close relationship, sex, and even meditation all be used to avoid unmforotable emotions!
 
-Emotionally, I found a lot of sadness and anger.  
+When digging deep into t, I found a lot of sadness and anger.  
 So, with a sense of adventure and curiosity, I set out to face these uncomfortable feelings
 I just accepted what I found, and it was mostly characterized by two emotions that kinda felt stuck: anger and sadness. 
-Anger typically manifested itself when meditating both via tons of angry thoughts, physical tension, elevated heartrate, and even profuse sweating. 
-The angry thoughts are sometimes directed towards others, but mostly towards myself. 
+Anger typically manifested itself when meditating via tons of angry thoughts, physical tension, elevated heartrate, and even profuse sweating. 
+The angry thoughts were sometimes directed towards others, but mostly towards myself. 
 "Be better!" "Work harder!" "How are you so dumb!" "What you just did was so cringe!" "Feeling like this is only slowing you down, suck it up, buttercup!"
-Much of this summer was learning how to skillfully let anger flow, noting when pride made me hold on to it, 
-I also spent a bunch of time being being more gentle, both with myself and with others, 
+Much of this summer was learning how to skillfully let anger flow, noting when pride made me hold on to it, and slowly releasing it.
+I also spent a bunch of time learning how to be more gentle, both with myself and with others, 
 
 On the other hand, sadness typically manifests itself in the mornings and evenings. 
 There's something special about a slow, quiet morning before the sun is up, or a cool night where the only sound is the soft rustling of leaves.
@@ -70,44 +52,41 @@ And it brought me some immensely cathartic experiences.
 
 In one of these sits I had a moment of immense emotional release where I learned that it's possible to forgive and love even those that have hurt you the most.[^2]
 I felt a stream of energy which I can best describe as a moment where I channeled some kind of divine forgiveness. 
-I was not under control, and I've never felt anything quite like this, and once it was over it left me in a warm and fuzzy state of understanding and love. 
-I wrote a lot about this moment. 
+I've never felt anything quite like this, and once it was over it left me in a warm and fuzzy state of understanding and love. 
+I wrote a lot about this moment and it was very cathartic. 
 Maybe one day I'll share it on here.
 
-Part of the process of [self-authorship](https://en.wikipedia.org/wiki/Self-authorship) involved making friends with my fear of failure. 
+I also spent quite a bit of time making friends with my fear of failure. 
 A common theme the past year has been making an effort to leave my local talent bubble and expose myself to the best and most talented people out there. 
-This led to a ton of heartbreak as I found out just how much of my identity and self-worth was wrapped up in feeling smart. 
-Once I got past that though, I found myself doing some really interesting but hard things where failing was an inevitable part of the process. 
+This led to a ton of heartbreak as I found out just how much of my identity and self-worth was wrapped up around feeling like the smartest person in the room. 
+Once I got past that though, I found myself doing some really interesting but hard things where failing at some point was inevitable
 Who would've thought a PhD in robotics and AI is hard? 
 Or that self-driving cars don't work on the first try?
-And that's where I learned just how much I hate failing.
-So I focused on this and I began to re-frame failure as an error-correction mechanism.
-David Deutsch said it best: errors are inevitable. 
+And that's where I learned just how much I hate failing and began doing everything to avoid it at all costs. 
+Unfortunately, as David Deutsch writes: errors are inevitable. 
+So I focused on this and re-framed failure as an error-correction mechanism.
 So, don't spend all your energy trying to be perfect, instead, maximize your error correction![^3]
 Increase speed of iteration. 
 Fail fast!
-I began to notice how much procrastination, even with relatively simple tasks, was because of the following simple idea: there's probably a better way of solving what I'm trying to do and I don't know about it yet. 
-So I might as well not try. 
 
-Speaking of trying new things, I find myself at an interesting point in my life: I'm single AND I feel pretty comfortable with who I am.
+I find myself at an interesting point in life: I'm single AND I feel pretty comfortable with who I am.
 Unfortunately, these two have never happened at the same time before.
-So, I've started shooting my shot, and approaching women I would've never had the confidence to talk to before. 
+So, I've started shooting my shot, and approaching women I would've never had the confidence to talk to before, making friends with the idea of rejection.
 At the start I found it hilarious how my body would go into full fight-or-flight mode when talking to a beautiful girl.
 Sweaty palms, heart pounding, and shaking hands. 
 All because I was talking to an attractive human being. 
 Lots to write about here, but it's definitely been an interesting development in my life.
 
 Mostly, I've gained a whole new level of appreciation and respect for women and femininity. 
-As a man, I'm majorly rewarded by displaying confidence and competence.
-This is not a complaint, I've become very attuned with masculinity and my desire to develop to my fullest extent. 
+As a guy, I'm majorly rewarded by displaying confidence and competence.
+And I actually enjoy that. 
+As I've become more attuned with my masculinity, I find great joy in finding confidence in myself and gettings good at skills I care about. 
 It just feels part of who I am. 
-But life has lots of ups and down, and as scary as it sounds, it's nice to feel safe in a space of vulnerability. 
+But life has lots of ups and down, and once in a while, it's nice to feel safe enough to be vulnerable with my feelings, hopes, and dreams.  
 I've been hurt in this space before, and it's definitely taken time to open up again. 
-However, I was fortunate enough to meet a particularly beautiful girl that changed how I viewed all this.
+Fortunatnely, I've been fortunate enough to meet a particularly beautiful girl that changed how I viewed all this.
 She showed me how it's ok to drop the mask and be vulnerable. 
-Safely. 
-It was in these moments of tenderness, in the warm, and loving embrace of someone that cares for you, that masculine and the feminine energy fall into place like two pieces of a puzzle. 
-When you look into the eyes of a woman you love, you see the entire universe, and your purpose becomes so clear. 
+In these moments of tenderness, in the warm, and loving embrace of someone that cares for you, I felt how masculine and the feminine energy perfectly fall into place like two pieces of a puzzle. 
 The yin and the yang.
 It's beautiful. 
 It's powerful.
@@ -115,21 +94,33 @@ It's baked into our DNA.
 Thank you, R.
 
 Apart from the tender moments, the drive a women will give you is nothing short of a stimulant. 
-Nothing will wake you up, sit you back straighter, and give you confidence like knowing your hard work is part of a mission to build something with a woman you love.
+Nothing will wake you up, make you stand straighter, and give you confidence like knowing your hard work is part of a mission to build something with a woman you love.
 Naval Ravikant has this old tweet that I think about a lot:
 > ["Men are the means; women are the motive."](https://x.com/naval/status/10456426317?lang=en)
 God damn. 
-I've never felt a fire in my soul to build something big and to spread my wings when I know it's for the purpose of building a life with a woman I love.
 Now I understand why the Greeks fucked up Troy over Helen. 
 
-Beyond the romantic aspect of this, my relationship to women has changed. 
-Appreciation for my mom and the women in my life
-Their wisdom
-
-Here's a picture of all the books I've ready.
-The books I read and how my relationship to understanding has changed.
+I've found a a whole new level of appreciation and respect for women and femininity, beyond the romantic aspect.
+I've worked through some old traumas and have opened myself up to the wisdom of the women in my life. 
+Principally, it's been my mother. 
+I'm still very much confused about what goes on inside a woman's brain.
+But their tenderness and feminine wisdom is so valuable.
 
 ## Finale and why you should try this too
+
+Here are some numbers to describe the summer. 
+
+Some numbers to get started
+- 3 months 
+- ~60 hours of meditation
+- 60 days in the office
+- ~40 runs
+- ~30 hours of meditation talks
+- ~30 lifts
+- 10 books
+- Many thousands of lines of code
+
+It was joyful, it was lonely, it was beautiful, it was scary. 
 
 It's in this silence that you'll get a glimpse of who you are and what you're meant to be. 
 By no means have I figure it out.
