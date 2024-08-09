@@ -14,7 +14,7 @@ This is a collection of my favorite ideas from [*The Beginning of Infinity* by D
 
 **Table of Contents**
 - [Favorite ideas](#favorite-ideas)
-- [Quotations](#quotations)
+- [Quotes](#quotes)
 - [Final thoughts](#final-thoughts)
 - [Resources/Related](#resourcesrelated)
 
@@ -43,7 +43,7 @@ This is a collection of my favorite ideas from [*The Beginning of Infinity* by D
 **We learn by guessing.** The communication of new ideas depends on creative guesswork on the part of both the recipient and the communicator. This is necessary because language and behavior are inherently lossy communication channels. We observe behavior, conjecture an explanation, criticize and test it, and then tentatively adopt it.
 > "It is impossible to speak in such a way that you cannot be misunderstood." - Karl Popper
 
-# Quotations
+# Quotes
 - "We should expect AI to be achieved in a jump to universality, starting from something much less powerful."
 - "Whenever a wide range of theories accounts equally well for a phenomenon, there is no reason to prefer one of them over the others."
 - "If an explanation could easily explain anything in the given field, then it actually explains nothing."

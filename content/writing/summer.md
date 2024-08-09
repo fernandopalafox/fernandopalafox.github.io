@@ -89,45 +89,60 @@ Fail fast!
 I began to notice how much procrastination, even with relatively simple tasks, was because of the following simple idea: there's probably a better way of solving what I'm trying to do and I don't know about it yet. 
 So I might as well not try. 
 
-Speaking of failure, let's talk about girls! 
-I find myself at an interesting point in my life. 
-Previously, being single and also feeling good about myself were mutually exclusive, and I had never felt both at the same time. 
-So I've started shooting my shot and started talking to some of the most women I've ever met. 
+Speaking of trying new things, I find myself at an interesting point in my life: I'm single AND I feel pretty comfortable with who I am.
+Unfortunately, these two have never happened at the same time before.
+So, I've started shooting my shot, and approaching women I would've never had the confidence to talk to before. 
+At the start I found it hilarious how my body would go into full fight-or-flight mode when talking to a beautiful girl.
+Sweaty palms, heart pounding, and shaking hands. 
+All because I was talking to an attractive human being. 
+Lots to write about here, but it's definitely been an interesting development in my life.
 
-The role of femininiity and masculinty
-And I've been so fortunate to meet some amazing women. 
-I could write poems about the completeness I've felt when interacting with a beautiful girl
-And the conclusion is that 
+Mostly, I've gained a whole new level of appreciation and respect for women and femininity. 
+As a man, I'm majorly rewarded by displaying confidence and competence.
+This is not a complaint, I've become very attuned with masculinity and my desire to develop to my fullest extent. 
+It just feels part of who I am. 
+But life has lots of ups and down, and as scary as it sounds, it's nice to feel safe in a space of vulnerability. 
+I've been hurt in this space before, and it's definitely taken time to open up again. 
+However, I was fortunate enough to meet a particularly beautiful girl that changed how I viewed all this.
+She showed me how it's ok to drop the mask and be vulnerable. 
+Safely. 
+It was in these moments of tenderness, in the warm, and loving embrace of someone that cares for you, that masculine and the feminine energy fall into place like two pieces of a puzzle. 
+When you look into the eyes of a woman you love, you see the entire universe, and your purpose becomes so clear. 
+The yin and the yang.
+It's beautiful. 
+It's powerful.
+It's baked into our DNA.
+Thank you, R.
 
-Beyond romance
+Apart from the tender moments, the drive a women will give you is nothing short of a stimulant. 
+Nothing will wake you up, sit you back straighter, and give you confidence like knowing your hard work is part of a mission to build something with a woman you love.
+Naval Ravikant has this old tweet that I think about a lot:
+> ["Men are the means; women are the motive."](https://x.com/naval/status/10456426317?lang=en)
+God damn. 
+I've never felt a fire in my soul to build something big and to spread my wings when I know it's for the purpose of building a life with a woman I love.
+Now I understand why the Greeks fucked up Troy over Helen. 
+
 Beyond the romantic aspect of this, my relationship to women has changed. 
 Appreciation for my mom and the women in my life
 Their wisdom
-Changing what I'm optimizing for. 
-I've learned to appreciate just how special they are
 
-### Feminine beauty
-Talking to beautiful girls. 
-This one was particularly funny: I found it hilarious how my body would go into full fight-or-flight mode when going up to a pretty girl. 
-Sweaty palms, heart pounding, and shaking hands (and legs!). 
-All because I was talking to an attractive human being. 
-Lol. 
-This one was very fun. 
-Turns out pretty girls are also humans. 
-Lots to write about this, but it's also the first time in my life where I find myself single AND also really feeling myself. 
-Felt almost like a second puberty.
-Hard to describe it. 
-Some inklings of wanting to settle down too and definitely optimizing for different values. 
-Midwest has definitely made me appreciate this
+Here's a picture of all the books I've ready.
+The books I read and how my relationship to understanding has changed.
 
-Some wildly cathartic experiences. 
-It felt like I was shedding so many layers. 
-Highly spiritual 
-The feeling of pure experience, becoming. 
-Choosing what mask to put on 
+## Finale and why you should try this too
 
+It's in this silence that you'll get a glimpse of who you are and what you're meant to be. 
+By no means have I figure it out.
+And I still think that we're social animals, and our spiritual development does not happen in isolation. 
+But a period of solitude is definitely part of it. 
+Personally, I think I'm past the self-help part of my journey. 
+It's been good, but I want to continue digging into technical stuff. 
+I've never been as fascinated and/or excited about my work as recently. 
 
-# Technical stuff
+Thank you for reading
+
+Fernando Palafox
+*fortitudine vincimus*
 
 
 [^1] There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this, quite yet. 
