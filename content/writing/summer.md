@@ -8,28 +8,29 @@ August 2024
 
 The plan was simple: meditate, lift, and code. 
 This summer, I was hired as an intern at Honda Research Institute to work on self-driving cars. 
-The job was in Ann Arbor, Michigan and once I accepted the offer, my plan to go monk-mode for a couple months and focus on my interests.
-I love my life in Austin, but you don't always get the chance to temporarily move somewhere else with zero distractions and great weather.
-Here is a bit of what I learned, and my thoughts on why dissapearing for a bit can be so valuable -- particularly if you're in your 20s and trying to figure it all out. 
+When I found out the job was in Ann Arbor, Michigan I knew it was the perfect opportunity to go monk-mode for a couple months and focus on my interests.
+I love my life in Austin, but you don't always get the change to temporarily move to a quiet place, with zero distractions, great weather, and an interesting job.
+Here is a bit of what I learned, and my thoughts on why dissapearing for a bit can be so valuable -- particularly if you're like me: in your 20s and trying to figure it all out. 
 
-2024 has been the wildest year of my life so far and and an fun exercise in finding where my priorities are and what I'm interested in when I'm not thinking of who I *should* be. 
+2024 has been the wildest year of my life so far and and a fun exercise in sharpnening my priorities are and finding what I'm interested in when I'm not thinking of who I *should* be. 
 This has involved taking a break from cycling (wow, I never thought I'd say this), leaving most social media, certain social circles, and a even relationship. 
 Instead, I've found myself drawn towards coding, running, lifting, and meditation.
-So I just sent it with meditation, exercise, and code. 
+(Find a better transition here)
 
 Nothing has affected how I relate to the world as much as meditation.
-I started in 2020, but my practice has been on and off until the past year or so. 
-I wanted to step it up this summer, so I settled into a routine of 30-60' of sitting a day (I wrote a bit about it HERE). 
-One of the first things I discovered just how much physical tension I had all around my body.
-In my face, shoulders, and neck!
-It was so interesting to see how just noting it allowed released it. 
-Some of it was easy, like noting how crunched up you hold your face. 
-Some toook more time, like the knot on my neck. 
+I started in 2020, but my practice was inconsistent until last year. 
+As I settled into a routine of 30-60' of sitting a day (I wrote a bit about it HERE), one of the first things I found was a ton of physical tension.
+My face, shoulders, and neck were a compacted mess of tension that released as I noted it.
+Some of it was "easy": merely noting how I held my face immediately relaxed it.
+Some took more time, like the knot on my neck which slowly relaxed over 10-20 hours of meditation. 
 
-If I've learned anything from a bunch of meditation, therapy, and self-help books is that the solution to most emotional knots is facing any and all accompanying emotions. 
-It's amazing how much of my behavior came from a place of avoidance. 
-There's simple ones, like using your phone all the time. 
-I found avoidance even in some unexpected places: exercise, a close relationship, sex, and even meditation all be used to avoid unmforotable emotions!
+I also spent a bunch of time noting how I typically relate to (and sometimes avoid) uncomfortable emotions like anger and sadness.  
+If I've learned anything from meditation, therapy, and a self-help books is that most emotional knots unravel when you face any accompanying emotions. 
+Emotions typically show up for a reason, and not expressing skillfully seems to give them more energy and stagnate them.
+So, [I made my mind my friend](https://www.body-dynamics.net/articles/anonymous-samurai-poem.html) and used the uncomfortable emotions as the focus, rather than the reason, of my meditation.
+I found that many (most) "bad" habits such as excessive phone use and anxious eating typically came from a place of avoidance.
+Those made sense and not entirely unexpected, but I was surprised to find that I also used some "healthy" habits, like exercise, calls with friends, and even meditation, as a way of avoiding hard emotions. 
+Surprisingly, I also found avoidance in habits I typically identified as healthy: even exercise, sex, close relationships, and even meditation. 
 
 When digging deep into t, I found a lot of sadness and anger.  
 So, with a sense of adventure and curiosity, I set out to face these uncomfortable feelings
