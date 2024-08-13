@@ -60,7 +60,7 @@ This time I decided to welcome any feelings, no matter how uncomfortable they we
 This was made much easier by some wonderful guided meditations like Tara Brach's [RAIN](https://www.tarabrach.com/rain/), Jayasāra's [loving-kindness meditations](https://www.youtube.com/playlist?list=PLWzYrEdlV4O5o5GKepTGPx7tcow3aR-Jj), or Jitindriyā's [*Meeting Things As They Are*](https://vivekahermitage.com/embodying-awareness-metta/).
 Another great way of feeling stuck emotions was to lay on the floor, set a 30' timer, and stare at the ceiling -- a bit of Shinzen Young's ["Do Nothing" meditation](https://www.youtube.com/watch?v=cZ6cdIaUZCA).
 Some of these moments of stillness made me feel something that is best described as melting into the immensity of life[^2].
-And they also brought some seriously cathartic experiences.
+And they also produced some seriously cathartic experiences.
 
 For example, on a quiet June night I had an intense emotional release where I learned it's possible to forgive and love those that have hurt you the most.[^3]
 For a couple minutes, I felt like I was channelling a divine forgiveness that was completely out of my control.
