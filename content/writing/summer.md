@@ -62,7 +62,7 @@ Another great way of feeling stuck emotions was to lay on the floor, set a 30' t
 Some of these moments of stillness made me feel something that is best described as melting into the immensity of life[^2].
 And they also brought some seriously cathartic experiences.
 
-For example, on a quiet June night I had an immense emotional release where I learned it's possible to forgive and love those that have hurt you the most.[^3]
+For example, on a quiet June night I had an intense emotional release where I learned it's possible to forgive and love those that have hurt you the most.[^3]
 For a couple minutes, I felt like I was channelling some kind of divine forgiveness that felt completely out of my control.
 It was a bit scary, but it also left me in left me in a warm and fuzzy state of understanding and love that I can still feel. 
 I wrote a lot about this moment, maybe one day I'll share it on here.
