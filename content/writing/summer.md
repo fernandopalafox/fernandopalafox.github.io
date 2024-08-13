@@ -141,7 +141,7 @@ I discovered that, in the silence of solitude, you can get a glimpses of who you
 I still don't have it completely figured out, but I have enough to get by with a sense of confidence and calm that I've never felt before.
 I think that we're social animals and that spiritual growth also happens in a community. 
 But a period of peace and isolation will definitely teach you a lot.
-Try it out, and report back, I promise it's worth it.
+Try it out and report back -- I promise it's worth it.
 
 ---
 
