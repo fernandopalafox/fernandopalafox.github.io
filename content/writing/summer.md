@@ -68,7 +68,7 @@ It was a bit scary, but it also left me in a warm and fuzzy state of understandi
 I wrote a lot about this moment, maybe one day I'll share it on here.
 
 I also spent quite a bit of time making friends with my fear of failure. 
-A common theme the past year has been making an effort to leave my local bubble and exposing myself to the most talented people in my field. 
+A common theme the past year has been making an effort to leave my local bubble and expose myself to the most talented people in my field. 
 This initially led to a ton of heartbreak as I found out just how much of my identity and self-worth was wrapped up around feeling like the smartest person in the room. 
 Once I got past that though, I found myself doing some really interesting, but hard things, where failing at some point was inevitable.
 Who would've thought a PhD in robotics and AI is hard? 
