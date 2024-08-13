@@ -37,7 +37,7 @@ So, ["I made my mind my friend"](https://www.body-dynamics.net/articles/anonymou
 I found that most of my "bad" habits, like excessive phone use or anxious eating came from a place of avoidance.
 That made sense: they're easy-to-access hits of stimulation that immediately distract me from whatever is going on. 
 But what I found very surprising was that even some healthy activities, like exercise, sex, close relationships, and even meditation, could also be used to avoid hard emotions.
-There's definitely an optimal point to be found: I'm not trying to live in perpetual self-flagellation because "I need to face hard things!", but spending time noting when the balance teetered towards avoidance was a really great idea. 
+There's definitely an optimal point to be found: I'm not trying to live in perpetual self-flagellation because "I need to face hard things", but spending time noting when the balance teetered towards avoidance was a really great idea. 
 Many bad habits mostly disappeared and I was able to be more present for the healthy ones. 
 
 <figure style="text-align: center;">
@@ -47,8 +47,8 @@ Many bad habits mostly disappeared and I was able to be more present for the hea
 
 I also found that I had lots of stuck anger and sadness. 
 In meditation, anger typically showed up via bitter thoughts, physical tension, an elevated heartrate, and even profuse sweating. 
-The angry thoughts were sometimes directed towards others, but mostly towards myself. 
-"Be better!", "work harder!", "wow how are you so dumb?!", "what you just did was so cringe!", "feeling like this is only slowing you down, suck it up, buttercup!"
+The angry thoughts were sometimes directed towards others, but mostly towards myself: 
+"be better!", "work harder!", "wow how are you so dumb?!", "what you just did was so cringe!", "feeling like this is only slowing you down, suck it up, buttercup!"
 Much time was spent learning how to skillfully let the anger flow, noting when pride made me hold on to it, and gently letting it go.
 Learning how to be more gentle, both with myself and with others, was a big theme of the summer. 
 
