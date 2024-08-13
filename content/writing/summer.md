@@ -1,7 +1,7 @@
 ---
 title: A summer of meditation and what I learned
-publishDate: 2024-07-01
-draft: False
+publishDate: 2024-08-13
+draft: True
 ---
 
 August 2024
@@ -75,7 +75,7 @@ Who would've thought a PhD in robotics and AI is hard?
 Or that self-driving cars don't work on the first try?
 And that's where I learned just how much I hate failing and how much struggle and energy I spent on avoiding it at all costs.
 Unfortunately, as David Deutsch writes in the Beginning of Infinity (one of my favorite books): errors are inevitable. 
-The trick is not to spend all your energy trying to be perfect, and instead, focus on maximizing how well you correct any errors and learn from them.[^3]
+The trick is not to spend all your energy trying to be perfect, and instead, focus on maximizing how well you correct any errors and learn from them.[^4]
 So I re-framed failure as a practice in error-correction, made friends with it, and even trained myself to enjoy it: seeing at as a sign that I was trying interesting things AND I was also learning from them.
 
 <!-- <figure style="text-align: center;">
@@ -158,6 +158,6 @@ Fernando Palafox
 
 
 [^1]: Jayasāra's guided meditations are phenomenal. One of my favorites is [Tilopa's Six Words of Advice](https://www.youtube.com/watch?v=Su1ov_dVJ0s&list=PLWzYrEdlV4O5o5GKepTGPx7tcow3aR-Jj&index=4). So good.
-[^2]: There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this, quite yet. 
+[^2]: There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this quite yet. 
 [^3]: Even cooler is the fact that you can do all this AND still have healthy boundaries with them.
-[^4]: If this sounds interesting, I highly suggest reading Deutsch's The Beggining of Infinity. Shameless plug to my notes [here](infinity.md). I also like the OODA loop.
+[^4]: If this sounds interesting, I highly suggest reading Deutsch's The Beginning of Infinity. Shameless plug to my notes [here](infinity.md). I also like the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop).
