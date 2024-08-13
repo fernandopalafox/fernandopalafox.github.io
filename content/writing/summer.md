@@ -113,7 +113,7 @@ Nothing will wake you up, make you stand straighter, and give you confidence lik
 Naval Ravikant has this old tweet I think about a lot: ["Men are the means; women are the motive."](https://x.com/naval/status/10456426317?lang=en)
 Now I understand why the Greeks fucked up Troy over Helen.
 
-Apart from any romance, I've also opened up to the wisdom of the women in my life, like my mom. I'm still very confused about what goes on inside a womans' brains, but their tenderness and feminine wisdom are so valuable, and I feel grateful that I get to learn from it.
+Apart from any romance, I've also opened up to the wisdom of the women in my life, like my mom. I'm still very confused about what goes on inside women's brains, but their warmth and feminine wisdom are so valuable, and I feel grateful that I get to learn from it.
 
 ---
 
