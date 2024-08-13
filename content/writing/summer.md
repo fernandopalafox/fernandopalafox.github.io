@@ -87,7 +87,7 @@ So I re-framed failure as a practice in error-correction, made friends with it, 
 
 <figure style="text-align: center;">
   <img src="media/soft.jpg" alt="" style="width:75%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>Text I really liked by my friend Sam. Check them out <a href="https://www.eatingyellowpaint.com/who/">here</a>.</em></figcaption>
+  <figcaption style="max-width: 95%; margin: auto;"><em>Text by my friend Sam. Check out their website <a href="https://www.eatingyellowpaint.com/who/">here</a>.</em></figcaption>
 </figure>
 
 This summer I found myself at an interesting point in life: I'm single, AND I feel pretty comfortable with who I am.
