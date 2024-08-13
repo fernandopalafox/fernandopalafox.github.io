@@ -1,5 +1,5 @@
 ---
-title: A summer of meditation and what I learned
+title: Flow and Lifting in Ann Arbor 
 publishDate: 2024-08-13
 draft: True
 ---
