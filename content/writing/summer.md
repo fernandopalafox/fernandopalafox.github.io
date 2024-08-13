@@ -41,7 +41,7 @@ There's definitely an optimal point to be found: I'm not trying to live in perpe
 Many bad habits mostly disappeared and I was able to be more present for the healthy ones. 
 
 <figure style="text-align: center;">
-  <img src="media/airplane.jpeg" alt="" style="width:75%">
+  <img src="media/airplane.jpg" alt="" style="width:75%">
   <figcaption style="max-width: 95%; margin: auto;"><em>I love clouds so much, and Michigan has some good ones.</em></figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ So I re-framed failure as a practice in error-correction, made friends with it, 
 ---
 
 <figure style="text-align: center;">
-  <img src="media/soft.jpeg" alt="" style="width:75%">
+  <img src="media/soft.jpg" alt="" style="width:75%">
   <figcaption style="max-width: 95%; margin: auto;"><em>Text I really liked by my friend Sam. Check them out <a href="https://www.eatingyellowpaint.com/who/">here</a>.</em></figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Apart from any romance, I've also opened up to the wisdom of the women in my lif
 ---
 
 <figure style="text-align: center;">
-  <img src="media/books.jpeg" alt="" style="width:75%">
+  <img src="media/books.jpg" alt="" style="width:75%">
   <figcaption style="max-width: 95%; margin: auto;"><em>Summer reads. Missing Taleb's "Fooled by Randomness".</em></figcaption>
 </figure>
 
