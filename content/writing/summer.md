@@ -63,14 +63,14 @@ Some of these moments of stillness made me feel something that is best described
 And they also brought some seriously cathartic experiences.
 
 For example, on a quiet June night I had an intense emotional release where I learned it's possible to forgive and love those that have hurt you the most.[^3]
-For a couple minutes, I felt like I was channelling some kind of divine forgiveness that felt completely out of my control.
-It was a bit scary, but it also left me in a warm and fuzzy state of understanding and love that I can still feel. 
+For a couple minutes, I felt like I was channelling a divine forgiveness that was completely out of my control.
+It was a bit scary, but it also left me in a warm and fuzzy state of understanding and love that I can still feel today. 
 I wrote a lot about this moment, maybe one day I'll share it on here.
 
 I also spent quite a bit of time making friends with my fear of failure. 
 A common theme the past year has been making an effort to leave my local bubble and expose myself to the most talented people in my field. 
 This initially led to a ton of heartbreak as I found out just how much of my identity and self-worth was wrapped up around feeling like the smartest person in the room. 
-Once I got past that though, I found myself doing some really interesting, but hard things, where failing at some point was inevitable.
+Once I got past that though, I found myself doing some really interesting and really hard things, where failing at some point was inevitable.
 Who would've thought a PhD in robotics and AI is hard? 
 Or that self-driving cars don't work on the first try?
 And that's where I learned just how much I hate failing and how much struggle and energy I spent on avoiding it at all costs.
