@@ -28,7 +28,7 @@ I started in 2020, but my practice was inconsistent until last year, and this su
 As I settled into a routine of 30-60' of sitting a day (I wrote a bit about it [here](slave_morality.md)), one of the first things I found was a ton of physical tension.
 My face, shoulders, and neck were a compacted mess of knots that began to release as I got better at noting them.
 Some were "easy": merely noting how I held my forehead, eyes, and jaw immediately relaxed them.
-Some more time, like the knot on my neck I've had since February which slowly relaxed over 10-20 hours of meditation. 
+Some took more time, like the knot on my neck I've had since February which slowly relaxed over 10-20 hours of meditation. 
 
 I also spent a bunch of time learning about how I typically relate to (and sometimes avoid) uncomfortable emotions like anger and sadness.
 If I've learned anything from meditation, therapy, and a self-help books is that most emotional knots unravel when you face any accompanying emotions. 
