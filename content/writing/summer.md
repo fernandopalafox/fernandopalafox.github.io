@@ -35,7 +35,7 @@ If I've learned anything from meditation, therapy, and a self-help books is that
 Emotions show up for a reason, and avoiding them stagnates them and gives them more energy.
 So, ["I made my mind my friend"](https://www.body-dynamics.net/articles/anonymous-samurai-poem.html) and used the emotions as the focus, rather than the reason, of my meditation.
 I found that most of my "bad" habits, like excessive phone use or anxious eating came from a place of avoidance.
-That made sense: they're easy to access hits of stimulation that immediately distract me from whatever is going on. 
+That made sense: they're easy-to-access hits of stimulation that immediately distract me from whatever is going on. 
 But what I found very surprising was that even some healthy activities, like exercise, sex, close relationships, and even meditation, could also be used to avoid hard emotions.
 There's definitely an optimal point to be found: I'm not trying to live in perpetual self-flagellation because "I need to face hard things!", but spending time noting when the balance teetered towards avoidance was a really great idea. 
 Many bad habits mostly disappeared and I was able to be more present for the healthy ones. 
