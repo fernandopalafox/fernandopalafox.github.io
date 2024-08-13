@@ -1,7 +1,7 @@
 ---
 title: Flow and Lifting in Ann Arbor 
 publishDate: 2024-08-13
-draft: True
+draft: False
 ---
 
 <figure style="text-align: center;">
@@ -21,7 +21,7 @@ Here is a bit of what I learned, and my thoughts on why disappearing for a bit c
 
 2024 has been the wildest year of my life so far and a fun exercise in finding what my real interests are when I'm not worried about who I *should* be.
 This has involved taking a break from cycling (wow, I never thought I'd say this), leaving most social media, some friends, and even a relationship.
-Instead, I've found myself drawn towards coding, running, lifting, and meditation.
+Instead, I've found myself drawn towards coding, running, weightlifting, and meditation.
 
 Nothing has affected how I relate to the world as much as meditation.
 I started in 2020, but my practice was inconsistent until last year, and this summer I decided to step it up.
