@@ -4,12 +4,12 @@ publishDate: 2024-08-13
 draft: True
 ---
 
-August 2024
-
 <figure style="text-align: center;">
   <img src="media/book.jpeg" alt="" style="width:65%">
   <figcaption style="max-width: 95%; margin: auto;"><em>A typical summer afternoon.</em></figcaption>
 </figure>
+
+August 2024
 
 The plan was simple: meditate, lift, and code. 
 This summer, I was hired as an intern at Honda Research Institute to work on self-driving cars. 
