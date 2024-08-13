@@ -86,7 +86,7 @@ So I re-framed failure as a practice in error-correction, made friends with it, 
 ---
 
 <figure style="text-align: center;">
-  <img src="media/soft.jpg" alt="" style="width:75%">
+  <img src="media/soft.jpg" alt="" style="width:85%">
   <figcaption style="max-width: 95%; margin: auto;"><em>Text by my friend Sam. Check out their website <a href="https://www.eatingyellowpaint.com/who/">here</a>.</em></figcaption>
 </figure>
 
