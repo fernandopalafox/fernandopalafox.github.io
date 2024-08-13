@@ -9,7 +9,7 @@ draft: True
   <figcaption style="max-width: 95%; margin: auto;"><em>A typical summer afternoon.</em></figcaption>
 </figure>
 
-August 2024
+**August 2024**
 
 The plan was simple: meditate, lift, and code. 
 This summer, I was hired as an intern at Honda Research Institute to work on self-driving cars. 
