@@ -1,5 +1,5 @@
 ---
-title: Flow and Lifting in Ann Arbor 
+title: Flow and Loving in Ann Arbor 
 publishDate: 2024-08-13
 draft: False
 ---
