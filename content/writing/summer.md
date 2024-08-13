@@ -158,6 +158,6 @@ Fernando Palafox
 
 
 [^1]: Jayasāra's guided meditations are phenomenal. One of my favorites is [Tilopa's Six Words of Advice](https://www.youtube.com/watch?v=Su1ov_dVJ0s&list=PLWzYrEdlV4O5o5GKepTGPx7tcow3aR-Jj&index=4). So good.
-[^2]: There's a future post describing exactly what I experienced in these sessions of staring, but I don't have language to describe this quite yet. 
+[^2]: There's a future post describing exactly what I feel in these sessions of do nothing meditation, but I don't have language to describe it quite yet. 
 [^3]: Even cooler is the fact that you can do all this AND still have healthy boundaries with them.
-[^4]: If this sounds interesting, I highly suggest reading Deutsch's The Beginning of Infinity. Shameless plug to my notes [here](infinity.md). I also like the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop).
+[^4]: If this sounds interesting, I highly suggest reading Deutsch's The Beginning of Infinity. Shameless plug to my notes [here](infinity.md). You might also like the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop).
