@@ -33,7 +33,7 @@ Some more time, like the knot on my neck I've had since February which slowly re
 I also spent a bunch of time learning about how I typically relate to (and sometimes avoid) uncomfortable emotions like anger and sadness.
 If I've learned anything from meditation, therapy, and a self-help books is that most emotional knots unravel when you face any accompanying emotions. 
 Emotions show up for a reason, and avoiding them stagnates them and gives them more energy.
-So, [I made my mind my friend](https://www.body-dynamics.net/articles/anonymous-samurai-poem.html) and used the emotions as the focus, rather than the reason, of my meditation.
+So, ["I made my mind my friend"](https://www.body-dynamics.net/articles/anonymous-samurai-poem.html) and used the emotions as the focus, rather than the reason, of my meditation.
 I found that most of my "bad" habits, like excessive phone use or anxious eating came from a place of avoidance.
 That made sense: they're easy to access hits of stimulation that immediately distract me from whatever is going on. 
 But what I found very surprising was that even some healthy activities, like exercise, sex, close relationships, and even meditation, could also be used to avoid hard emotions.
