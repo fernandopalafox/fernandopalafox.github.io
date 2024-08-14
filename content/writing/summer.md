@@ -74,7 +74,7 @@ Once I got past that though, I found myself doing some really interesting and re
 Who would've thought a PhD in robotics and AI is hard? 
 Or that self-driving cars don't work on the first try?
 And that's where I learned just how much I hate failing and how much struggle and energy I spent on avoiding it at all costs.
-Unfortunately, as David Deutsch writes in the Beginning of Infinity (one of my favorite books): errors are inevitable. 
+Unfortunately, as David Deutsch writes in the *Beginning of Infinity* (one of my favorite books): errors are inevitable. 
 The trick is not to spend all your energy trying to be perfect, and instead, focus on maximizing how well you correct any errors and learn from them.[^4]
 So I re-framed failure as a practice in error-correction, made friends with it, and even trained myself to enjoy it: seeing at as a sign that I was trying interesting things AND I was also learning from them.
 
