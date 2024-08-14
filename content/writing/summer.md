@@ -38,7 +38,7 @@ I found that most of my "bad" habits, like excessive phone use or anxious eating
 That made sense: they're easy-to-access hits of stimulation that immediately distract me from whatever is going on. 
 But what I found very surprising was that even some healthy activities, like exercise, sex, close relationships, and even meditation, could also be used to avoid hard emotions.
 There's definitely an optimal point to be found: I'm not trying to live in perpetual self-flagellation because "I need to face hard things", but spending time noting when the balance teetered towards avoidance was a really great idea. 
-Many bad habits mostly disappeared and I was able to be more present for the healthy ones. 
+Many bad habits disappeared and I was able to be more present for the healthy ones. 
 
 <figure style="text-align: center;">
   <img src="media/airplane.jpg" alt="" style="width:75%">
