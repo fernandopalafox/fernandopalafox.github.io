@@ -55,7 +55,7 @@ Learning how to be more gentle, both with myself and with others, was a big them
 Sadness typically showed up in the mornings and evenings.
 There's something special about a slow, quiet morning before the sun is up, or a cool night where the only sound is the soft rustling of leaves.
 These are [thin places](https://pres-outlook.org/2021/02/thin-places-here-there-or-everywhere/#:~:text=Iona%20is%20known%20as%20a,often%20transformed%20by%20the%20experience.) that consistently blossom any unexpressed sadness.
-In the past, my first reaction to sadness would've been to immediately drown it out with a podcast, scrolling on my phone, or even meditation.
+In the past, my first reaction to sadness would've been to immediately drown it out with a podcast, scrolling on my phone, or even some kinds of meditation.
 This time I decided to welcome any feelings, no matter how uncomfortable they were.
 This was made much easier by some wonderful guided meditations like Tara Brach's [RAIN](https://www.tarabrach.com/rain/), Jayasāra's [loving-kindness meditations](https://www.youtube.com/playlist?list=PLWzYrEdlV4O5o5GKepTGPx7tcow3aR-Jj), or Jitindriyā's [*Meeting Things As They Are*](https://vivekahermitage.com/embodying-awareness-metta/).
 Another great way of feeling stuck emotions was to lay on the floor, set a 30' timer, and stare at the ceiling -- a bit of Shinzen Young's ["Do Nothing" meditation](https://www.youtube.com/watch?v=cZ6cdIaUZCA).
