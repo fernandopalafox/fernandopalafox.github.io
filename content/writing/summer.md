@@ -46,7 +46,7 @@ Many bad habits disappeared and I was able to be more present for the healthy on
 </figure>
 
 I also found that I had lots of stuck anger and sadness. 
-In meditation, anger typically showed up via bitter thoughts, physical tension, an elevated heartrate, and even profuse sweating. 
+In meditation, anger typically showed up in bitter thoughts, physical tension, an elevated heartrate, and even profuse sweating. 
 The angry thoughts were sometimes directed towards others, but mostly towards myself: 
 "be better!", "work harder!", "wow how are you so dumb?!", "what you just did was so cringe!", "feeling like this is only slowing you down, suck it up, buttercup!"
 Much time was spent learning how to skillfully let the anger flow, noting when pride made me hold on to it, and gently letting it go.
