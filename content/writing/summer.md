@@ -75,7 +75,7 @@ Who would've thought a PhD in robotics and AI is hard?
 Or that self-driving cars don't work on the first try?
 And that's where I learned just how much I hate failing and how much struggle and energy I spent on avoiding it at all costs.
 Unfortunately, as David Deutsch writes in the *Beginning of Infinity* (one of my favorite books): errors are inevitable. 
-The trick is not to spend all your energy trying to be perfect, and instead, focus on maximizing how well you correct any errors and learn from them.[^4]
+The trick is not to spend all your energy trying to be perfect, and instead, to focus on maximizing how well you correct any errors and learn from them.[^4]
 So I re-framed failure as a practice in error-correction, made friends with it, and even trained myself to enjoy it: seeing at as a sign that I was trying interesting things AND I was also learning from them.
 
 <!-- <figure style="text-align: center;">
@@ -97,10 +97,10 @@ At the start I found it hilarious how my body would go into full fight-or-flight
 Sweaty palms, heart pounding, and even shaking legs, all because I was talking to an attractive human being. 
 There's so much I could write about here.
 
-Mostly, I've gained a whole new level of appreciation and respect for women and femininity. 
+For example, I've gained a whole new level of appreciation and respect for women and femininity. 
 As a guy, I'm largely rewarded for being confident and competent, which is great because I love getting better at skills I care about. 
 But life has lots of ups and downs, and once in a while, it's nice to feel safe enough to be vulnerable about my feelings, concerns, hopes, and dreams. 
-I've been hurt when opening up before, and it's definitely scary to do it, but it's always so worth it.
+Opening up is so scary, and I've been hurt when doing it before, but it's always so worth it.
 
 Recently, I met a beautiful girl who changed a lot about how I view relationships. 
 She showed me how it's okay to drop the mask and be vulnerable.
@@ -113,7 +113,7 @@ Nothing will wake you up, make you stand straighter, and give you confidence lik
 Naval Ravikant has this old tweet I think about a lot: ["Men are the means; women are the motive."](https://x.com/naval/status/10456426317?lang=en)
 Now I understand why the Greeks fucked up Troy over Helen.
 
-Apart from any romance, I've also opened up to the wisdom of the women in my life, like my mom. I'm still very confused about what goes on inside women's brains, but their warmth and feminine wisdom is so valuable, and I feel grateful it's part of my life.
+Apart from any romance, I've also opened up to the wisdom of the women in my life, like my mom. I'm still very confused about what goes on inside women's brains, but their warmth and feminine wisdom is extremely valuable, and I feel very grateful it's part of my life.
 
 ---
 
@@ -134,13 +134,13 @@ Here are some nice numbers:
 
 How was my summer? 
 It was joyful, it was lonely, it was beautiful, it was sad, it was scary, it was angry, it was exciting, it was inspiring. 
-It was so special!
-[Here's a playlist](https://open.spotify.com/playlist/3uGZAtC6qI7m3GqJsVtLpS?si=sPObYD4xSSOxZcZjWLvkWw&pi=u-OFRJ90nQQ2mU) I made with a bunch of songs that reflect how it felt.
+It was very special.
+[Here's a playlist](https://open.spotify.com/playlist/3uGZAtC6qI7m3GqJsVtLpS?si=sPObYD4xSSOxZcZjWLvkWw&pi=u-OFRJ90nQQ2mU)  with a bunch of songs that reflect how it felt.
 
-I discovered that, in the silence of solitude, you can get a glimpses of who you are and what you're meant to be. 
+I discovered that in the silence of solitude you can get a glimpses of who you are and what you're meant to be. 
 I still don't have it completely figured out, but I have enough to get by with a sense of confidence and calm that I've never felt before.
-I think that we're social animals and that spiritual growth also happens in a community. 
-But a period of peace and isolation will definitely teach you a lot.
+I think we're social animals and spiritual growth also happens in a community.
+But a period of peace and isolation will teach you a lot.
 Try it out and report back -- I promise it's worth it.
 
 ---
