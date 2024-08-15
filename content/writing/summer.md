@@ -1,5 +1,5 @@
 ---
-title: Flow and Love in Ann Arbor 
+title: Fear and Love in Ann Arbor 
 publishDate: 2024-08-13
 draft: False
 ---
