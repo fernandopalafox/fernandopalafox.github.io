@@ -63,7 +63,7 @@ Some of these moments of stillness made me feel something that is best described
 And they also produced some seriously cathartic experiences.
 
 For example, on a quiet June night I had an intense emotional release where I learned it's possible to forgive and love those that have hurt you the most.[^3]
-For a couple minutes, I felt like I was channelling a divine forgiveness that was completely out of my control.
+For a couple minutes, I felt like I was chanelling a divine forgiveness that was completely out of my control.
 It was a bit scary, but it also left me in a warm and fuzzy state of understanding and love that I can still feel today. 
 I wrote a lot about this moment, maybe one day I'll share it on here.
 
