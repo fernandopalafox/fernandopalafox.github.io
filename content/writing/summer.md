@@ -6,7 +6,7 @@ draft: False
 
 <figure style="text-align: center;">
   <img src="media/book.jpg" alt="" style="width:65%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>A typical summer afternoon.</em></figcaption>
+  <figcaption style="max-width: 95%; margin: auto;"><em>A summer afternoon.</em></figcaption>
 </figure>
 
 **August 2024**
