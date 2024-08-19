@@ -137,7 +137,7 @@ It was joyful, it was lonely, it was beautiful, it was sad, it was scary, it was
 It was very special.
 [Here's a playlist](https://open.spotify.com/playlist/3uGZAtC6qI7m3GqJsVtLpS?si=sPObYD4xSSOxZcZjWLvkWw&pi=u-OFRJ90nQQ2mU) with a bunch of songs that reflect how it felt.
 
-I discovered that in the silence of solitude you glimpses of who you are and what you're meant to do. 
+I discovered that in the silence of solitude you glimpse who you are and what you're meant to do. 
 I still don't have it completely figured out, but I have enough to get by with a sense of confidence and calm that I've never felt before.
 I think we're social animals and spiritual growth also happens in a community.
 But a period of peace and isolation will teach you a lot.
