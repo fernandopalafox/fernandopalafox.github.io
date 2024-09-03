@@ -13,9 +13,9 @@ draft: False
 
 I recently drove back to Texas after a summer in Michigan. 
 21 hours in the car total, lots of podcasts, around 4 hours of driving meditation (lol), and a Buc-ee's brisket sandwich. 
-I found an interesting mix of emotions, among which was excitement and fear -- similar to how I felt two years ago when I first moved to Austin. 
-Somehow, it felt like I was moving somewhere new. 
-And after sitting in this feeling for a bit, I finally understood it: I didn't just FEEL like I was moving somewhere new, I WAS moving somewhere new. 
+I went through an interesting mix of emotions, among which was excitement and fear -- very similar to how I felt two years ago when I first moved to Austin. 
+Somehow, I felt like I was moving somewhere new. 
+And after a couple hours I finally understood why: I didn't just FEEL like I was moving somewhere new, I WAS moving somewhere new. 
 
 We discover the world we expect to find. 
 Old Austin was a reflection of my habits, perspectives, and relationships at the time. 
