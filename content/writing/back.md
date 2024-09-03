@@ -12,7 +12,7 @@ draft: False
 **September 2024**
 
 I recently drove back to Texas after a summer in Michigan. 
-21 hours in the car total, lots of podcasts, around 4 hours of driving meditation (lol), and a Buc-ee's brisket sandwich. 
+21 hours in the car total, lots of podcasts, around 4 hours of driving meditation, and a Buc-ee's brisket sandwich. 
 I went through an interesting mix of emotions, among which was excitement and fear -- very similar to how I felt two years ago when I first moved to Austin. 
 Somehow, I felt like I was moving somewhere new. 
 And after a couple hours I finally understood why: I didn't just FEEL like I was moving somewhere new, I WAS moving somewhere new. 
