@@ -1,5 +1,5 @@
 ---
-title: New me, new Austin? 
+title: New Austin
 publishDate: 2024-09-03
 draft: False
 ---
