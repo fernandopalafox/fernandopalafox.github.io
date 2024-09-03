@@ -5,3 +5,4 @@ draft: True
 ---
 
 An experiment where I stop reading and consuming media and see what shows up. 
+I started 24/08/21
