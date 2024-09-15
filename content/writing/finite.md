@@ -12,12 +12,12 @@ draft: false
 **September 2024** 
 
 Here's something that's true: you'll never get to do most of the stuff you'd like to do.
-Everyone can understand this: days only have 24 hours, weeks 7 days, and life is honestly pretty short.
+Everyone can understand this: days only have 24 hours, weeks 7 days, and life is pretty short.
 But only until recently did I really *believe* this.
-I used to have this secret little idea that, if only I was more efficient, one day I would finish crossing out every item on my to-do list.
+I used to have this secret little belief that, if only I was more efficient, one day I would finish crossing out every item on my to-do list.
 Every trip, book, or project would get done.
 That given enough efficiency and time-management systems I would finally get to this heavenly state of contentment where I would rest in the satisfaction of having accomplished everything I had planned for life.
-I lived in a constant state of denial of my limited time and capacity despite the overwhelming and ever-growing pile of evidence: the books I didn't read, the essays I didn't write, the friends I didn't hangout with, the trips I didn't take, the texts I never replied to, the projects I never started, the chances I didn't take.   
+I lived in a constant state of denial of my limited time and capacity despite the ever-growing pile of evidence: the books I didn't read, the essays I didn't write, the friends I didn't hangout with, the trips I didn't take, the texts I never replied to, the projects I never started, the chances I didn't take.   
 
 I used to cope by convincing myself that whatever I missed out on was probably not as good as I imagined it to be. 
 AKA, the sour grapes approach.
@@ -41,7 +41,7 @@ But it's when you take some responsibility, and sacrifice some possibilities, th
 We have finite time and energy and there's no getting around this. 
 And even though this is very simple to understand, truly living this fact may take some adjustments. 
 Personally, I discovered a habit of subtle indecision: always hedging my bets on everything I did just in case I changed my mind later on.
-But this only gets you the worst of both worlds: not enough depth to reap any meaningful experiences, and just enough superficiality to tease you with all the cool shit that could happen if you DID commit to anything.
+But this only got me the worst of both worlds: not enough depth to reap any meaningful experiences, and just enough superficiality to tease you with the cool shit that could happen if you DID commit.
 
 So now I try to apply a barbell approach.
 Either I do it or I don't. 
@@ -50,7 +50,8 @@ A benefit is that you quickly learn to avoid doom-scrolling on social media.
 Doom-scrolling gives you enough crumbs to make you hungry, but not enough to leave you satisfied, and it falls squarely in the middle of the barbell.
 
 I've also learned how to constantly let go of the literal infinity of beautiful futures that could've been. 
-I'm 26, intensely curious, and I **love** people, so not a moment goes by when I'm not letting go of the idea of some idyllic future.
-But when I do remind myself of this something very interesting happens: every task, even the mundane ones, take on a transcendent glow. 
+I'm 26, intensely curious, and I **love** people. 
+Not a moment goes by when I'm not letting go of the idea of some idyllic future.
+But when I am able to let go something very interesting happens: every task, even the mundane ones, take on a transcendent glow. 
 I exist, I am alive, and I get to do **this**.
 So why wouldn't I go all the way? 
