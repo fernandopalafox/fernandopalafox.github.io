@@ -6,7 +6,6 @@ draft: false
 
 <figure style="text-align: center;">
   <img src="media/hebclouds.jpg" alt="" style="width:65%">
-  <figcaption style="max-width: 95%; margin: auto;"><em>HEB parking lot clouds.</em></figcaption>
 </figure>
 
 **September 2024** 
