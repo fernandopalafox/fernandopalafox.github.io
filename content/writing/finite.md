@@ -1,5 +1,5 @@
 ---
-title: "You'll never finish and that's good"
+title: "You'll Never Finish and That's Good"
 publishDate: 2024-09-14
 draft: false
 ---
