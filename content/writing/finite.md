@@ -38,7 +38,7 @@ Or if you're in a committed relationship it may be hard to forget all the fun pu
 But it's when you take some responsibility, and sacrifice some possibilities, that actions become truly meaningful.
 
 We have finite time and energy and there's no getting around this. 
-And even though this is very simple to understand, truly living this fact may take some adjustments. 
+And even though this is easily understood, truly living this fact may take some adjustments. 
 Personally, I discovered a habit of subtle indecision: always hedging my bets on everything I did just in case I changed my mind later on.
 But this only got me the worst of both worlds: not enough depth to reap any meaningful experiences, and just enough superficiality to tease you with the cool shit that could happen if you DID commit.
 
