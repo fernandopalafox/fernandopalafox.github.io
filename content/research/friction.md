@@ -1,6 +1,6 @@
 ---
 title: "Correcting Robot Joint Friction w/ Differentiable Simulators"
-tags: [wh, ml]
+tags: [ml]
 publishDate: 2024-09-15
 draft: false
 ---
