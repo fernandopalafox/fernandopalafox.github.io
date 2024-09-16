@@ -117,8 +117,8 @@ Notice how it does such a good job that it almost exactly cancels out the effect
 This idea looks promising but I still need to figure out the following: 
 
 **Coverage.** A pendulum is a very simple dynamical system, so covering the entire state space when collecting data was very easy. 
-I just sampled random initial positions for the pendulum and random inputs, and since the robot just has a single joint, I quickly covered most of the .
-However, for robots with more joints, the state space grows exponentially, and getting good coverage will be challenging.  
+I just sampled random initial positions for the pendulum and random inputs, and since the robot only has a single joint, I quickly covered the entire state space.
+However, for robots with more joints, the state space will be exponentially larger, and getting good coverage will likely be challenging.  
 
 **Architecture.** As the dynamical system gets more complex, we will likely need a better neural network model.
 
