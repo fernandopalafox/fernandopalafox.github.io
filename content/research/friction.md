@@ -63,7 +63,7 @@ In this post I'll present a proof of concept where both robots are simulated, bu
   <img src="media/diffsim_data.png" alt="" style="width:85%">
 </figure>
 
-We collect data using a simulated pendulum with an added friction force meant to represent a real robot with joint friction. 
+We collect data using a simulated robot with an added friction force meant to represent a real robot with joint friction. 
 We give the robot a random torque command, add friction to each of the joints, and then save the initial state, the final state, and the applied control torque. 
 For this proof of concept, the robot is a single pendulum.
 
