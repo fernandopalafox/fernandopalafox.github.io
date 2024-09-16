@@ -22,8 +22,6 @@ Also, thanks you Jake Levy for with the help with Jax.
 - [Data collection](#data-collection)
 - [Training the neural network](#training-the-neural-network)
 - [Results](#results)
-  - [Before](#before)
-  - [After](#after)
 - [Conclusion](#conclusion)
 - [Code](#code)
 
@@ -92,7 +90,7 @@ This can only be done with a differentiable simulator, as noted in the diagram b
 
 # Results 
 
-## Before
+**Before**
 
 Here's a plot showing position error for the end effectors.
 I use a simple PD controller since the dynamical system is very simple.
@@ -103,7 +101,7 @@ As expected, the controller without friction has less error.
   <img src="media/diffsim_before.png" alt="" style="width:65%">
 </figure>
 
-## After 
+**After** 
 
 Below are the trajectories I got when combining the PD controller and the neural network. 
 Green denotes the corrected trajectory. 
