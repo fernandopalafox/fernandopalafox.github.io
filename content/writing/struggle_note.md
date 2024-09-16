@@ -1,5 +1,5 @@
 ---
-title: Note on listening and struggle
+title: Listening and Struggle
 publishDate: 2024-07-10
 draft: False
 ---
