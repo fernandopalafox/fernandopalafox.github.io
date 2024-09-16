@@ -12,6 +12,9 @@ draft: false
 Here I present method, based on differentiable simulators, to compensate for joint friction (or other unmodelled forces).
 This post is a proof of concept where I used Google's [Brax](https://github.com/google/brax), a differentiable physics simulator based on [Jax](https://github.com/google/jax), to correct for unmodelled joint friction in a simple pendulum.
 
+This was inspired by discussions with [Ruihan Zhao aka Philip](https://philipzrh.com/). 
+Also, thanks you Jake Levy for with the help with Jax.
+
 **Table of Contents**
 - [Problem](#problem)
 - [Challenges](#challenges)
