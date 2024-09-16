@@ -29,11 +29,11 @@ Also, thanks you Jake Levy for with the help with Jax.
 [Force controllers](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-5-force-control/) are helpful in situations when you want your robot to be compliant.
 For example, when you're interested in contact-rich tasks or you are operating around humans.
 Unfortunately, they're very sensitive to unmodelled forces, such as joint friction. 
-The symptoms of the problem are that trajectories are trajectory tracking performance is degraded. 
+These forces typically result in degradations in tracking performance. 
 This is because there's no way for the controller to tell whether it's running into a wall (something it should be compliant to) or joint friction.
 
 # Challenges
-This problem is challenging because joint friction depends on a ton of variables such as: 
+This problem is challenging because joint friction depends on a ton of variables like: 
 - Temperature
 - Angles
 - Velocity
@@ -41,7 +41,7 @@ This problem is challenging because joint friction depends on a ton of variables
 - Joint degradation
 One way of solving this problem is to come up with a super high-fidelity friction model for the robot you're using. 
 This approach works kinda well, but it's typically bespoke and limited to a specific robot.
-We want a more general method.
+We want something more general.
 
 # Approach
 Three steps:
@@ -54,7 +54,7 @@ Here's a diagram to get some intuition for how this works:
   <img src="media/diffsim_plan.png" alt="" style="width:85%">
 </figure>
 
-In this blog post I'll present a proof of concept where both simulators are in simulation, but one of them has an added friction force I came up with.
+In this post I'll present a proof of concept where both robots are simulated, but one of them has an added friction force I came up with.
 
 # Data collection 
 
