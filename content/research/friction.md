@@ -9,7 +9,7 @@ draft: false
   <img src="media/diffsim_intro.png" alt="" style="width:65%">
 </figure>
 
-Here I present method, based on differentiable simulators, to compensate for joint friction (or other unmodelled forces).
+Here's a method, based on differentiable simulators, to compensate for joint friction (or other unmodelled forces).
 This post is a proof of concept where I used Google's [Brax](https://github.com/google/brax), a differentiable physics simulator based on [Jax](https://github.com/google/jax), to correct for unmodelled joint friction in a simple pendulum.
 
 This was inspired by discussions with [Ruihan Zhao aka Philip](https://philipzrh.com/). 
@@ -39,6 +39,7 @@ This problem is challenging because joint friction depends on a ton of variables
 - Velocity
 - Loads
 - Joint degradation
+
 One way of solving this problem is to come up with a super high-fidelity friction model for the robot you're using. 
 This approach works kinda well, but it's typically bespoke and limited to a specific robot.
 We want something more general.
