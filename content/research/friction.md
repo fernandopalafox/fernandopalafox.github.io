@@ -113,21 +113,23 @@ Notice how it does such a good job that it almost exactly cancels out the effect
 
 # Conclusion
 
-This thing looks promising but I still need to figure out the following: 
+This idea looks promising but I still need to figure out the following: 
 
-**Coverage.** A pendulum is a very simple dynamical system, so covering the sample space was very straightforward. 
-I just sampled random initial positions for the pendulum and random inputs, and since the robot just has a single joint, I quickly covered the entire state space.
-However, getting good coverage of the state space will be way harder for robots with more joints.  
+**Coverage.** A pendulum is a very simple dynamical system, so covering the entire state space when collecting data was very easy. 
+I just sampled random initial positions for the pendulum and random inputs, and since the robot just has a single joint, I quickly covered most of the .
+However, for robots with more joints, the state space grows exponentially, and getting good coverage will be challenging.  
 
-**Architecture.** As the dynamical system gets more complex, we will likely need a more complex model to better.
+**Architecture.** As the dynamical system gets more complex, we will likely need a better neural network model.
 
-**Sim2real.** It remains to be shown whether this will transfer to a real robot. From my research I know that friction depends on temperature, and temperature changes with time of operation. 
+**Sim2real.** It remains to be shown whether this will transfer to a real robot. 
+Friction depends on joint temperature which typically changes as you operate the robot. 
 This time-dependence may interfere with the data collection and/or learning process. 
 
 **Safety.** Adding an extra torque that's "blind" to contact may violate safety limitations and remove some of the benefits of force control.
 
 # Code
-[Link to the GitHub repo](https://github.com/CLeARoboticsLab/friction-estimator). Take a look at the scripts and/or contact me if you have any questions. 
+[Link to the GitHub repo](https://github.com/CLeARoboticsLab/friction-estimator). 
+Take a look at the scripts folder and/or contact me if you have any questions. 
 
 [^1]: Normalization is done according using averages and standard deviations from the collected dataset. 
 
