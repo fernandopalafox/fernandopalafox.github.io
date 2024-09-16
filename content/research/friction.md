@@ -5,8 +5,12 @@ publishDate: 2024-09-15
 draft: false
 ---
 
+<figure style="text-align: center;">
+  <img src="media/diffsim_intro.png" alt="" style="width:65%">
+</figure>
+
 Here I present method, based on differentiable simulators, to compensate for joint friction (or other unmodelled forces).
-This post is only a proof of concept where I used Google's [Brax](https://github.com/google/brax), a differentiable physics simulator based on [Jax](https://github.com/google/jax), to correct for unmodelled joint friction in a simple pendulum.
+This post is a proof of concept where I used Google's [Brax](https://github.com/google/brax), a differentiable physics simulator based on [Jax](https://github.com/google/jax), to correct for unmodelled joint friction in a simple pendulum.
 
 **Table of Contents**
 - [Problem](#problem)
@@ -34,19 +38,19 @@ This problem is challenging because joint friction depends on a ton of variables
 - Velocity
 - Loads
 - Joint degradation
-One way of solving this problem is to come up with a high-fidelity simulator of the robot you're using. 
+One way of solving this problem is to come up with a super high-fidelity friction model for the robot you're using. 
 This approach works kinda well, but it's typically bespoke and limited to a specific robot.
 We want a more general method.
 
 # Approach
-Three steps
+Three steps:
 1. Run a real robot and a simulated robot with no joint friction.
 2. Send the same commands to both robots and check the differences in states
 3. Train a neural network to output a torque that minimizes the difference between the states 
 
 Here's a diagram to get some intuition for how this works:
 <figure style="text-align: center;">
-  <img src="media/diffsim_plan.png" alt="" style="width:65%">
+  <img src="media/diffsim_plan.png" alt="" style="width:85%">
 </figure>
 
 In this blog post I'll present a proof of concept where both simulators are in simulation, but one of them has an added friction force I came up with.
@@ -54,7 +58,7 @@ In this blog post I'll present a proof of concept where both simulators are in s
 # Data collection 
 
 <figure style="text-align: center;">
-  <img src="media/diffsim_data.png" alt="" style="width:65%">
+  <img src="media/diffsim_data.png" alt="" style="width:85%">
 </figure>
 
 We collect data with the a simulator with an added friction force meant to represent a real robot with friction. 
@@ -80,7 +84,7 @@ In order to propagate loss into changes of the neural network parameters we need
 This can only be done with a differentiable simulator, as noted in the diagram below. 
  
 <figure style="text-align: center;">
-  <img src="media/diffsim_train.png" alt="" style="width:65%">
+  <img src="media/diffsim_train.png" alt="" style="width:85%">
 </figure>
 
 # Results 
