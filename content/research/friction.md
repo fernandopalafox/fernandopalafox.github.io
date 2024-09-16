@@ -68,7 +68,7 @@ For this proof of concept, the robot is a single pendulum.
 
 # Training the neural network 
 
-Once data is collected, I trained a neural network to correct for the data. 
+Once data is collected, I trained a neural network to correct for friction. 
 I used a multi-layer perceptron with 4 hidden layers and 256 neurons each.  
 The input layer of the neural network takes in normalized joint positions and velocities from the initial state. [^1]
 Training is done as follows: 
