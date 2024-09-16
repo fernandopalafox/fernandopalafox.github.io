@@ -85,7 +85,7 @@ In order to propagate loss into changes of the neural network parameters we need
 This can only be done with a differentiable simulator, as noted in the diagram below. 
  
 <figure style="text-align: center;">
-  <img src="media/diffsim_train.png" alt="" style="width:85%">
+  <img src="media/diffsim_train.png" alt="" style="width:95%">
 </figure>
 
 # Results 
