@@ -1,7 +1,7 @@
 ---
 title: Research/Hack Ideas
 publishDate: 2024-01-01
-draft: false
+draft: true
 ---
 
 I have more ideas than time. 
