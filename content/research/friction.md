@@ -131,5 +131,5 @@ This time-dependence may interfere with the data collection and/or learning proc
 [Link to the GitHub repo](https://github.com/CLeARoboticsLab/friction-estimator). 
 Take a look at the scripts folder and/or contact me if you have any questions. 
 
-[^1]: Normalization is done according using averages and standard deviations from the collected dataset. 
+[^1]: Normalization is done using averages and standard deviations from the collected dataset. 
 
