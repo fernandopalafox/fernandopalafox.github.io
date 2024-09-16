@@ -10,4 +10,4 @@ Currently, I'm PhD student at the [CLeAR Lab](https://clearoboticslab.github.io/
 
 Tags: **game theory** [(gt)](tags/gt), **control theory** [(ct)](tags/ct), **machine learning** [(ml)](tags/ml), **weekend hacks** [(wh)].
 
-# Projects
+## Projects
