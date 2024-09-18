@@ -6,7 +6,7 @@ title: About
   <img src="media/me_dad.jpg" alt="yo merengues" style="width:55%">
 </figure>
 
-I am a PhD student in robotics and AI advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
+I am a PhD student in robotics and AI at UT Austin advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
 
 I have Bachelor's and Master's degrees in aerospace Engineering, and I used to work on [satellite navigation systems](https://www.ion.org/publications/abstract.cfm?articleID=18230).
 For my PhD I decided to focus on decision-making in the context of robotics, as it's the perfect combination of engineering and philosophy. 
