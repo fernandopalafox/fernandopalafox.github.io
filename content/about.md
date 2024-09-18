@@ -8,7 +8,7 @@ title: About
 
 I am a PhD student in robotics and AI at UT Austin advised by [Dr. David Fridovich-Keil](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil).
 
-I have Bachelor's and Master's degrees in aerospace Engineering, and I used to work on [satellite navigation systems](https://www.ion.org/publications/abstract.cfm?articleID=18230).
+I have Bachelor's and Master's degrees in Aerospace Engineering, and I used to work on [satellite navigation systems](https://www.ion.org/publications/abstract.cfm?articleID=18230).
 For my PhD I decided to focus on decision-making in the context of robotics, as it's the perfect combination of engineering and philosophy. 
 Find my research [here](research/index.md).
 
