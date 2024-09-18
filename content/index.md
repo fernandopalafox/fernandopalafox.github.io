@@ -2,7 +2,7 @@
 title: Fernando Palafox
 ---
 
-Hi, my name is Fernando. I like robots, reading, running, and writing.
+Hi, my name is Fernando. I like robots, running, and writing.
 
 [research](research.md)
 [writing](writing)
