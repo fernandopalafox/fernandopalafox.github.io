@@ -17,6 +17,3 @@ Shout out to Jie Wang and his [tutorial on GP regression](https://arxiv.org/abs/
 it had everything I needed to implement this.
 
 Find the code [here](https://github.com/fernandopalafox/gp).
-
-
-
