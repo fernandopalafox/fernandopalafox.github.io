@@ -1,9 +1,6 @@
 ---
 title: Fernando Palafox
 ---
-
-Hi, my name is Fernando. 
-
 I'm a robotics PhD student at UT Austin and I like robots, reading, and writing.
 
 [research](research.md)
