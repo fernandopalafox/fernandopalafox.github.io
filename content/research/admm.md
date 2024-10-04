@@ -6,7 +6,7 @@ draft: false
 ---
 
 <figure style="text-align: center;">
-  <img src="media/admm.jpg" alt="" style="width:55%">
+  <img src="media/admm.jpg" alt="" style="width:75%">
 </figure>
 
 [Here's a paper](https://arxiv.org/abs/2304.01945) where we used [ADMM](https://stanford.edu/~boyd/admm.html) to parallelize (and greatly speed up) the computation of solutions for a class of [stochastic games](https://en.wikipedia.org/wiki/Stochastic_game).
