@@ -1,11 +1,11 @@
 ---
-title: "Generative pre-trained transformers (GPTs)"
+title: "GPT + Tiny Shakespeare Dataset"
 tags: [wh, ml]
 publishDate: 2023-11-20
 draft: false
 ---
 
-Last weekend's hack was spent working through Andrej Karpathy's intro to generative pre-trained transformers. 
+Last weekend's hack was spent working through [Andrej Karpathy's intro to generative pre-trained transformers](https://www.youtube.com/watch?v=kCc8FmEb1nY) (GPTs). 
 
 Here's the repo to the code: [link](https://github.com/fernandopalafox/hello_gpt) and a sample generative output given a newline character after 30' of training (on my poor laptop's single GTX 1070):
 
