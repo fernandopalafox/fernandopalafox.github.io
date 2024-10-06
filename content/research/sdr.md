@@ -1,6 +1,6 @@
 ---
 title: "Software-Defined Radios for Global Navigation Satellite Systems"
-publishDate: 2022-01-27
+publishDate: 2021-01-27
 draft: false
 ---
 
@@ -12,6 +12,6 @@ You can also read more about this work in the [official project website](https:/
   <img src="media/sdr.jpg" alt="" style="width:65%">
 </figure>
 
-This worked my done during my time at [The RF & SatNav Laboratory](https://www.colorado.edu/lab/rf-satnav/) with [Dr. Dennis Akos](https://www.colorado.edu/aerospace/dennis-akos).
+This worked was done during my time at [The RF & SatNav Laboratory](https://www.colorado.edu/lab/rf-satnav/) with [Dr. Dennis Akos](https://www.colorado.edu/aerospace/dennis-akos).
 
-Links: [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q0dyHx4AAAAJ&citation_for_view=q0dyHx4AAAAJ:u5HHmVD_uO8C), [code](https://github.com/gnsscusdr/CU-SDR-Collection), [project website](https://www.colorado.edu/lab/rf-satnav/resources)
+Links: [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q0dyHx4AAAAJ&citation_for_view=q0dyHx4AAAAJ:u5HHmVD_uO8C), [code](https://github.com/gnsscusdr/CU-SDR-Collection), [project website](https://www.colorado.edu/lab/rf-satnav/resources).
