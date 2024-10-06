@@ -1,5 +1,5 @@
 ---
-title: Simple Gaussian Process 
+title: A Gaussian Process 
 tags: [ml]
 publishDate: 2024-10-01
 draft: false
