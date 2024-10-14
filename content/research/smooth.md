@@ -1,6 +1,6 @@
 ---
 title: Smooth Information Gathering in Two-Player Noncooperative Games
-tags: [gt, ct]
+tags: [paper, gt, ct]
 publishDate: 2024-04-31
 draft: false
 ---

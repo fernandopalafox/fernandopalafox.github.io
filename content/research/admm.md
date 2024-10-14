@@ -1,6 +1,6 @@
 ---
 title: "Parallelizing Stochastic Games with ADMM"
-tags: [gt]
+tags: [paper, gt]
 publishDate: 2023-04-04
 draft: false
 ---

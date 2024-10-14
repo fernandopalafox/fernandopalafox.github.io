@@ -1,6 +1,6 @@
 ---
 title: Learning Hyperplanes for Collision Avoidance in Space 
-tags: [gt, ct]
+tags: [paper, gt, ct]
 publishDate: 2023-11-25
 draft: false
 ---

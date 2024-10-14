@@ -2,6 +2,7 @@
 title: "Software-Defined Radios for Global Navigation Satellite Systems"
 publishDate: 2021-01-27
 draft: false
+tags: [paper]
 ---
 
 [In this paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q0dyHx4AAAAJ&citation_for_view=q0dyHx4AAAAJ:u5HHmVD_uO8C) we present a set of [software-defined radios](https://en.wikipedia.org/wiki/Software-defined_radio) (SDRs) for a variety of [global navigation satellite systems](https://en.wikipedia.org/wiki/Satellite_navigation) such as GPS, GLONASS, and Galileo.
