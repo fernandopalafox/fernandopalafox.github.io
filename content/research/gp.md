@@ -5,7 +5,7 @@ publishDate: 2024-10-01
 draft: false
 ---
 
-Today I made a simple implementation of a [Gaussian process](https://en.wikipedia.org/wiki/Gaussian_process) (GP) and used it to approximate a [Van Der Pol oscillator](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator). 
+I was curious about [Gaussian processes](https://en.wikipedia.org/wiki/Gaussian_process) (GPs) so I implemented one and used it to approximate a [Van Der Pol oscillator](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator).
 Here's a sample plot: 
 
 <figure style="text-align: center;">
