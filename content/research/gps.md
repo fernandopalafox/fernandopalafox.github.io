@@ -1,5 +1,5 @@
 ---
-title: Gaussian Processes 
+title: WIP Gaussian Processes 
 tags: [ml]
 publishDate: 2024-10-20
 draft: false
@@ -45,6 +45,19 @@ $$
 $$
 and $\mathbf{K}(\mathbf{X})_{ij} = \kappa(\mathbf{x}_i, \mathbf{x}_j)$. 
 $\kappa$ is known as the kernel function and it measures the similarity between two points $\mathbf{x}_i$ and $\mathbf{x}_j$, and $m$ is a mean function (usually set to zero).
+
+We can sample the prior to get an idea what the functions look like before seeing the data. 
+To do this, we define a set of $N$ input points (say a grid between -5 and 5), compute $K$ and $\mu$, and then generate samples from a Gaussian distribution with mean $\mu$ and covariance $K$.
+Each sample will be a vector of $N$ outputs corresponding to a possible function $f(\mathbf{x})$.
+The shape of each function is implicitly defined by our chosen kernel function $\kappa$. 
+Below is a plot showing samples from a prior with a [squared exponential kernel](https://www.cs.toronto.edu/~duvenaud/cookbook/) where $\ell = \sigma = 1$.
+
+<figure style="text-align: center;">
+  <img src="media/gp_sample_prior.png" alt="" style="width:65%">
+  <figcaption style="max-width: 95%; margin: auto;"><em></em></figcaption>
+</figure>
+
+
 
 Then, we can use Bayes' rule to find the posterior distribution over functions $p(\mathbf{f}|\mathbf{X}, \mathbf{Y})$.
 
