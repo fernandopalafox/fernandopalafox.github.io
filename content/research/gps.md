@@ -13,7 +13,7 @@ James' work looks super interesting, but once I started digging into it I realiz
 
 ---
 
-## Definition
+## Definition of a GP
 
 Consider a supervised learning problem, where we have a set of $N$ inputs $\mathbf{x} \in \mathbf{X}$ and outputs $\mathbf{y} \in \mathbf{Y}$ and we wish to predict $\mathbf{y^*} \in \mathbf{Y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 In many prediction tasks, we find parameters $\mathbf{\theta}$ for a model $f(\mathbf{x}|\theta)$ such that $f(\mathbf{x}|\theta) \approx \mathbf{y}, \forall \mathbf{y} \in \mathbf{Y}$. 
@@ -65,7 +65,7 @@ Below is a plot showing samples from a prior with a [squared exponential kernel]
   <figcaption style="max-width: 95%; margin: auto;"><em></em></figcaption>
 </figure>
 
-## Predicting using noise-free observations
+## Using a GP to predict from noise-free data
 
 Given training data consisting of inputs $\mathbf{X}$ and noiseless outputs $\mathbf{f}$, where $\mathbf{f}_i = f(\mathbf{x}_i), \forall i \in \{1,..,N\}$ we would like to predict outputs $\mathbf{y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 To do so using a GP, we must find a distribution over functions conditioned on the test inputs $\mathbf{X^*}$, training inputs $\mathbf{X}$, and training outputs $\mathbf{f}$.
@@ -110,6 +110,9 @@ Below is a plot of sampled functions from a posterior distribution given a set u
 
 In practice, observations are noisy. 
 I will not cover that case here, but the derivation conditional distribution is very similar and can be found in Ch. 15 of [Murphy's Probabilistic ML](https://probml.github.io/pml-book/).
+
+
+# Meta Learning with GPs
 
 
 ## Questions
