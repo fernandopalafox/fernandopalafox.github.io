@@ -1,5 +1,5 @@
 ---
-title: WIP Gaussian Processes 
+title: Gaussian Processes and Uncertainty in World Models
 tags: [ml]
 publishDate: 2024-10-20
 draft: false
@@ -9,7 +9,7 @@ WIP
 
 I've been looking into ways of incorporating [epistemic uncertainty](https://en.wikipedia.org/wiki/Uncertainty_quantification#Aleatoric_and_epistemic) into learned [world models](https://danijar.com/project/dreamerv3/).
 David suggested I looking into using Gaussian processes (GPs) like James Harrison in his work on [Variational Bayesian Last Layers](https://arxiv.org/abs/2404.11599) or [ALPaCA](https://arxiv.org/abs/1807.08912). 
-James' work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs REALLY worked (even though I though I implemented one [here] lol), so in this post I'll derive them.
+James' work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs REALLY worked (even though I implemented one [here](research/gp.md) lol), so in this post I'll derive them.
 
 ---
 
@@ -72,7 +72,7 @@ To do so using a GP, we must find a distribution over functions conditioned on t
 That is, we seek a distribution $p(\mathbf{f^*}|\mathbf{X^*}, \mathbf{X}, \mathbf{f})$ where $\mathbf{f^*}$ are the outputs at the test inputs.
 
 Recall we assumed that function outputs are jointly Gaussian. 
-Therefore, the joint distribution of the training and test outputs is given by 
+Therefore, we can write the joint distribution of the training and test outputs as
 $$
 \begin{align}
     \begin{bmatrix}
@@ -96,11 +96,21 @@ where $\mathbf{K} = \kappa(\mathbf{X}, \mathbf{X})$, $\mathbf{K}^* = \kappa(\mat
 Then, we can write the conditional distribution analytically using [known results](https://statproofbook.github.io/P/mvn-cond.html) as follows:
 $$
 \begin{align}
-    p(\mathbf{f^*}|\mathbf{X^*}, \mathbf{X}, \mathbf{f}) &= \mathcal{N}(\mathbf{f^*}| \mathbf{\mu^*}, \mathbf{\Sigma^*}) \\
-    \mathbf{\mu^*} &= \mathbf{\mu}(X^*) + \mathbf{K}^{*T} \mathbf{K}^{-1} (\mathbf{f} - \mathbf{\mu}(X)) \\
-    \mathbf{\Sigma^*} &= \mathbf{K}^{**} - \mathbf{K}^{*T} \mathbf{K}^{-1} \mathbf{K}^*,
+    p(\mathbf{f^*}|\mathbf{X^*}, \mathbf{X}, \mathbf{f}) &= \mathcal{N}(\mathbf{f^*}| \mathbf{\mu^c}, \mathbf{\Sigma^c}) \\
+    \mathbf{\mu^c} &= \mathbf{\mu}^* + \mathbf{K}^{*T} \mathbf{K}^{-1} (\mathbf{f} - \mathbf{\mu}) \\
+    \mathbf{\Sigma^c} &= \mathbf{K}^{**} - \mathbf{K}^{*T} \mathbf{K}^{-1} \mathbf{K}^*,
 \end{align}
 $$
+
+Below is a plot of sampled functions from a posterior distribution given a set using a squared exponential kernel with $\ell = \sigma = 1$.
+<figure style="text-align: center;">
+  <img src="media/gp_posterior_samples.png" alt="" style="width:65%">
+  <figcaption style="max-width: 85%; margin: auto;"><em>Posterior samples given 5 noiseless data pairs (black crosses). Shaded region denotes the 95% confidence interval (2 stds from mean).  </em></figcaption>
+</figure>
+
+In practice, observations are noisy. 
+I will not cover that case here, but the derivation conditional distribution is very similar and can be found in Ch. 15 of [Murphy's Probabilistic ML](https://probml.github.io/pml-book/).
+
 
 ## Questions
 - What exactly is the uncertainty in GPs? Why does it make sense?  
