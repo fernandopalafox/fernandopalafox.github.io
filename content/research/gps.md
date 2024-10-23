@@ -168,10 +168,31 @@ $$
 $$
 Therefore, the likelihood of the data is given by
 $$
+\begin{equation}
     p(Y|\Phi, K, \Sigma_\epsilon) = \mathcal{N}(Y|\Phi K, \Sigma_\epsilon).
+\end{equation}
 $$
-Selecting 
+Now let's select the prior for $K$ as $p(K) = \mathcal{MN}(K|\bar{K}_0, \Lambda_0^{-1}, \Sigma_\epsilon)$, where $\mathcal{MN}$ denotes the [matrix normal distribution](https://en.wikipedia.org/wiki/Matrix_normal_distribution), and $\Lambda_0$ is a precision matrix.
+Then, the posterior distribution of $K$, conditioned on $Y$ and $\Phi$ is given by
+$$
+    \begin{align}
+        p(K|Y, \Phi) &= \mathcal{MN}(K|\bar{K}_\tau, \Lambda_\tau^{-1}, \Sigma_\epsilon) \\
+        \bar{\Lambda}_\tau &= \Phi^\top \Phi + \Lambda_0 \\
+        \bar{K}_\tau &= \bar{\Lambda}_\tau^{-1} (\Phi^\top Y + \Lambda_0 \bar{K}_0).
+    \end{align}
+$$
+The posterior distribution is then given by 
+$$
+    p(y_{\tau + 1} | \phi(x_{\tau + 1}), \Phi, Y) = \mathcal{N}(\bar{K}_\tau^\top \phi(x_{\tau + 1}), \Sigma_{\tau + 1})
+$$
+where
+$$
+    \Sigma_{\tau + 1} = (1 + \phi^\top(x_{\tau + 1}) \Lambda^{-1}_\tau \phi(x_{\tau + 1})) \Sigma_\epsilon.
+$$
+Now we have a posterior over $y_{\tau + 1}$ given the value of the basis function at $x_{\tau + 1}$, i.e., $\phi(x_{\tau + 1})$, the value of the basis functions for all previous data points, i.e., $\Phi$, and the observed outputs, i.e., $Y$.
+The paper goes over details on how this was computed.
 
+## ALPaCA
 
 ## Questions
 - What exactly is the uncertainty in GPs? Why does it make sense?  
