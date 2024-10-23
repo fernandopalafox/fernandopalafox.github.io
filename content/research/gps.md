@@ -1,5 +1,5 @@
 ---
-title: Gaussian Processes and Uncertainty in World Models
+title: (WIP) Gaussian Processes and Uncertainty in World Models
 tags: [ml]
 publishDate: 2024-10-20
 draft: false
@@ -13,7 +13,9 @@ James' work looks super interesting, but once I started digging into it I realiz
 
 ---
 
-## Definition of a GP
+# Gaussian Processes (GPs)
+
+## Definition
 
 Consider a supervised learning problem, where we have a set of $N$ inputs $\mathbf{x} \in \mathbf{X}$ and outputs $\mathbf{y} \in \mathbf{Y}$ and we wish to predict $\mathbf{y^*} \in \mathbf{Y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 In many prediction tasks, we find parameters $\mathbf{\theta}$ for a model $f(\mathbf{x}|\theta)$ such that $f(\mathbf{x}|\theta) \approx \mathbf{y}, \forall \mathbf{y} \in \mathbf{Y}$. 
@@ -48,7 +50,6 @@ $\kappa$ is known as the kernel function and it measures the similarity between 
 Therefore, $\mathbf{f} \sim \mathcal{N}(\mathbf{f}| \mathbf{\mu}, \mathbf{K})$.
 
 > [!info] Outputs are jointly Gaussian
-> 
 > Assuming the prior over functions is a Gaussian implies the outputs $\mathbf{f}$ are distributed according to a joint Gaussian distribution with mean $\mathbf{\mu}$ and covariance $\Sigma$. 
 > That is, $p(f(\mathbf{x}), \dots, f(\mathbf{x}_N)) = \mathcal{N}(\mathbf{f}| \mathbf{\mu}, \mathbf{\Sigma})$. 
 > 
@@ -65,7 +66,7 @@ Below is a plot showing samples from a prior with a [squared exponential kernel]
   <figcaption style="max-width: 95%; margin: auto;"><em></em></figcaption>
 </figure>
 
-## Using a GP to predict from noise-free data
+## Predicting from noise-free data
 
 Given training data consisting of inputs $\mathbf{X}$ and noiseless outputs $\mathbf{f}$, where $\mathbf{f}_i = f(\mathbf{x}_i), \forall i \in \{1,..,N\}$ we would like to predict outputs $\mathbf{y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 To do so using a GP, we must find a distribution over functions conditioned on the test inputs $\mathbf{X^*}$, training inputs $\mathbf{X}$, and training outputs $\mathbf{f}$.
@@ -114,6 +115,63 @@ I will not cover that case here, but the derivation conditional distribution is 
 
 # Meta Learning with GPs
 
+> [!info] Notation
+> I don't have infinite time so in this section I'll mostly follow the notation James Harrison used in [Meta-Learning Priors for Efficient Online Bayesian Regression (ALPaCA)](https://arxiv.org/abs/1807.08912).
+> Read everything carefully because there may be differences in notation and definitions from the previous sections.
+
+## Formulation
+
+Consider a function $f$ with unknown latent parameters $\theta$. 
+Let's assume we can observe samples $y$ of $f$ corrupted by additive Gaussian noise. 
+That is, we observe a sequence of samples (x, y) where $y = f(x;\theta) + \epsilon$ where $\epsilon \sim \mathcal{N}(0, \Sigma_\epsilon)$.
+Therefore, the likelihood of the data is given by
+$$
+    p(y|x, \theta) = \mathcal{N}(y|f(x;\theta), \Sigma_\epsilon).
+$$
+
+Given a prior over the latent parameters, i.e., $p(\theta)$ the posterior predictive density of $\tau$ data points $\mathcal{D}^*_\tau = \{(x_t,y_t)\}_{t=1}^\tau$ generated from $f(x;\theta^*)$ is given by 
+$$
+    p(y|x, \mathcal{D_\tau^*}) = \int p(y|x, \theta) p(\theta|\mathcal{D_\tau^*}) d\theta
+$$
+Unfortunately, this integral is intractable because we don't have analytic expressions for $f(x;\theta)$ and $p(\theta)$, and even if we did, computing $p(\theta|\mathcal{D_\tau^*})$ over all possible $\theta$ is likely too computationally expensive.
+
+Instead, let's use a surrogate model $q_\xi(y|x,D_\tau^*)$, parameterized by $\xi$, to approximate the true posterior predictive density $p(y|x,D^*\tau)$, and then let's optimize this model so that it's as close to the true posterior predictive density **for all likely $\theta^*$**.
+The bolded part is where the meta-learning is happening: we're learning a model that will work well for all possible $\theta^*$.
+
+We consider a scenario in which the data comes in as a stream: at each timestep, the agent is given a new input $x_t$, and after estimating the output $\hat{y}_t$, the true output $y_t$ is revealed. 
+An example of this is a Markovian dynamical system, where the agent wishes to predict the distributions of the next state given the current state.
+
+In this setting, the problem of learning the surrogate model can be formulated as
+$$
+\min_\xi D_{KL}(p(y_{t+1}|x_{t+1}, \mathcal{D}_t^*) || q_\xi(y_{t+1}|x{t+1}, \mathcal{D}_t^*)). 
+$$
+Note that we don't know $t$ (dataset size), $x_{t+1}$, or $D^*_t$ ahead of time, so the best we can do is minimizethe objective in *expectation* (I'll elaborate on this later).
+This implies that whatever $\xi$ we choose will be optimal for all possible datasets.
+Very cool.
+
+Unfortunately, this expected objective is intractable because need access to $p(\theta)$ and $p(D_t^*|\theta^*)$ which are unknown.
+Instead, we assume we have access to various datasets $\mathcal{D}_t^j$ generated from iid samples of $\theta^j \sim p(\theta)$, $x_t \sim p(x)$, and $y_t \sim p(y|x, \theta^j)$.
+Each dataset can be thought of as trajectories of the system generated by different latent parameters $\theta^j$.
+The full dataset is defined as $\mathcal{D} := \{\mathcal{D}_t^j\}_{j=1}^M$.
+
+## Bayesian Regression
+
+ALPaCA uses Bayesian linear regression to compute $q_\xi(y|x, \mathcal{D}_t^*)$.
+If we consider a set of basis functions $\phi$, the regression problem can be written as finding $K$ such that
+$$
+    y_t^\top = \phi^\top(x_t) K + \epsilon_t,
+$$
+where $K$ is a coefficient matrix and $\epsilon_t \sim \mathcal{N}(0, \Sigma_\epsilon)$.
+Let $Y^\top = [y_1, \dots, y_\tau], \Phi^\top = [\phi(x_1), \dots, \phi(x_\tau)]$, and E = $[\epsilon_1, \dots, \epsilon_\tau]$, then we can re-write the regression problem as
+$$
+    Y = \Phi K + E.
+$$
+Therefore, the likelihood of the data is given by
+$$
+    p(Y|\Phi, K, \Sigma_\epsilon) = \mathcal{N}(Y|\Phi K, \Sigma_\epsilon).
+$$
+Selecting 
+
 
 ## Questions
 - What exactly is the uncertainty in GPs? Why does it make sense?  
@@ -121,7 +179,7 @@ I will not cover that case here, but the derivation conditional distribution is 
 - Explanation of ALPaCA
 
 
-## Resources
+# Resources
 
 - Murphy's [Probabilistic ML](https://probml.github.io/pml-book/)
 - Rasmussen's [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/)
