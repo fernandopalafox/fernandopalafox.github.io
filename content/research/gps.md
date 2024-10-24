@@ -173,7 +173,7 @@ $$
 \end{equation}
 $$
 Now let's select the prior for $K$ as $p(K) = \mathcal{MN}(K|\bar{K}_0, \Lambda_0^{-1}, \Sigma_\epsilon)$, where $\mathcal{MN}$ denotes the [matrix normal distribution](https://en.wikipedia.org/wiki/Matrix_normal_distribution), and $\Lambda_0$ is a precision matrix.
-Then, the posterior distribution of $K$, conditioned on $Y$ and $\Phi$ is given by
+Then, the posterior distribution of $K$, conditioned on $Y$ and $\Phi$, is given by
 $$
     \begin{align}
         p(K|Y, \Phi) &= \mathcal{MN}(K|\bar{K}_\tau, \Lambda_\tau^{-1}, \Sigma_\epsilon) \\
@@ -194,11 +194,24 @@ The paper goes over details on how this was computed.
 
 ## ALPaCA
 
-## Questions
-- What exactly is the uncertainty in GPs? Why does it make sense?  
-- How exactly can we define a distribution over functions? And why can we do this with a finite number of points?
-- Explanation of ALPaCA
+In ALPaCA, the basis functions are outputs of a neural network and we do a Bayesian regression on a linear transformation applied to the final output of the network.
+Then, we have two phases: 
+- Phase 1 (offline): learn the basis functions (the neural network weights $w$) and the prior parameters $K_0$ and $\Lambda_0$ using a sample of datasets. 
+- Phase 2 (online): Update the posterior parameters $\bar{K}_\tau$ and $\Lambda_\tau$ as new data comes in.
+This approach allows for fast adaptation to new tasks without having to retrain the neural network.
+Additionally, we also get live, calibrated uncertainty estimates for the predictions.
+Below are the algorithms for the two phases, taken from the paper.
 
+<figure style="text-align: center;">
+  <img src="media/gps_phase_1.png" alt="" style="width:65%">
+</figure>
+
+<figure style="text-align: center;">
+  <img src="media/gps_phase_2.png" alt="" style="width:65%">
+</figure>
+
+## Questions
+- Connection between ALPaCA and GPs?
 
 # Resources
 
