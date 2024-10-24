@@ -200,14 +200,15 @@ Then, we have two phases:
 - Phase 2 (online): Update the posterior parameters $\bar{K}_\tau$ and $\Lambda_\tau$ as new data comes in.
 This approach allows for fast adaptation to new tasks without having to retrain the neural network.
 Additionally, we also get live, calibrated uncertainty estimates for the predictions.
-Below are the algorithms for the two phases, taken from the paper.
+
+Below are the algorithms for the two phases, taken directly from the paper (note equation numbers are different from the ones I used above).
 
 <figure style="text-align: center;">
-  <img src="media/gps_phase_1.png" alt="" style="width:65%">
+  <img src="media/gps_phase_1.png" alt="" style="width:85%">
 </figure>
 
 <figure style="text-align: center;">
-  <img src="media/gps_phase_2.png" alt="" style="width:65%">
+  <img src="media/gps_phase_2.png" alt="" style="width:85%">
 </figure>
 
 ## Questions
