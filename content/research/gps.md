@@ -6,9 +6,9 @@ draft: false
 ---
 
 I've been looking into ways of incorporating [epistemic uncertainty](https://en.wikipedia.org/wiki/Uncertainty_quantification#Aleatoric_and_epistemic) into learned [world models](https://danijar.com/project/dreamerv3/) in a way that fits nicely with a control problem.
-[David](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) suggested I look into combining neural networks with Gaussian processes (GPs) like Harrison et al. in his work on [Variational Bayesian Last Layers](https://arxiv.org/abs/2404.11599) or [Meta-Learning Priors for Efficient Online Bayesian Regression
+[David](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) suggested I look into combining neural networks with Gaussian processes (GPs) like Harrison et al. in [Variational Bayesian Last Layers](https://arxiv.org/abs/2404.11599) or [Meta-Learning Priors for Efficient Online Bayesian Regression
  (ALPaCA)](https://arxiv.org/abs/1807.08912). 
-This work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs REALLY worked (even though I implemented one [here](research/gp.md)), so in this post I'll derive GPs, explain what ALPaCA is, and show an implementation of ALPaCA in JAX.
+This work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs really worked, so in this post I'll derive GPs, explain what ALPaCA is, and show an implementation of ALPaCA in JAX.
 
 This is meant mostly for me to understand the material better, but maybe you'll find it useful too.
 
