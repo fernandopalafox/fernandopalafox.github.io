@@ -1,15 +1,16 @@
 ---
-title: (WIP) Gaussian Processes and Uncertainty in World Models
+title: Gaussian Processes and Meta-Learning Priors 
 tags: [ml]
-publishDate: 2024-10-20
+publishDate: 2024-10-29
 draft: false
 ---
 
-WIP
+I've been looking into ways of incorporating [epistemic uncertainty](https://en.wikipedia.org/wiki/Uncertainty_quantification#Aleatoric_and_epistemic) into learned [world models](https://danijar.com/project/dreamerv3/) in a way that fits in nicely with a control problem.
+[David](https://www.ae.utexas.edu/people/faculty/faculty-directory/fridovich-keil) suggested I look into combining neural networks with Gaussian processes (GPs) like James Harrison in his work on [Variational Bayesian Last Layers](https://arxiv.org/abs/2404.11599) or [Meta-Learning Priors for Efficient Online Bayesian Regression
+ (ALPaCA)](https://arxiv.org/abs/1807.08912). 
+James' work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs REALLY worked (even though I implemented one [here](research/gp.md)), so in this post I'll derive GPs, explain what ALPaCA is, and show an implementation of ALPaCA in JAX.
 
-I've been looking into ways of incorporating [epistemic uncertainty](https://en.wikipedia.org/wiki/Uncertainty_quantification#Aleatoric_and_epistemic) into learned [world models](https://danijar.com/project/dreamerv3/).
-David suggested I looking into using Gaussian processes (GPs) like James Harrison in his work on [Variational Bayesian Last Layers](https://arxiv.org/abs/2404.11599) or [ALPaCA](https://arxiv.org/abs/1807.08912). 
-James' work looks super interesting, but once I started digging into it I realized I didn't really understand how GPs REALLY worked (even though I implemented one [here](research/gp.md) lol), so in this post I'll derive them.
+This is meant mostly for me to understand the material better, but maybe you'll find it useful too.
 
 ---
 
@@ -19,8 +20,8 @@ James' work looks super interesting, but once I started digging into it I realiz
 
 Consider a supervised learning problem, where we have a set of $N$ inputs $\mathbf{x} \in \mathbf{X}$ and outputs $\mathbf{y} \in \mathbf{Y}$ and we wish to predict $\mathbf{y^*} \in \mathbf{Y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 In many prediction tasks, we find parameters $\mathbf{\theta}$ for a model $f(\mathbf{x}|\theta)$ such that $f(\mathbf{x}|\theta) \approx \mathbf{y}, \forall \mathbf{y} \in \mathbf{Y}$. 
-That is, we find parameters that when plugged into the model produces outputs $\mathbf{Y}$ given inputs $\mathbf{X}$.
-Then, if we assume our model can generalize, we can use the same same model to predict what the outputs would look like for unseen inputs $\mathbf{x^*}$ (test inputs).
+That is, we find parameters that when plugged into the model produce outputs $\mathbf{Y}$ given inputs $\mathbf{X}$.
+Then, if we assume our model can generalize, we can use the same model to predict what the outputs would look like for unseen inputs $\mathbf{x^*}$ (test inputs).
 This is what's done in [maximum-likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation).
 
 Gaussian processes are different because they produce estimates over functions instead of parameters.
@@ -50,7 +51,7 @@ $\kappa$ is known as the kernel function and it measures the similarity between 
 Therefore, $\mathbf{f} \sim \mathcal{N}(\mathbf{f}| \mathbf{\mu}, \mathbf{K})$.
 
 > [!info] Outputs are jointly Gaussian
-> Assuming the prior over functions is a Gaussian implies the outputs $\mathbf{f}$ are distributed according to a joint Gaussian distribution with mean $\mathbf{\mu}$ and covariance $\Sigma$. 
+> Assuming the prior over functions is Gaussian implies the outputs $\mathbf{f}$ are distributed according to a joint Gaussian distribution with mean $\mathbf{\mu}$ and covariance $\Sigma$. 
 > That is, $p(f(\mathbf{x}), \dots, f(\mathbf{x}_N)) = \mathcal{N}(\mathbf{f}| \mathbf{\mu}, \mathbf{\Sigma})$. 
 > 
 > This is a strong assumption, but it is useful because it allows us to easily compute the posterior distribution over functions given training data (as we will see later) and therefore make predictions.
@@ -60,13 +61,14 @@ To do this, we define a set of $N$ input points (say a grid between -5 and 5), c
 Each sample will be a vector of $N$ outputs corresponding to a realization of $\mathbf{f}$.
 The shape of each function is implicitly defined by our chosen kernel function $\kappa$. 
 Below is a plot showing samples from a prior with a [squared exponential kernel](https://www.cs.toronto.edu/~duvenaud/cookbook/) where $\ell = \sigma = 1$.
+Find the code [here](https://github.com/fernandopalafox/gp/blob/main/sample_prior.py).
 
 <figure style="text-align: center;">
   <img src="media/gp_sample_prior.png" alt="" style="width:65%">
   <figcaption style="max-width: 95%; margin: auto;"><em></em></figcaption>
 </figure>
 
-## Predicting from noise-free data
+## Prediction
 
 Given training data consisting of inputs $\mathbf{X}$ and noiseless outputs $\mathbf{f}$, where $\mathbf{f}_i = f(\mathbf{x}_i), \forall i \in \{1,..,N\}$ we would like to predict outputs $\mathbf{y^*}$ at test inputs $\mathbf{x^*} \in \mathbf{X^*}$.
 To do so using a GP, we must find a distribution over functions conditioned on the test inputs $\mathbf{X^*}$, training inputs $\mathbf{X}$, and training outputs $\mathbf{f}$.
@@ -104,6 +106,7 @@ $$
 $$
 
 Below is a plot of sampled functions from a posterior distribution given a set using a squared exponential kernel with $\ell = \sigma = 1$.
+Find the code [here](https://github.com/fernandopalafox/gp/blob/main/sample_joint.py).
 <figure style="text-align: center;">
   <img src="media/gp_posterior_samples.png" alt="" style="width:65%">
   <figcaption style="max-width: 85%; margin: auto;"><em>Posterior samples given 5 noiseless data pairs (black crosses). Shaded region denotes the 95% confidence interval (2 stds from mean).  </em></figcaption>
@@ -113,11 +116,16 @@ In practice, observations are noisy.
 I will not cover that case here, but the derivation conditional distribution is very similar and can be found in Ch. 15 of [Murphy's Probabilistic ML](https://probml.github.io/pml-book/).
 
 
-# Meta Learning with GPs
+# Meta-Learning Priors (ALPaCA)
 
 > [!info] Notation
 > I don't have infinite time so in this section I'll mostly follow the notation James Harrison used in [Meta-Learning Priors for Efficient Online Bayesian Regression (ALPaCA)](https://arxiv.org/abs/1807.08912).
-> Read everything carefully because there may be differences in notation and definitions from the previous sections.
+> Read carefully, as there may be differences in notation and definitions from the previous sections.
+
+Now that we (hopefully) understand GPs, let's see what Harrison did with them in ALPaCA.
+First, I'll work through some preliminaries to understand the problem formulation and Bayesian regression. 
+Then, I'll talk about ALPaCA's algorithm, where the meta-learning is happening, and share my JAX implementation.
+Finally, I'll discuss how ALPaCA can be interpreted as an approximation of a GP.
 
 ## Formulation
 
@@ -145,7 +153,7 @@ In this setting, the problem of learning the surrogate model can be formulated a
 $$
 \min_\xi D_{KL}(p(y_{t+1}|x_{t+1}, \mathcal{D}_t^*) || q_\xi(y_{t+1}|x{t+1}, \mathcal{D}_t^*)). 
 $$
-Note that we don't know $t$ (dataset size), $x_{t+1}$, or $D^*_t$ ahead of time, so the best we can do is minimizethe objective in *expectation* (I'll elaborate on this later).
+Note that we don't know $t$ (dataset size), $x_{t+1}$, or $D^*_t$ ahead of time, so the best we can do is minimize the objective in *expectation* (I'll elaborate on this later).
 This implies that whatever $\xi$ we choose will be optimal for all possible datasets.
 Very cool.
 
@@ -192,15 +200,16 @@ $$
 Now we have a posterior over $y_{\tau + 1}$ given the value of the basis function at $x_{\tau + 1}$, i.e., $\phi(x_{\tau + 1})$, the value of the basis functions for all previous data points, i.e., $\Phi$, and the observed outputs, i.e., $Y$.
 The paper goes over details on how this was computed.
 
-## ALPaCA
+## ALPaCA in JAX
 
 In ALPaCA, the basis functions are outputs of a neural network and we do a Bayesian regression on a linear transformation applied to the final output of the network.
 Then, we have two phases: 
 - Phase 1 (offline): learn the basis functions (the neural network weights $w$) and the prior parameters $K_0$ and $\Lambda_0$ using a sample of datasets. 
 - Phase 2 (online): Update the posterior parameters $\bar{K}_\tau$ and $\Lambda_\tau$ as new data comes in.
-This approach allows for fast adaptation to new tasks without having to retrain the neural network.
-Additionally, we also get live, calibrated uncertainty estimates for the predictions.
 
+Phase 1 is where the "meta-learning" happens: we learn a prior that works well for all expected datasets.
+Since our prior is optimized in Phase 1, we can easily adapt to new data without having to retrain the neural network (Phase 2).
+Additionally, we also get live, calibrated, uncertainty estimates for every predictions.
 Below are the algorithms for the two phases, taken directly from the paper (note equation numbers are different from the ones I used above).
 
 <figure style="text-align: center;">
@@ -211,12 +220,27 @@ Below are the algorithms for the two phases, taken directly from the paper (note
   <img src="media/gps_phase_2.png" alt="" style="width:85%">
 </figure>
 
-## Questions
-- Connection between ALPaCA and GPs?
+I wrote an implementation of ALPaCA in JAX and you can find it [here](https://github.com/fernandopalafox/ALPaCA). 
+Below is my reproduction of Figure 2 in the paper.
+The plot shows predictive performance for a sinusoidal function as a function of the number of training samples. 
+Rows correspond to different number of training samples and columns correspond to different methods.
+As you can see, ALPaCA (first column) is able to make some pretty good predictions even with few samples. 
+<figure style="text-align: center;">
+  <img src="media/gps_predictions.png" alt="" style="width:85%">
+  <figcaption style="max-width: 85%; margin: auto;"><em>Blue line is the ground truth. Orange line is the prediction (wth uncertainty estimates). Black crosses are training samples.</em></figcaption>
+</figure>
+
+## Connection to GP's
+
+Bayesian linear regression can be thought of as a GP with a kernel that's a function of the prior $p(K)$ (see paper for more details). 
+Therefore, Phase 1 in ALPaCA can be interpreted as learning a GP kernel that works well for all expected datasets--essentially shaping the [inductive bias](https://en.wikipedia.org/wiki/Inductive_bias) of the GP around the data.
+And then, Phase 2 updates the posterior in a more efficient way than a regular GP.
 
 # Resources
 
 - Murphy's [Probabilistic ML](https://probml.github.io/pml-book/)
 - Rasmussen's [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/)
+- ALPaCA paper: [Meta-Learning Priors for Efficient Online Bayesian Regression](https://arxiv.org/abs/1807.08912)
+- My JAX implementation of ALPaCA: [ALPaCA](https://github.com/fernandopalafox/ALPaCA)
 
 [^1]: For the development of GPs, we will refer to functions as a finite-dimensional vector of function values at a set of input points. Technically, functions are infinitely-dimensional objects that require an infinite number of (input,output) pairs to be fully described (unless we have an explicit functional form for a function, e.g., $f(x) = x^2$). However, when working with GPs we are able to describe functions with a finite number of points because we assume that function values at different points are **correlated**. This correlation is defined according to a selected kernel function. However, the underlying function is still infinite-dimensional. Disclaimer: I'm still trying to wrap my head around these details. But I think this is the gist of it.
