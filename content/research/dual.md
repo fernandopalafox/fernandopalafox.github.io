@@ -5,10 +5,10 @@ draft: False
 tags: [ct]
 ---
 
-The past 6 months I've been exploring how take an active role in reducing the uncertainty of a dynamical system. 
-We applied this idea in a game-theoretic setting and wrote ["Smooth Information Gathering in Two-Player Noncooperative Games"](smooth.md).
-After that was done, I did some digging into how I could apply this idea to the case of a dynamical system like a robot. 
-I ran into the ideal of [dual control](https://en.wikipedia.org/wiki/Dual_control_theory). 
+The past 6 months I've been exploring how take an active role in reducing the uncertainty. 
+We applied this idea in a game-theoretic setting and wrote ["Smooth Information Gathering in Two-Player Noncooperative Games"](smooth.md), and I also worked on applying this to autonomous driving at Honda Research Institute during the summer.
+As I dug into the theoretical foundations of applying this to a dynamical system like a robot,  
+I ran into the field of [dual control](https://en.wikipedia.org/wiki/Dual_control_theory). 
 Unfortunately, most of the literature seems to agree that it's very hard.
 In this blog post, I outline exactly why it's hard, and then explore what can be done about it. 
 
@@ -63,6 +63,18 @@ $$
 p(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}\left(b\middle|\frac{\mathbf{\sigma}_k^2\mathbf{u}_k(b\mathbf{u}_k + \mathbf{\xi}_k + \mathbf{\mu}_k \mathbf{Q})}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}, \frac{\mathbf{\sigma}_k^2\mathbf{Q}}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}\right). 
 $$
 Notice that if $\mathbf{\sigma}_k$ is large then $\mathbf{u}_k^* \rightarrow 0$ implying $\mathbf{\sigma}_{k+1}^2 \rightarrow \mathbf{\sigma}_{k}^2$, and no learning happens. 
+
+The fact that the controller doesn't really account for how uncertainty will be reduced at future timesteps should not come as a surprise: we selected a controller that minimizes cost for a **single** step. 
+This is known as a myopic controller, because it doesn't consider the consequences of its actions in horizons longer than $T = 1$.
+In order to incorporate longer horizons we must 
+
+Write down cost in the the dynamic programming approach
+
+Write down resulting optimization problem at t=0.
+
+Explain what's hard about it. 
+
+
 
 
 
