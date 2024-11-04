@@ -26,32 +26,44 @@ For this development I'll be following Klenske et al. in [Dual Control for Appro
 # Toy Problem 
 
 Let state be defined as $\mathbf{x}$, controls $\mathbf{u}$, and process noise $\mathbf{\xi} \sim \mathcal{N}(0, \mathbf{Q})$.
-Now, let's start with the simplest possible problem: we have a linear, scalar system with noiseless observations and we're trying to find a control sequence that minimizes a cost that's a function of state and controls.
-This is a standard problem in optimal control and reinforcement learning. 
-Let the cost be given by the quadratic function
+As is standard problem in optimal control and reinforcement learning, we define a cost given by the quadratic function
 $$
   \mathcal{L}(\mathbf{x}, \mathbf{u}) = \sum_{k=0}^T(\mathbf{x}_k - \mathbf{r}_k)^\top\mathbf{W}(\mathbf{x}_k - \mathbf{r}_k) + \sum_{k=0}^{T-1}(\mathbf{u}_k^\top \mathbf{U} \mathbf{u}_k),
 $$
 where $\mathbf{r}_k$ denotes a target trajectory and $\mathbf{W}$, $\mathbf{U}$ are matrices define the state and control costs. 
 
-If the dynamical system is
+Let's start with a simple case: a linear, scalar system with noiseless observations given by
 $$
-x_{k+1} = a x_{k} + b u_{k} + \mathbf{\xi}_k, \, a,b \in \mathbb{R}.
+\mathbf{x}_{k+1} = a \mathbf{x}_{k} + b \mathbf{u}_{k} + \mathbf{\xi}_k, \, a,b \in \mathbb{R}.
 $$
-Then, assuming $a$ and $b$ are known and $\mathbf{r}_k = \mathbf{0}$, the optimal control $\mathbf{u}_k^*$ is given by
+Then, assuming $a$ and $b$ are known, and $\mathbf{r}_k = \mathbf{0}$, the optimal control $\mathbf{u}_k^*$ that drives $\mathbf{x}$ to zero **in one step** is given by
 $$
-\mathbf{u}_k^* = \frac{ab\mathbf{x}_k}{U + b^2}.
+\mathbf{u}_k^* = \frac{ab\mathbf{x}_k}{\mathbf{U} + b^2}.
 $$
-This can be easily found by substituting the dynamics into the expected cost (because we have process noise), computing the cost's derivative with respect to $\mathbf{u}_k$, setting it to zero, and solving for $\mathbf{u}_k$.
+This can be easily found by substituting the dynamics into the expected cost $\mathbb{E}_{\xi_k}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2]$[^1], computing the cost's derivative with respect to $\mathbf{u}_k$, setting it to zero, and solving for $\mathbf{u}_k$.
 
-Now let's consider the case where we are uncertain about $b$.  
-So now, we have a given by a belief $p(b) = \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$.
-A naïve solution is to replace $b$ with our current estimate of the mean ($\mathbf{\mu}_k$).
+Now let's consider the case where we are uncertain about $b$.
+Given a belief $p(b) = \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ a naïve solution is to replace $b$ with our current estimate of its mean ($\mathbf{\mu}_k$).
 This approach is known as *certainty equivalence*. 
 Unfortunately, this does not account for the uncertainty in the belief, i.e., how big $\mathbf{\sigma}_k^2$ is and often leads to poor performance.
 
 Alternatively, we could minimize the expected cost 
-$\mathbb{E}_{b\sim\mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)}[\mathbf{x}_{k+1}^2 + U \mathbf{u}_k^2]$, resulting in the optimal control 
+$\mathbb{E}_{b\sim\mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2]$. 
+This results in the optimal control 
 $$
-\mathbf{u}_k^* = -\frac{a\mathbf{\mu}_k\mathbf{x}_k}{U + \mathbf{\mu}_k^2 + \mathbf{\sigma}_k^2}.
+\mathbf{u}_k^* = -\frac{a\mathbf{\mu}_k\mathbf{x}_k}{\mathbf{U} + \mathbf{\mu}_k^2 + \mathbf{\sigma}_k^2}.
 $$
+This is also known as "cautious" control, since it's inversely proportional to the uncertainty given by $\mathbf{\sigma}^2_k$.
+Although this approach accounts for uncertainty, it can prevent learning (a future reduction in the uncertainty of $b$) if the uncertainty is too high. 
+
+To see how this happens, we compute the posterior on $b$ after observing $\mathbf{x}_{k+1}$, i.e., $p(b|\mathbf{x}_{k+1})$. 
+We do so by using Bayes' rule followed by a bunch of algebra. 
+The result is the following Gaussian
+$$
+p(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}\left(b\middle|\frac{\mathbf{\sigma}_k^2\mathbf{u}_k(b\mathbf{u}_k + \mathbf{\xi}_k + \mathbf{\mu}_k \mathbf{Q})}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}, \frac{\mathbf{\sigma}_k^2\mathbf{Q}}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}\right). 
+$$
+Notice that if $\mathbf{\sigma}_k$ is large then $\mathbf{u}_k^* \rightarrow 0$ implying $\mathbf{\sigma}_{k+1}^2 \rightarrow \mathbf{\sigma}_{k}^2$, and no learning happens. 
+
+
+
+[^1]: You'll notice that this cost looks different from the one I defined before. This is because we're driving the cost to zero in a **single** step, so the cost simplifies to $\mathcal{L}(\mathbf{x}, \mathbf{u}) = \mathbf{x}_{k+1}^2 + U \mathbf{u}_k^2$. 
