@@ -48,7 +48,7 @@ This approach is known as *certainty equivalence*.
 Unfortunately, this does not account for the uncertainty in the belief, i.e., how big $\mathbf{\sigma}_k^2$ is and often leads to poor performance.
 
 Alternatively, we could minimize the expected cost 
-$\mathbb{E}_{b\sim\mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2]$. 
+$\mathbb{E}_{b}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2|p(b)]$. 
 This results in the optimal control 
 $$
 \mathbf{u}_k^* = -\frac{a\mathbf{\mu}_k\mathbf{x}_k}{\mathbf{U} + \mathbf{\mu}_k^2 + \mathbf{\sigma}_k^2}.
@@ -63,14 +63,35 @@ $$
 p(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}\left(b\middle|\frac{\mathbf{\sigma}_k^2\mathbf{u}_k(b\mathbf{u}_k + \mathbf{\xi}_k + \mathbf{\mu}_k \mathbf{Q})}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}, \frac{\mathbf{\sigma}_k^2\mathbf{Q}}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}\right). 
 $$
 Notice that if $\mathbf{\sigma}_k$ is large then $\mathbf{u}_k^* \rightarrow 0$ implying $\mathbf{\sigma}_{k+1}^2 \rightarrow \mathbf{\sigma}_{k}^2$, and no learning happens. 
+Also note how even for a simple scalar, linear system, the posterior update is pretty gnarly.
 
 The fact that the controller doesn't really account for how uncertainty will be reduced at future timesteps should not come as a surprise: we selected a controller that minimizes cost for a **single** step. 
-This is known as a myopic controller, because it doesn't consider the consequences of its actions in horizons longer than $T = 1$.
-In order to incorporate longer horizons we must 
+This is known as a myopic controller because it doesn't consider the consequences of its actions in horizons longer than $T = 1$.
 
-Write down cost in the the dynamic programming approach
+Now, let's revisit the cost function for longer trajectories. 
+At every timestep $k<T$ we can define the expected cost of the remaining trajectory in the following recursive manner
+$$
+J_k(\mathbf{u}_{k:T-1}, p(\mathbf{x}_k)) = \mathbb{E}_{x_k}\left[(\mathbf{x}_k - \mathbf{r}_k)^\top\mathbf{W}(\mathbf{x}_k - \mathbf{r}_k) + \mathbf{u}_k^\top \mathbf{U} \mathbf{u}_k + J_{k+1}(\mathbf{u}_{k+1:T-1}, p(\mathbf{x}_{k+1})) | p(\mathbf{x}_k)\right], 
+$$
+where the final equation is given by 
+$$
+J_T(p(x_T)) = \mathbb{E}_{\mathbf{x}_T}\left[(\mathbf{x}_T - \mathbf{r}_T)^\top\mathbf{W}(\mathbf{x}_T - \mathbf{r}_T)|p(\mathbf{x}_T)\right].
+$$
+Then, the optimal control sequence can found using dynamic programming on the following minimization:
+$$
+J^*_k(p(\mathbf{x}_k)) = \min_{\mathbf{u}_k}\mathbb{E}_{x_k}\left[(\mathbf{x}_k - \mathbf{r}_k)^\top\mathbf{W}(\mathbf{x}_k - \mathbf{r}_k) + \mathbf{u}_k^\top \mathbf{U} \mathbf{u}_k + J_{k+1}^*(p(\mathbf{x}_{k+1})) | p(\mathbf{x}_k)\right]
+$$
+For more details on this, see Section 8.3.1 [here](https://underactuated.mit.edu/lqr.html).
 
-Write down resulting optimization problem at t=0.
+If we substitute our dynamical system for a horizon of $T=2$ then $J^*(\mathbf{x}_0)$ is given by the nested expectation
+$$
+\begin{align}
+  J^*(\mathbf{x}_0) &= \min_{\mathbf{u_0}}\mathbb{E}_{\mathbf{x_0}}\left[\mathbf{W}\mathbf{x}_0^2 + \mathbf{U}\mathbf{u}_0^2 + \min_{\mathbf{u_1}}\mathbb{E}_{\mathbf{x_1}}\left[\mathbf{W}\mathbf{x}_1^2 + \mathbf{U}\mathbf{u}_1^2 + \mathbb{E}_{\mathbf{x}_2}\left[\mathbf{W}\mathbf{x}_2^2\right]\right]\right] \\
+  &= \ldots
+\end{align}
+
+$$
+
 
 Explain what's hard about it. 
 
