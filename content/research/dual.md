@@ -43,12 +43,12 @@ $$
 This can be easily found by substituting the dynamics into the expected cost $\mathbb{E}_{\xi_k}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2]$[^1], computing the cost's derivative with respect to $\mathbf{u}_k$, setting it to zero, and solving for $\mathbf{u}_k$.
 
 Now let's consider the case where we are uncertain about $b$.
-Given a belief $p(b) = \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ a naïve solution is to replace $b$ with our current estimate of its mean ($\mathbf{\mu}_k$).
+Given a belief $b_k \coloneqq \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ at time $k$ a naïve solution is to replace $b$ with our current estimate of its mean $\mathbf{\mu}_k$.
 This approach is known as *certainty equivalence*. 
 Unfortunately, this does not account for the uncertainty in the belief, i.e., how big $\mathbf{\sigma}_k^2$ is and often leads to poor performance.
 
 Alternatively, we could minimize the expected cost 
-$\mathbb{E}_{b}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2|p(b)]$. 
+$\mathbb{E}_{b}[\mathbf{x}_{k+1}^2 + \mathbf{U} \mathbf{u}_k^2|b_k]$. 
 This results in the optimal control 
 $$
 \mathbf{u}_k^* = -\frac{a\mathbf{\mu}_k\mathbf{x}_k}{\mathbf{U} + \mathbf{\mu}_k^2 + \mathbf{\sigma}_k^2}.
@@ -56,14 +56,14 @@ $$
 This is also known as "cautious" control, since it's inversely proportional to the uncertainty given by $\mathbf{\sigma}^2_k$.
 Although this approach accounts for uncertainty, it can prevent learning (a future reduction in the uncertainty of $b$) if the uncertainty is too high. 
 
-To see how this happens, we compute the posterior on $b$ after observing $\mathbf{x}_{k+1}$, i.e., $p(b|\mathbf{x}_{k+1})$. 
-We do so by using Bayes' rule followed by a bunch of algebra. 
+To see how this happens, we compute the posterior on $b$ after after observing $\mathbf{x}_{k+1}$, i.e., $b_{k+1} \coloneqq p(b|\mathbf{x}_{k+1})$.
+We do so by invoking Bayes' rule, noting that $b_{k+1} \propto p(\mathbf{x}_{k+1}|b)b_k$ and then doing a bunch of algebra. 
 The result is the following Gaussian
 $$
-p(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}\left(b\middle|\frac{\mathbf{\sigma}_k^2\mathbf{u}_k(b\mathbf{u}_k + \mathbf{\xi}_k + \mathbf{\mu}_k \mathbf{Q})}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}, \frac{\mathbf{\sigma}_k^2\mathbf{Q}}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}\right). 
+b_{k+1} = \mathcal{N}(b|\mathbf{\mu}_{k+1}, \mathbf{\sigma}_{k+1}^2) = \mathcal{N}\left(b\middle|\frac{\mathbf{\sigma}_k^2\mathbf{u}_k(b\mathbf{u}_k + \mathbf{\xi}_k + \mathbf{\mu}_k \mathbf{Q})}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}, \frac{\mathbf{\sigma}_k^2\mathbf{Q}}{\mathbf{u}_k^2\mathbf{\sigma}_k^2 + \mathbf{Q}}\right). 
 $$
 Notice that if $\mathbf{\sigma}_k$ is large then $\mathbf{u}_k^* \rightarrow 0$ implying $\mathbf{\sigma}_{k+1}^2 \rightarrow \mathbf{\sigma}_{k}^2$, and no learning happens. 
-Also note how even for a simple scalar, linear system, the posterior update is pretty gnarly.
+Also note how even for a simple scalar, linear system, the posterior update is already pretty gnarly.
 
 The fact that the controller doesn't really account for how uncertainty will be reduced at future timesteps should not come as a surprise: we selected a controller that minimizes cost for a **single** step. 
 This is known as a myopic controller because it doesn't consider the consequences of its actions in horizons longer than $T = 1$.
@@ -85,18 +85,38 @@ For more details on this, see Section 8.3.1 [here](https://underactuated.mit.edu
 
 If we substitute our dynamical system for a horizon of $T=2$ then $J^*(\mathbf{x}_0)$ is given by the nested expectation
 $$
-\begin{align}
-  J^*(\mathbf{x}_0) &= \min_{\mathbf{u_0}}\mathbb{E}_{\mathbf{x_0}}\left[\mathbf{W}\mathbf{x}_0^2 + \mathbf{U}\mathbf{u}_0^2 + \min_{\mathbf{u_1}}\mathbb{E}_{\mathbf{x_1}}\left[\mathbf{W}\mathbf{x}_1^2 + \mathbf{U}\mathbf{u}_1^2 + \mathbb{E}_{\mathbf{x}_2}\left[\mathbf{W}\mathbf{x}_2^2\right]\right]\right] \\
-  &= \ldots
-\end{align}
-
+J^*(p(\mathbf{x}_0)) = \min_{\mathbf{u_0}}\mathbb{E}_{\mathbf{x_0}}\left[\mathbf{W}\mathbf{x}_0^2 + \mathbf{U}\mathbf{u}_0^2 + \min_{\mathbf{u_1}}\mathbb{E}_{\mathbf{x_1}}\left[\mathbf{W}\mathbf{x}_1^2 + \mathbf{U}\mathbf{u}_1^2 + \mathbb{E}_{\mathbf{x}_2}\left[\mathbf{W}\mathbf{x}_2^2\right]\right]\right].
+$$
+Substituting $\mathbf{u}_1$ with the myopic controller $\mathbf{u}_1^*$ from above and writing the expectations a bit more explicitly we get
+$$
+  J^*(p(\mathbf{x}_0)) = \min_{\mathbf{u}_0}\left[\mathbf{W}\mathbf{x_0}^2 + \mathbf{U}\mathbf{u}_0^2 + \mathbb{E}_{\xi_0,b}\left[\mathbf{W}\mathbf{x}_1^2 + \mathbf{U}\mathbf{u}_1^{*2} + \mathbb{E}_{\xi_1, b}\left[W(\mathbf{x}_1 + b\mathbf{u}_1^* + \xi_1)^2|b_1\right]|b_0\right]\right].
 $$
 
+Here's why solving this is very hard. 
+Let's consider the innermost expectation: 
+$$
+  \mathbb{E}_{\xi_1, b}\left[W(\mathbf{x}_1 + b\mathbf{u}_1^* + \xi_1)^2|b_1\right] = \mathbb{E}_{\xi_1, b}[\Phi(\xi_1,b)]
+$$
+For brevity, let 
+$$
+  \Phi(\xi_1,b) = \mathbf{W}(\mathbf{x}_1 + b\mathbf{u}_1^* + \xi_1)^2 = \mathbf{W}(\mathbf{x}_0 + b\mathbf{u}_0 + \xi_0 + b\mathbf{u}_1^* + \xi_1)^2 = 
+$$
+This is a joint expectation over two independent Gaussian distributions $\mathcal{N}(0, \mathbf{Q})$ and $b_1$. 
+And even though $b_1$ has nasty expressions for the mean and variance (as shown by the posterior update above) it's still a Gaussian, and depending on the argument of the expectation $\Phi(\xi_1,b)$, computing it should be relatively easy.
 
-Explain what's hard about it. 
+Unfortunately, $\Phi(\xi_1,b)$ is indeed very nasty.
+Recall that $\mathbf{u}_{k+1}^*$ is a nonlinear function of the belief parameters at time $k+1$, i.e., $\mu_{k+1}$ and $\sigma_{k+1}$. 
+However, as shown in the belief update above, both parameters are functions (also nonlinear) of the belief parameters in the previous timestep, i.e., $\mu_{k}$ and $\sigma_{k}$.
+This means that $\mathbf{u}_{1}^*$ is a *very* nonlinear function of $\mu_{0}$ and $\sigma_{0}$ with a form that implies that analytically computing the expectation $\mathbb{E}_{\xi_1, b}[\Phi(\xi_1,b)]$ is impossible[^2].
+Therefore, the best we can do is approximate the expectation by sampling. 
 
+Finish writing why this is hard
 
+What can be done
 
+Areas where I should focus. 
 
+# Questions
 
 [^1]: You'll notice that this cost looks different from the one I defined before. This is because we're driving the cost to zero in a **single** step, so the cost simplifies to $\mathcal{L}(\mathbf{x}, \mathbf{u}) = \mathbf{x}_{k+1}^2 + U \mathbf{u}_k^2$. 
+[^2]: It turns out that  $\Phi(\xi_1,b)$ can be written as a rational function $\Phi(\xi_1,b) = \frac{Q_1(\xi_1,b)}{Q_1(\xi_1,b)}$, where $Q_1$ and $Q_2$ are polynomials. This means that the expected value $\mathbb{E}_{\xi_1, b}[\Phi(\xi_1,b)]$ will most likely not have a closed form solution. I'm aware that there are some cases where it is possible to compute the expectation of such rational functions, but as far as I'm aware, the results are limited to very specific polynomials. See for example, [this example](https://math.stackexchange.com/questions/1394268/multivariate-gaussian-integral-of-ratio-of-quadratic-forms). 
