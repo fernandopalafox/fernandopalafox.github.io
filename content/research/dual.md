@@ -132,15 +132,18 @@ I just described dual control in the context of a dynamical system where uncerta
 In this case the transition function is $p(\mathbf{x}_{k+1}|\mathbf{x}_k,\mathbf{u}_{k}, b) = \mathcal{N}(\mathbf{x}_{k+1}|\mathbf{x}_k + b\mathbf{u}_k, \mathbf{Q})$
 However, as I explained in my previous post, [Gaussian Processes and Meta-Learning Priors](gps.md), I'm interested in leveraging more expressive representations of dynamical systems such as neural networks trained to imitate lots of example trajectories, i.e., the transition function is $p(\mathbf{x_{k+1}}|\mathbf{x}_k,\mathbf{u}_k) = f(\mathbf{x}_k,\mathbf{u}_k, \theta)$, where $f$ is a deep neural network parameterized by weights and biases $\theta$.
 
-Let's talk about how to represent uncertainty when the transition function is neural network.
+Let's talk about how to represent uncertainty when the transition function is a neural network.
 In the linear dynamics model we have uncertainty over process noise $\xi_k \sim \mathcal{N}(\mathbf{0}, \mathbf{Q})$ and model parameter values $b\sim b_k$. 
-Practically speaking, this means that when minimizing a cost we compute its joint expectation over $\xi_k$ and $b$, i.e., $\mathbb{E}_{\xi_k, b_k}[\cdot]$  in us having to consider we use the system dynamics $\mathbf{x}_{k+1} = \mathbf{x}_{k} + b \mathbf{u}_{k} + \mathbf{\xi}_k$ to transform the parameter uncertainty $\mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ into a likelihood function for the state $p(\mathbf{x_{k+1}}|\mathbf{x}_k,\mathbf{u}_k) = \mathcal{N}(\mathbf{x}_{k+1}|\mathbf{x}_k + b\mathbf{u}_k, \mathbf{Q})$. 
-Specifically, instead of having uncertainty over $\theta$, and then using the system 
+Practically speaking, this means that when minimizing a cost we must compute its joint expectation over $\xi_k$ and $b$, i.e., $\mathbb{E}_{\xi_k, b_k}[\cdot]$.
+On the other hand, when using a neural network to represent dynamics, there are many ways to reason about the uncertainty of the next step $\mathbf{x}_{k+1}$ (e.g., [neural network ensembles](https://proceedings.neurips.cc/paper_files/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf), [Monte Carlo Dropout](https://medium.com/@ciaranbench/monte-carlo-dropout-a-practical-guide-4b4dc18014b5), [conformal mapping](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf), etc.), and also the model parameters $\theta$.  
+
+in us having to consider we use the system dynamics $\mathbf{x}_{k+1} = \mathbf{x}_{k} + b \mathbf{u}_{k} + \mathbf{\xi}_k$ to transform the parameter uncertainty $\mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ into a likelihood function for the state $p(\mathbf{x_{k+1}}|\mathbf{x}_k,\mathbf{u}_k) = \mathcal{N}(\mathbf{x}_{k+1}|\mathbf{x}_k + b\mathbf{u}_k, \mathbf{Q})$. 
+Specifically, instead of having uncertainty over weights $\theta$, and then using the system 
 
 
 One way to represent this uncertainty is to add a variational last layer that spits out a prediction as well as an estimate of the prediction uncertainty (this is how [ALPaCA](https://arxiv.org/abs/1807.08912) does it, as I explained in my [previous post](gps.md)). 
 In this case we hold a belief over the model weights which is implicitly characterized by the output uncertainty.
-In this case, "belief" updates are done only over the weights of the variational last layer (and not the entire neural network[^3])
+In this case, "belief" updates are done only over the weights of the variational last layer (and not the entire neural network[^4])
 
 
 # Resources
@@ -148,5 +151,5 @@ In this case, "belief" updates are done only over the weights of the variational
 - Feldbaum's pioneering work on [Dual Control Theory Problems](https://www.sciencedirect.com/science/article/pii/S1474667017696873).
 
 [^1]: You'll notice that this cost looks different from the one I defined before. This is because we're driving the cost to zero in a **single** step, so the expression simplifies to $\mathcal{L}(\mathbf{x}, \mathbf{u}) = \mathbf{x}_{k+1}^2 + U \mathbf{u}_k^2$. 
-[^2]: It turns out that  $\Phi(\xi_1,b)$ can be written as a rational function $\Phi(\xi_1,b) = \frac{Q_1(\xi_1,b)}{Q_1(\xi_1,b)}$, where $Q_1$ and $Q_2$ are polynomials. This means that the expected value $\mathbb{E}_{\xi_1, b}[\Phi(\xi_1,b)]$ will most likely not have a closed form solution. I'm aware that there are some cases where it is possible to compute the expectation of such rational functions, but as far as I'm aware, the results are limited to very specific polynomials. See for example, [this example](https://math.stackexchange.com/questions/1394268/multivariate-gaussian-integral-of-ratio-of-quadratic-forms). 
-[^3]: Online "belief" updates of the entire neural network are what's done by Finn et al. in [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400).
+[^2]: It turns out that  $\Phi(\xi_1,b)$ can be written as a rational function $\Phi(\xi_1,b) = \frac{Q_1(\xi_1,b)}{Q_1(\xi_1,b)}$, where $Q_1$ and $Q_2$ are polynomials. This means that the expected value $\mathbb{E}_{\xi_1, b}[\Phi(\xi_1,b)]$ will most likely not have a closed form solution. I'm aware that there are some cases where it is possible to compute the expectation of such rational functions, but as far as I'm aware, the results are limited to very specific polynomials. [Here's an example](https://math.stackexchange.com/questions/1394268/multivariate-gaussian-integral-of-ratio-of-quadratic-forms). 
+[^4]: Online "belief" updates of the entire neural network are what's done by Finn et al. in [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400).
