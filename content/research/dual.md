@@ -19,14 +19,15 @@ And [over the summer](writing/summer.md), I worked on applying this idea to auto
 As I dug into the theoretical foundations of active uncertainty reduction in dynamical systems (like robots),  
 I ran into the field of [dual control](https://en.wikipedia.org/wiki/Dual_control_theory). 
 Unfortunately, most of the literature seems to agree that it's very hard.
-In this blog post, I explain exactly why it's hard, and then write about what this means for my research. 
+In this blog post I explain exactly why it's hard, and then write about what this means for my research. 
 
 ---
-# Why Dual Control is Hard
+# The Intractability of Dual Control
 
 ## The Dynamical System
 
-State is defined as $\mathbf{x}$, controls $\mathbf{u}$.
+We seek to solve the following problem: drive a dynamical system to a state of interest while minimizing cost.
+Let's start by defining state as $\mathbf{x}$ and controls $\mathbf{u}$.
 As is standard in optimal control and reinforcement learning, we define a cost given by the quadratic function
 $$
   \mathcal{L}(\mathbf{x}, \mathbf{u}) = \sum_{k=0}^T(\mathbf{x}_k - \mathbf{r}_k)^\top\mathbf{W}(\mathbf{x}_k - \mathbf{r}_k) + \sum_{k=0}^{T-1}(\mathbf{u}_k^\top \mathbf{U} \mathbf{u}_k),
