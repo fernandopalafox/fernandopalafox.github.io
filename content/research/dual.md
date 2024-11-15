@@ -137,7 +137,7 @@ However, as I explained in my previous post, [Gaussian Processes and Meta-Learni
 
 Let's talk about how to represent uncertainty when the transition function is a neural network.
 In the linear dynamics model we have uncertainty over process noise $\xi_k \sim \mathcal{N}(\mathbf{0}, \mathbf{Q})$ and model parameter values $b\sim b_k$. 
-Practically speaking, this means that when minimizing a cost we must compute its joint expectation over $\xi_k$ and $b$, i.e., $\mathbb{E}_{\xi_k, b_k}[\cdot]$.
+Practically speaking, this means that when minimizing a cost we must compute its joint expectation over $\xi_k$ and $b$, i.e., $\mathbb{E}_{\xi_k, b}[\cdot]$.
 On the other hand, when using a neural network to represent dynamics, there are many ways to reason about the uncertainty of the next step $\mathbf{x}_{k+1}$ (e.g., [neural network ensembles](https://proceedings.neurips.cc/paper_files/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf), [Monte Carlo Dropout](https://medium.com/@ciaranbench/monte-carlo-dropout-a-practical-guide-4b4dc18014b5), [conformal mapping](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf), etc.), and also the model parameters $\theta$ (e.g., [Bayesian neural networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)) 
 
 Bayesian neural networks are probably the closest to what we're trying to do since they define a posterior distribution over model parameters, i.e., instead of a point estimate for the model weights, we get a distribution conditioned on the training data.
