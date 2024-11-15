@@ -128,7 +128,7 @@ This approach works, but it scales poorly to higher dimensions, and it's still a
 
 > [!info] Why Dual Control is Hard
 > 
-> Dual control is hard because even in simple dynamical systems, the belief dynamics are nonlinear (courtesy of Bayes' rule) resulting in intractable nested expectations when reasoning about expected belief updates over long horizons $T>1$
+> Dual control is hard because even in simple dynamical systems, the belief dynamics are nonlinear (courtesy of Bayes' rule) resulting in intractable nested expectations when reasoning about expected belief updates over long horizons ($T>1$).
 
 # Research
 I just described dual control in the context of a dynamical system where uncertainty is represented as a Gaussian belief $b_k \coloneqq \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ over an unknown parameter $b$ in a linear system.
