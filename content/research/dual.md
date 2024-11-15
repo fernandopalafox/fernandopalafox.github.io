@@ -126,7 +126,9 @@ This means that $\mathbf{u}_{1}^*$ is a *very* nonlinear function of $\mu_{0}$ a
 Therefore, the best we can do is to numerically approximate the expectation, e.g., by sampling.
 This approach works, but it scales poorly to higher dimensions, and it's still an approximation.
 
-In conclusion, dual control is hard because even in simple dynamical systems, the belief dynamics are nonlinear (courtesy of Bayes' rule) resulting in intractable nested expectations. 
+> [!info] Why Dual Control is Hard
+> 
+> Dual control is hard because even in simple dynamical systems, the belief dynamics are nonlinear (courtesy of Bayes' rule) resulting in intractable nested expectations.
 
 # Research
 I just described dual control in the context of a dynamical system where uncertainty is represented as a Gaussian belief $b_k \coloneqq \mathcal{N}(b|\mathbf{\mu}_k, \mathbf{\sigma}_k^2)$ over an unknown parameter $b$ in a linear system.
