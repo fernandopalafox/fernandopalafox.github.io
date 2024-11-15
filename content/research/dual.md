@@ -19,7 +19,7 @@ And [over the summer](writing/summer.md), I worked on applying this idea to auto
 As I dug into the theoretical foundations of active uncertainty reduction in dynamical systems (like robots),  
 I ran into the field of [dual control](https://en.wikipedia.org/wiki/Dual_control_theory). 
 Unfortunately, most of the literature seems to agree that it's very hard.
-In this blog post, I explain exactly why it's hard, and then talk about what this means for my research. 
+In this blog post, I explain exactly why it's hard, and then write about what this means for my research. 
 
 ---
 # Why Dual Control is Hard
