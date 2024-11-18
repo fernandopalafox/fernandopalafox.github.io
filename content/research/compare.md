@@ -14,7 +14,7 @@ I'm exploring whether I can combine these two, so here I provide a brief compari
 This post is part of a series on Active Learning for Dynamical Systems. 
 Checkout the previous post [here](dual.md).
 
--- 
+---
 
 ## Bayesian Regression with ALPaCA
 
