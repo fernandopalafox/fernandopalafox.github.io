@@ -1,5 +1,5 @@
 ---
-title: Glimpses
+title: Glimpses Vol. 1
 publishDate: 2024-07-19
 draft: False
 ---
@@ -19,4 +19,3 @@ Maybe they'll hit you too.
 - "Action produces information. Just keep doing things." - Paul Graham
 - "Never hurry, never cease." - Martha Beck
 - "I make my Mind my Friend." - anonymous samurai
-- "My whole life, regardless of all that may happen to me, every minute of it, is not only not meaningless, as it was before, but has the unquestionable meaning of the good which it is in my power to put into it!” - Tolstoy in *Anna Karenina*
