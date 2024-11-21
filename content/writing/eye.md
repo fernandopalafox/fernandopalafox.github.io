@@ -5,7 +5,7 @@ draft: False
 ---
 
 <figure style="text-align: center;">
-  <img src="media/kara.png" alt="" style="width:40%">
+  <img src="media/kara.png" alt="" style="width:60%">
 </figure>
 
 
