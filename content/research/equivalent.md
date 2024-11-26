@@ -15,11 +15,10 @@ Let's work on the case where we have no state uncertainty but we do have state u
 In this case, our belief with be solely over the value of the last linear layer in the dynamics neural network. 
 Can we do belief space planning for this case? 
 
-In B-LQR, we use an EKF to estimate the state $\mathbf{x}_t$.
-
 # Pattern matching the EKF in B-LQR
 
-Let's start by writing down the equations used in the EKF:
+In B-LQR, we use an EKF to estimate the state $\mathbf{x}_t$.
+Let's start by writing down the equations used in the EKF in B-LQR:
 The linearized state and observations dynamics are
 $$
 \begin{align}
@@ -40,9 +39,21 @@ In ALPaCA, we're adjusting our estimate of the mean and covariance of a distribu
 The random variable is what we're trying to estimate. 
 On the other hand, in B-LQR, we don't try to estimate the random variable (which is measurement noise), instead we refine our belief over state. 
 Aha! 
-In ALPaCA, our belief is over the last layer and the measurement equation does not have process noise.
-Do we need an EKF for ALPaCA? 
-The reason I wonder this is because the belief state in B-LQR look like: 
+In ALPaCA, our measurement model is basically to do a forward pass on the neural network + linear layer and obtain an estimate of the next state.
+Then, using the actual, observed next state, we do Bayesian linear regression to get an estimate for what K should be,
+ALPaCA measurement equation is:
 $$
-    \mathbf{x}_{t+1} = \mathbf{f}_t + \mathbf{E}_t (\mathbf{z}_{t+1} - g(f_t))
+    \mathbf{x}_{t+1} = \mathbf{K}^\top \mathbf{\phi}(\mathbf{x}_t, \mathbf{u}_t) + \mathbf{\epsilon}
 $$
+Where $\mathbf{x}_{t+1}$ is the observation and $\mathbf{K}$ is a function of the parameters $\mathbf{\theta}$.
+
+Since this measurement model doesn't have the exact linear structure we need to run an EKF on $\mathbf{K}$, let's rearrange it.
+Define a new measurement model as follows: 
+$$
+    \mathbf{x}_{t+1} =(\mathbf{\phi}^\top \otimes \mathbf{I})\mathrm{vec}(\mathbf{K}) + \mathbf{\epsilon} 
+$$
+where it can be shown that $\mathbf{\phi}^\top \otimes \mathbf{I} = \mathbf{K}^\top \mathbf{\phi}(\mathbf{x}_t)$.
+So basically, we've turned the original ALPaCA formulation into a linear measurement model we can run an EKF on.
+
+What's next? 
+Think about how to integrate with rest of B-LQR 
