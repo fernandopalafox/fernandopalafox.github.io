@@ -1,7 +1,7 @@
 ---
 title: On Writing and Vulnerability
 publishDate: 2024-11-30
-draft: False
+draft: True
 ---
 
 Here's something that's been on my mind lately: I hate this idea that I'm just being a vulnerable boy for no reason. 
