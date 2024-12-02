@@ -1,7 +1,7 @@
 ---
 title: On Writing and Vulnerability
 publishDate: 2024-11-30
-draft: True
+draft: False
 ---
 **December 2024**
 Picture of a blow-up person with a scaffold around them
@@ -28,8 +28,11 @@ More on this later.
 
 Disclaimer: 
 None of this self-acceptance stuff means you're automatically allowed to punch your annoying co-worker because "you're just accepting your anger". 
-There's a skillful way of learning how to express all this. 
-But the reason I bring this up is because I'm trying to make the case that, if done correctly, being honest about your emotions can truly upgrade your life.
+Or that you should go around trauma-dumping everyone you meet.
+There's a skillful way of expressing emotions and integrating hard experiences. 
+However, this post isn't about all that. 
+Instead, I'm hoping to convince you this is an endeavor worth pursuing. 
+That, if done correctly, being honest about your emotions (even the bad ones) can be a legitimate upgrade to your life.
 
 For example, once being honest about honesty may be useful is because it automatically relaxes you. 
 As you stop trying to make things other than what they are, we release a bunch of built up tension.
