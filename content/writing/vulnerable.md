@@ -1,7 +1,7 @@
 ---
 title: On Writing and Vulnerability
 publishDate: 2024-11-30
-draft: False
+draft: True
 ---
 **December 2024**
 Picture of a blow-up person with a scaffold around them
@@ -35,9 +35,6 @@ But this post isn't about all that.
 This is about showng you why this is an endeavor worth pursuing. 
 Because being honest about your emotions (even the bad ones) can be a legitimate upgrade to your life.
 
-For example, once being honest about honesty may be useful is because it automatically relaxes you. 
-As you stop trying to make things other than what they are, we release a bunch of built up tension.
-
 Being vulnerable and honest about who we are is also a superpower.
 There's a certain security and attractiveness that one just exudes when they stop trying to contort themselves into more acceptable versions of themselves. 
 One reason for this could be that this may be a proxy for competence: having a clear understanding of your capabilities means you can at the very least take good care of yourself. 
@@ -55,8 +52,8 @@ About all the meaning I've found.
 About all the wild woo woo stuff I've discovered in this wild "spiritual" journey
 About how ALIVE I feel.
 
-Yet, very often, I find myself stamping it down. 
-In panic that I'll just become this stereotype of a spiritual person that runs around in circles.
+Yet, very often, I find myself clamping down on the creativity hose. 
+In panic that I'll become a stereotype I carry around of a spiritual person that runs around in circles.
 That "I'm too young" to be talking about all this
 Scared that this will distract me from truly "useful" work.
 That I'll just get stuck in a fractal forest of self-realization and deepening spirituality.
