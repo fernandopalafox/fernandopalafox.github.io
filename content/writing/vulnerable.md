@@ -7,32 +7,33 @@ draft: False
 Picture of a blow-up person with a scaffold around them
 
 Here's something that's been on my mind lately: vulnerable writing.
-Before you roll your eyes I'll just say what I think about it: vulnerable writing is the only writing you have.
-I came to this conclusion after wrestling with writing about some deeply personal stuff, yet feeling a pull to be seen, and share all the beautiful things I've discovered. 
-So, here's why I think that, if you feel drawn to it, writing vulnerably may be a good idea. 
+Before you roll your eyes I'll just say what I think about it: if you're writing to express yourself, vulnerable writing is the only kind you have.
+I came to this conclusion after wrestling with writing about some deeply personal stuff.
+I felt a pull to be seen, and to share all the beautiful things I'd discovered about life and emotions. 
+But I also felt so much self-judgement: "this is so cring", "you are so dramatic," "all the writers you admire don't write like this", "you just want attention."
+So this post is why I think that, if you feel drawn to it, writing vulnerably may be a great idea. 
 I'll start with being honest about who you are, and move onto how this applies to writing.
 
 Trying to hide what you're really feeling is not possible. 
 Because, whether we like it or not, who we are is very obvious to most people around us. 
-Our soft gooey interior leaks out in our mannerisms, how we speak, who we speak to and even our observations.
-In fact, [simply revealing what you observe is almost as informative of what you're thinking.](https://x.com/p_lafox/status/1847429431721107833)
+Our soft gooey interior leaks out in our mannerisms, how we speak, who we speak toc and even our observations.
+In fact, [simply revealing what you see is almost as informative reveals a ton of information.](https://x.com/p_lafox/status/1847429431721107833)
 You may be able to hide it from some people who perhaps don't pay too much attention or those who simply don't care. 
-But it will be immediately apparent to anyone you bring close to you.
-And in any case, why become close to someone if you don't want them to get to know your real feelings.
-So, you might as well embrace that soft scary side of you: in all its beauty, nastiness, and uncertainty. 
+But it will be immediately apparent to anyone close to you.
+So, you might as well embrace that soft white underbelly you try so hard not to show.
+In all its beauty, nastiness, and uncertainty. 
 
-Hiding all the parts you hate about yourself is just an inefficient way of living.
-You spend all this time and energy, building a delicate scaffolding that encases a "monstrous" part of you only to find that 1) your imagination did a great job at making it look worse than it actually was, and 2) most people don't care. 
-In fact, they might even appreciate you let them know who you really where.
-More on this later.  
+If you're a practical person, note that hiding the parts you hate about yourself is just an inefficient way of living.
+You spend all this time and energy building a delicate scaffolding that encases a "monstrous" part of you only to find that 1) your imagination did a great job at making it look worse than it actually was, and 2) most people don't care. 
+In fact, they might even appreciate you let them know who you really are!
 
 Disclaimer: 
-None of this self-acceptance stuff means you're automatically allowed to punch your annoying co-worker because "you're just accepting your anger". 
-Or that you should go around trauma-dumping everyone you meet.
-There's a skillful way of expressing emotions and integrating hard experiences. 
-However, this post isn't about all that. 
-Instead, I'm hoping to convince you this is an endeavor worth pursuing. 
-That, if done correctly, being honest about your emotions (even the bad ones) can be a legitimate upgrade to your life.
+None of this self-acceptance stuff means you're automatically allowed to punch your annoying co-worker because "you're just accepting your anger."
+Or that you should go around trauma-dumping everyone you meet because you're honest.
+There's real skill in safely expressing emotions and integrating hard experiences. 
+But this post isn't about all that. 
+This is about showng you why this is an endeavor worth pursuing. 
+Because being honest about your emotions (even the bad ones) can be a legitimate upgrade to your life.
 
 For example, once being honest about honesty may be useful is because it automatically relaxes you. 
 As you stop trying to make things other than what they are, we release a bunch of built up tension.
