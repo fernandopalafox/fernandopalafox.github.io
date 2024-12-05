@@ -14,10 +14,10 @@ draft: False
 **December 2024**
 
 Here's something that's been on my mind lately: vulnerable writing.
-Before you roll your eyes I'll say what I think about it: **if you're writing to express yourself, vulnerable writing is the only kind you have. And letting it out might be a great idea**.
+Before you roll your eyes, I'll say what I think about it: **if you're writing to express yourself, vulnerable writing is the only kind you have. And letting it out might be a great idea**.
 This hit me while wrestling over whether to share my writing.
 My life was changed this year, and I felt a pull to share all the beautiful things I'd discovered about life, emotions, and meaning. 
-But I also felt so much self-judgement: "this is so cringe", "you are so dramatic," "all the writers you admire don't write like this", or "you just want attention."
+But I also felt so much self-judgement: "this is so cringe," "you are so dramatic," "all the writers you admire don't write like this," or "you just want attention."
 So this post is why I think that writing vulnerably may actually be a great idea. 
 I'll start with how it pays to be honest about yourself, and then move onto how this applies to writing.
 
@@ -51,7 +51,7 @@ Well, recently I've felt very self-conscious about much of my writing.
 This year I went through a breakup, my dad's death, and a lot of LIFE.
 And within all this I've felt and learned so much that all I want to do is write about love and gratitude and heartbreak and grief.
 About all the meaning I've found. 
-About all the wild woo woo stuff I've discovered in this crazy year.
+About all the wild woo-woo stuff I've discovered in this crazy year.
 About how alive I feel!
 
 Yet, I often find myself immediately clamping down on this creativity hose. 
