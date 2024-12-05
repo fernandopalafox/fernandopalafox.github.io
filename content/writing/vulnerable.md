@@ -1,7 +1,7 @@
 ---
 title: On Writing and Vulnerability
 publishDate: 2024-11-30
-draft: False
+draft: True
 ---
 **December 2024**
 
