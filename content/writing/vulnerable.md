@@ -1,5 +1,6 @@
 ---
 title: Honest Writing
+description: In Defense of Cringe
 publishDate: 2024-12-06
 draft: False
 ---
@@ -13,7 +14,7 @@ draft: False
 
 **December 2024**
 
-I've been thinking a lot about vulnerable writing lately - the kind where you open up about what you think and feel, as scary as that sounds.
+I've been thinking a lot about vulnerable writing lately--the kind where you open up about what you think and feel, as scary as that sounds.
 Before you roll your eyes, I'll say what I think about it: **if you're writing to express yourself, vulnerable writing is the only kind of writing you have. And letting it out might be a great idea**.
 This hit me while wrestling over whether to share some of my recent writing.
 My life completely changed this year, and I've drawn to share all the beautiful things I've discovered about life, emotions, and meaning. 
