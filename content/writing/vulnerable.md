@@ -1,6 +1,6 @@
 ---
 title: Honest Writing
-publishDate: 2024-12-05
+publishDate: 2024-12-06
 draft: False
 ---
 
@@ -80,7 +80,7 @@ It sits safely inside the boundaries of the acceptable.
 But the shape of reality cannot be described by limply brushing up against it. 
 You must physically test it, probe it, and find resistance.
 And if you pull on its loose threads enough you might get a look behind the veil of ideology, and into the raw machinery of reality. 
-So go write something vulnerable.
+Go write something vulnerable.
 Tell me what YOU really see.
 
 <figure style="text-align: center;">
