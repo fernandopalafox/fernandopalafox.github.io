@@ -28,7 +28,7 @@ One reason is that, even when you carefully manage what you do or say, feelings 
 Another reason is that millions of years of evolution has hardwired us to look for these leaks, consciously or unconsciously, to try and figure out whether someone is safe or not[^1].
 So, you might as well embrace your feelings and at least have a say in how you express them.
 
-If you're a practical person, it's worth noting that hiding what you feel is not an efficient way of living.
+If you're a practical person, note that hiding what you feel is not an efficient way of living.
 You spend a ton of time and energy building a delicate scaffolding around the "bad" parts of you only to find that 1) your imagination did a great job at making them look worse than they actually were, and 2) most people really don't care. 
 In fact, they might even appreciate your honesty!
 
@@ -61,7 +61,7 @@ That I'll get distracted from truly "useful" work.
 That I'll get lost in a fractal forest of self-realization and deepening spirituality -- always healing but never healed.
 And look, honestly, this is something I occasionally still worry about. 
 But, it's also become very clear that this IS who I am right now, whether I like it or not. 
-My heart is spilling out a river of corny shit I want to share and I have two choices: 1) I can play an impossible game of whack-a-mole with my feelings or 2) I can let myself fall into the experience, write about it, maybe something fun will come out.
+My heart is spilling out a river of corny shit and I have two choices: 1) I can play an impossible game of whack-a-mole with my feelings or 2) I can surrender to the experience, write about it, maybe something fun will come out.
 
 > "Of all that is written, I love only what a man write in his own blood. Write in blood and you will realize that blood is spirit." 
 > -- Friedrich Nietzsche, *Thus Spoke Zarathustra*
