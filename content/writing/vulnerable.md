@@ -49,7 +49,7 @@ And it's way more pleasant to be with someone who isn't constantly tugging at th
 So what does all this mean for writing? 
 Well, recently I've felt very self-conscious about much of my writing.
 This year I went through a breakup, my dad's death, and a lot of LIFE.
-And within all this I've felt and learned so much that all I want to do is write about love and gratitude and heartbreak and grief.
+And in all this I've felt and learned so much that all I want to do is write about love and gratitude and heartbreak and grief.
 About all the meaning I've found. 
 About all the wild woo-woo stuff I've discovered in this crazy year.
 About how alive I feel!
