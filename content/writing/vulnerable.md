@@ -28,7 +28,7 @@ One reason is that, even when you carefully manage what you do or say, feelings 
 Another reason is that millions of years of evolution has hardwired us to look for these leaks, consciously or unconsciously, to try and figure out whether someone is safe or not[^1].
 So, you might as well embrace your feelings and at least have a say in how you express them.
 
-If you're a practical person, it's worth noting that hiding what you feel is also not a very efficient way of living.
+If you're a practical person, it's worth noting that hiding what you feel is not a very efficient way of living.
 You spend all this time and energy building a delicate scaffolding around the "bad" parts of you only to find that 1) your imagination did a great job at making them look worse than they actually were, and 2) most people really don't care. 
 In fact, they might even appreciate your honesty!
 
