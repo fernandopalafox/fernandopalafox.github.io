@@ -13,7 +13,7 @@ draft: False
 
 **December 2024**
 
-Here's something that's been on my mind lately: vulnerable writing.
+Here's something that's been on my mind lately: vulnerable writing, the kind of writing where you open up about what you really think and feel, as scary as that may sound.
 Before you roll your eyes, I'll say what I think about it: **if you're writing to express yourself, vulnerable writing is the only kind of writing you have. And letting it out might be a great idea**.
 This hit me while wrestling over whether to share some of my recent writing.
 My life completely changed this year, and I've felt a pull to share all the beautiful things I've discovered about life, emotions, and meaning. 
