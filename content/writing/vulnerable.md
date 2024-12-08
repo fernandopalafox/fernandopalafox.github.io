@@ -1,5 +1,5 @@
 ---
-title: On Writing and Vulnerability
+title: Honest Writing
 publishDate: 2024-12-05
 draft: False
 ---
