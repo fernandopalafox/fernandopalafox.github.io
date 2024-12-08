@@ -16,7 +16,7 @@ draft: False
 I've been thinking a lot about vulnerable writing lately - the kind where you actually say what you think and feel, as scary as that sounds.
 Before you roll your eyes, I'll say what I think about it: **if you're writing to express yourself, vulnerable writing is the only kind of writing you have. And letting it out might be a great idea**.
 This hit me while wrestling over whether to share some of my recent writing.
-My life completely changed this year, and I've felt a pull to share all the beautiful things I've discovered about life, emotions, and meaning. 
+My life completely changed this year, and I've drawn to share all the beautiful things I've discovered about life, emotions, and meaning. 
 But I've also felt a lot of self-judgement: "this is so cringe," "you are so dramatic," "all the writers you admire don't write like this," or "you just want attention."
 So this post is why I think that writing vulnerably may actually be a great idea. 
 I'll start with how it pays to be honest about yourself, and then move onto how this applies to writing.
