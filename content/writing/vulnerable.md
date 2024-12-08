@@ -7,7 +7,7 @@ draft: False
 <figure style="text-align: center;">
   <img src="media/balloon.jpg" alt="" style="width:100%">
   <figcaption style="max-width: 95%; margin: auto;">
-    <em>We spend so much energy holding in "bad" feelings. Just let them fly. They'll look pretty.</em>
+    <em>We spend so much energy holding in "bad" feelings. Let them out. They'll look pretty.</em>
   </figcaption>
 </figure>
 
