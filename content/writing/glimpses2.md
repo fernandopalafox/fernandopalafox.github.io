@@ -1,5 +1,5 @@
 ---
-title: "Glimpses Vol. 2: The River of Life"
+title: "Glimpses 2"
 publishDate: 2024-11-20
 draft: False
 ---
