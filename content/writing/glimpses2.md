@@ -1,5 +1,5 @@
 ---
-title: "Glimpses 2"
+title: "Glimpses II"
 publishDate: 2024-11-20
 draft: False
 ---
