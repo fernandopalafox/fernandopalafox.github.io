@@ -1,5 +1,5 @@
 ---
-title: Glimpses Vol. 1
+title: Glimpses I
 publishDate: 2024-07-19
 draft: False
 ---
